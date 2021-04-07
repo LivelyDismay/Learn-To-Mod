@@ -6,8 +6,6 @@ WRONG! NO! I NEED CONFLICTS. Conflicts give me life. They give me purpose. They 
 
 Conflicts aren’t bad. They are **necessary**. In modding, “conflict” is synonymous with “something changed.” Mods are designed specifically to change the game in some way. With this worldview, it is obvious to see why conflicts are not bad, but are required.
 
-Let’s have a look at some different types of conflicts. Launch xEdit.
-
 Let’s have a look at some different types of conflicts. Launch xEdit.  
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/ConflictBasics1.png)  
 
