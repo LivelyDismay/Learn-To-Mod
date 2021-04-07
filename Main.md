@@ -37,3 +37,4 @@ Used for downloading, installing, organizing, and editing mods. Launches all ins
 
 -  [xEdit: Conflict Detection Basics - Learning to Read xEdit](https://github.com/LivelyDismay/Learn-To-Mod/blob/d2f265d8bd10b9711f2769594e7c3c5afabaf261/lessons/Conflict%20Basics.md)  
 -  [OMODs - What They Are and How They Work](https://github.com/LivelyDismay/Learn-To-Mod/blob/454ff9bb7a720273f9102c56c746509fabf5268b/lessons/OMODs%20Tutorial.md)  
+-  [Introduction to Mod Organizer 2](https://github.com/LivelyDismay/Learn-To-Mod/blob/45924ba2654319ba868cfa69495fb6ff3c9bfa44/lessons/Introduction%20to%20MO2.md)  
