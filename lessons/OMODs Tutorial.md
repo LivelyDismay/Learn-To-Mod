@@ -56,10 +56,10 @@ Below the Attach Point keywords, we have sections for `Property`. The data is na
 
 Let's go through this information line by line.
 
-A float is a variable. Or, in other words, a number. Yep, that’s it. Simple.  
-**MUL**+**ADD** is the Function Type here, which means it will **Mul**tiply and then **Add** the float variable to the base weapon’s variable.  
-The Property (AttackDamage, in this case) is saying WHICH variable from the base weapon is being modified by this Float value.  
-The float value here is below the Property: `0.250000`.  
+  -  A float is a variable. Or, in other words, a number. Yep, that’s it. Simple.  
+  -  **MUL**+**ADD** is the Function Type here, which means it will **Mul**tiply and then **Add** the float variable to the base weapon’s variable.  
+  -  The Property (AttackDamage, in this case) is saying WHICH variable from the base weapon is being modified by this Float value.  
+  -  The float value here is below the Property: `0.250000`.  
 
 So put this all together, and what does it mean? Well, you can press `Alt+2` and check the base damage on the 10mm pistol, but I can tell you right now that it is 18.
 
