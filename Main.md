@@ -40,3 +40,4 @@ Used for downloading, installing, organizing, and editing mods. Launches all ins
 -  [Introduction to Mod Organizer 2](https://github.com/LivelyDismay/Learn-To-Mod/blob/45924ba2654319ba868cfa69495fb6ff3c9bfa44/lessons/Introduction%20to%20MO2.md)  
 -  [Introduction to the Creation Kit - Making a Simple Worldspace Patch](https://github.com/LivelyDismay/Learn-To-Mod/blob/8058e13851771ea29cc9c7ab648f21e4e279bda2/lessons/Making%20a%20Simple%20Patch%20With%20the%20CK.md)  
 -  [Keywords - What They Are and Why You Should Care](https://github.com/LivelyDismay/Learn-To-Mod/blob/cd1a2c2edc7bd9873eefa0aa8d523d8f044d8a72/lessons/Keywords%20Intro.md)  
+-  [How To Remove a Master Requirement From a Plugin](https://github.com/LivelyDismay/Learn-To-Mod/blob/4975dfb6740d93d25e3eba89895238d4663aaea6/lessons/Remove%20a%20Master.md)  
