@@ -1,4 +1,4 @@
-# Making a Simple Patch With the Creation Kit
+# Introduction to the Creation Kit - Making a Simple Worldspace Patch
 
 Hey, we haven’t touched on anything in the CK yet, have we? Well, that certainly can’t stand. Let’s get in there!
 
