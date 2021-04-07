@@ -46,7 +46,7 @@ Welcome back to the 10mm weapon record! Bookmarks are great.
 Scroll down a bit in the right pane and look at the `APPR - Attach Parent Slots` Keywords section. See how it has a keyword for `ap_gun_receiver`? That means this weapon can have OMODs attached to the receiver slot - for example, the one we were looking at earlier. Nice!  
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/f0066fe771a2f79547bdac20bd577f7cc281773b/images/Omods10.png)  
 
-Press `Alt+1` again to head back to the OMOD record. So now we know what that Attach Point keyword is for. What about the Attach Parent Slots directly below it?
+Press `Alt+1` again to head back to the OMOD record. So now we know what that Attach Point keyword is for. What about the Attach Parent Slots directly below it?  
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/f0066fe771a2f79547bdac20bd577f7cc281773b/images/Omods11.png)  
 
 Well, they’re fairly self-explanatory, but let’s cover it anyway. The first one - `ap_gun_Dot` - lets you choose which sights you’re attaching. You know, Dot Sights, Iron Sights, Reflex Sights, etc. `ap_gun_ProjectileNode` and `ap_gun_Barrel` are both for barrels, such as Long Barrels, Ported Barrels, and things of that nature. Mag is for Magazine (Extended Mag, Quick Reload Mag), Scope is for...scopes….(ACOG Scope, 4x Zoom Scope), and Casing is for Receivers (Powerful Receiver, Hardened Receiver). These are all the sub-menus in the Weapons Workbench when you are modifying the 10mm Pistol.
