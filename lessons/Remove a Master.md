@@ -24,7 +24,7 @@ Scroll all the way to the bottom, where your Complex Sorting plugin is located. 
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/6134950cc7345a5fb8291b3b15de445292e40bf3/images/removemaster5.png)  
 
 Today we are using the Report Masters script. Use the Filter to find it, or scroll through the list.  
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/6134950cc7345a5fb8291b3b15de445292e40bf3/images/removemaster17.png)
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/6760faa7550de2779e1085d011862c3b0de5d830/images/removemaster17.png)  
 
 This pulls up a list of all the masters that the Sorting plugin has.  
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/6134950cc7345a5fb8291b3b15de445292e40bf3/images/removemaster6.png)  
