@@ -19,6 +19,8 @@ Please note: everything here **requires** a legitimately purchased copy of the g
 
 ## Modding Tools
 
+  -  *More tools may be added as new lessons for them are developed.*
+
 ### xEdit
 
 xEdit is a tool built for modding Bethesda Games, and is an all-encompassing term to refer to multiple programs, such as SSEEdit, TESEdit, and FO4Edit. They are all the same exact program. Renaming the .exe itself (or adding a custom argument when running the .exe) will allow it to be used on the game of your choice.
@@ -32,8 +34,6 @@ Official engine software released by Bethesda Game Studios. The Creation Kit is 
 Used for downloading, installing, organizing, and editing mods. Launches all installed files through a Virtual Directory in order to keep your game's installation folder as untouched as possible.
 
 Tutorials here will assume you are using MO2, and are launching programs such as xEdit and the Creation Kit through MO2.
-
-  -  *More tools may be added as new lessons for them are developed.*
 
 ## Available Lessons
 
