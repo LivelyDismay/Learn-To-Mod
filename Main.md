@@ -33,7 +33,7 @@ Used for downloading, installing, organizing, and editing mods. Launches all ins
 
 Tutorials here will assume you are using MO2, and are launching programs such as xEdit and the Creation Kit through MO2.
 
-*More tools may be added as new lessons for them are developed.*
+  -  *More tools may be added as new lessons for them are developed.*
 
 ## Available Lessons
 
