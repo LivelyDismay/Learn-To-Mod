@@ -11,7 +11,7 @@ There are **four steps** to this process, and **one optional _advanced_ step.**
 
 **Advanced:** Copying the _Schlongs of Skyrim_ compatible male body mesh and texture over to _all_ NPCs.
 
-### Configuring _XPMSE32_ to be compatible with _Schlongs of Skyrim_
+## Configuring _XPMSE32_ to be compatible with _Schlongs of Skyrim_
 
 The first step is making sure your male skeleton has a "bone" (huh huh huh) to attach the schlong to. This is accomplished by reinstalling a skeleton mod called _XMPSE32_ which is in almost every Wabbajack list. Find it, right-click, and choose this...
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/SOS.everywhere.01.png)
@@ -28,7 +28,7 @@ Obviously you'll want _Schlongs of Skyrim_ and nobody in their right mind still 
 
 Just click next now all the way through to finish at the end.
 
-### Installing Schlongs of Skyrim
+## Installing Schlongs of Skyrim
 
 The next step is to download _Schlongs of Skyrim_ from _Lover's Lab._ I'm not gonna link it because Github is kinda picky but it's very easily found. Be sure to get the SE version.
 
@@ -47,13 +47,13 @@ I can't show you pictures because this is a family-friendly website, mister, so 
 
 Be sure **NOT** to install the skeletons because we're using be using XMPSE32 for those and do **NOT** install the Shop as it will add worldspace edits I don't want to deal with right now.
 
-### Installing a _Schlongs of Skyrim_ compatible male body texture.
+## Installing a _Schlongs of Skyrim_ compatible male body texture.
 
 You could totally just quit here if you're only worried about your own wanger and you don't care how ugly you are. If this is not true, you'll want [Tempered Skins for Males.](https://www.nexusmods.com/skyrimspecialedition/mods/7902) Be sure to grab the "SOS Full" version obviously.
 
 Install the mod, but I'm not gonna show pics because they're kinda iffy and they're all honestly personal preference. Explore that latently gay self with extremely specific details about how your hot man bods look!
 
-### Arranging the mod(s) properly in MO2.
+## Arranging the mod(s) properly in MO2.
 
 Strangely enough, these mods are extremely unlikely to have any real conflicts with any ESPs in your list so the left pane is more important. You'll want _Schlongs of Skyrim_ to overwrite (be down below) anything referencing male bodies in your modlist, and _Tempered Skins_ just below that. _XPMSE_ needs to be after all of these. 
 
@@ -61,7 +61,7 @@ Arrange the left pane accordingly, and in the right pane, move _Schlongs of Skyr
 
 As for the various schlong "types" you can leave those at the end.
 
-### Advanced: Copying the _Schlongs of Skyrim_ compatible male body mesh and texture over to _all_ NPCs.
+## Advanced: Copying the _Schlongs of Skyrim_ compatible male body mesh and texture over to _all_ NPCs.
 
 Most Wabbajack modlists use male NPC overhauls and a lot of these use underwear by default. This is by far the most annoying part of this whole process. If you want not just all the men you loot to have schlongs, but all the people you talk to to have schlongs as well, like say if you want to do a hilarious `unequipall` on them or god forbid have sex with them, you will need to find _every instance_ of the following meshes in your modlist and overwrite them with the ones from _Schlongs of Skyrim_...
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/SOS.everywhere.07.png)
