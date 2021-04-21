@@ -46,3 +46,4 @@ Tutorials here will assume you are using MO2, and are launching programs such as
 -  [How to Properly Add and Patch Weapon Mods for Magnum Opus](https://github.com/LivelyDismay/Learn-To-Mod/blob/e700e10be41c1a70955e8426aee040bc647d90b3/lessons/Weapon%20Patching%20for%20Magnum%20Opus.md)  
 -  [Let's Install a New Mod!](https://github.com/LivelyDismay/Learn-To-Mod/blob/5a5b922602a09e1a3d175658fc1f98b81d31d790/lessons/Install%20a%20New%20Mod.md)  
 -  [Adding Schlongs to Anything! (NSFW) - by Cacophony](https://github.com/LivelyDismay/Learn-To-Mod/blob/6508d7c1a670f0843758426414eaf0f814bdb302/lessons/Adding%20Schlongs%20to%20Anything%20(NSFW).md)  
+-  [Editing Grass in Skyrim - by Wartortle](https://github.com/LivelyDismay/Learn-To-Mod/blob/d6463f337d70cc8953e674fccedf9104feee6325/lessons/Editing%20Grass%20in%20Skyrim.md)  
