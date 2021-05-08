@@ -5,7 +5,7 @@ So you've been following my tutorials for a while. You added a bunch of mods, yo
 
 See that one near the bottom? ESMs+ESPs? If that's over 254, your game is broken. *But I want more mods, Lively! You have almost 600, why can't I just add 20 more?* I have heard your cries, and I am here to help.
 
-Your first thought may be, "Well, I've heard of people merging plugins. Why don't I just do that?" Merging is an outdated method. It's a bit sloppy, it's difficult to work with, and the one of the only benefits is that it *looks* cleaner in your plugin list (the other being that it can reduce the number of ba2 archives being loaded, but that's a conversation for another day).
+Your first thought may be, "Well, I've heard of people merging plugins. Why don't I just do that?" Merging is an outdated method. It's a bit sloppy, it's difficult to work with, and one of the only benefits is that it *looks* cleaner in your plugin list (the other being that it can reduce the number of ba2 archives being loaded, but that's a conversation for another day).
 
 ESL flagging is the future. Or...the present. Why is it better than merging, you ask? Easy: it only takes a few clicks, and ESL-flagged plugins **DO NOT** take up one of the 254 slots in your plugin count. ESLs are all kinda pseudo-merged into the 255th slot at runtime. Neat! Let's do that, then!
 
