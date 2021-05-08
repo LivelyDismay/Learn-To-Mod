@@ -48,3 +48,4 @@ Tutorials here will assume you are using MO2, and are launching programs such as
 -  [Adding Schlongs to Anything! (NSFW) - by Cacophony](https://github.com/LivelyDismay/Learn-To-Mod/blob/6508d7c1a670f0843758426414eaf0f814bdb302/lessons/Adding%20Schlongs%20to%20Anything%20(NSFW).md)  
 -  [Editing Grass in Skyrim - by Wartortle](https://github.com/LivelyDismay/Learn-To-Mod/blob/d6463f337d70cc8953e674fccedf9104feee6325/lessons/Editing%20Grass%20in%20Skyrim.md)  
 -  [Conditions: How to Make Your Game a Unique Experience](https://github.com/LivelyDismay/Learn-To-Mod/blob/ae20498aa9f9ce8a146c9eb9346d19df08139408/lessons/Conditions.md)
+-  [Flagging Plugins as ESL: How-To, Pros, and Cons](https://github.com/LivelyDismay/Learn-To-Mod/blob/19f7c8d14daddadc1a6c0ec5c1ac9189878a9fd6/lessons/ESLFlagging.md)
