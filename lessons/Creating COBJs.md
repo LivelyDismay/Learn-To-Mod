@@ -74,7 +74,7 @@ Let's start simple and say you're upgrading a grenade rather than crafting a new
 Add another component!  
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/6cfadd95684d94ee42c561d4422ec856086d7031/images/cobj18.png)
 
-Just keep adding stuff until you're happy with your recipe. Easy. Feel free to change the amount of each component needed via editing the `Count`.
+Just keep adding stuff until you're happy with your recipe. Easy. Feel free to change the amount of each component needed via editing the `Count`.  
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/6cfadd95684d94ee42c561d4422ec856086d7031/images/cobj19.png)
 
 Do note that I don't particularly care about this, I'm simply picking random crap.
