@@ -19,7 +19,7 @@ Now you have a decision to make. Go through whatever records you want in whateve
 
 In case you aren't aware, I am just...incredibly lazy. Seriously. I find the laziest possible way to do things, because they're fast and they work for me. So let's be lazy together.
 
-Type `06033905` into the FormID search bar in the top left and press Enter. You'll jump down to the record for the grenaes.  
+Type `06033905` into the FormID search bar in the top left and press Enter. You'll jump down to the record for the grenades.  
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/6cfadd95684d94ee42c561d4422ec856086d7031/images/cobj4.png)
 
 Right click the record in the left pane and select `Copy as override into...`  
