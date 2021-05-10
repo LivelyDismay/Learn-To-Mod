@@ -49,3 +49,4 @@ Tutorials here will assume you are using MO2, and are launching programs such as
 -  [Editing Grass in Skyrim - by Wartortle](https://github.com/LivelyDismay/Learn-To-Mod/blob/d6463f337d70cc8953e674fccedf9104feee6325/lessons/Editing%20Grass%20in%20Skyrim.md)  
 -  [Conditions: How to Make Your Game a Unique Experience](https://github.com/LivelyDismay/Learn-To-Mod/blob/ae20498aa9f9ce8a146c9eb9346d19df08139408/lessons/Conditions.md)
 -  [Flagging Plugins as ESL: How-To, Pros, and Cons](https://github.com/LivelyDismay/Learn-To-Mod/blob/19f7c8d14daddadc1a6c0ec5c1ac9189878a9fd6/lessons/ESLFlagging.md)
+-  [Constructible Object Records](https://github.com/LivelyDismay/Learn-To-Mod/blob/ce929761139c0110e434e166faae81d33f06eb82/lessons/Creating%20COBJs.md)
