@@ -1,6 +1,6 @@
 # Testing Your Modlist
 
-Before we get started here, it is important to start with a brief disclaimer: while this may be useful to anyone building a custom modlist, it is designed to help potential train and recruit modlist testers for Wabbajack modlist submissions. Anyone is free to give it a shot, and please let us know in the [Wabbajack Discord](https://discord.gg/wabbajack) if there's anything at all we can help you with.
+Before we get started here, it is important to start with a brief disclaimer: while this may be useful to anyone building a custom modlist, it is designed to help train and recruit potential modlist testers for Wabbajack modlist submissions. Anyone is free to give it a shot, and please let us know in the [Wabbajack Discord](https://discord.gg/wabbajack) if there's anything at all we can help you with.
 
 You've downloaded and installed your mods. You patched everything you've seen that needs patching and addressed any potential issues. It's time for a final rundown.
 
