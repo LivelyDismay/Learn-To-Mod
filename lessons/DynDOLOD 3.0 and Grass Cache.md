@@ -36,7 +36,7 @@ Finally, you’ll want to install the `SSE-Terrain-Tamriel Extended` ESM. This i
 ### xLodGen
 Once you have all of that installed and the output paths set, activate `SSE-Terrain-Tamriel Extended` and move it to the correct position in the right pane as mentioned in the previous section. If you are using `A Quality World Map`, move that very high up in your Mod Organizer 2. I tend to move it and place it under `DynDOLOD Resources`, which should be one of the first mods in your left pane, as shown in the previous picture.
 
-  -  *Note: Some mods such as Majestic Mountains and Cathedral Landscapes come with files for Lod Generation. You will want to have these files activated during the process of running xLodGen. Majestic Mountains Lods in particular needs to be active all the way through until Occlusion generation.
+  -  *Note: Some mods such as Majestic Mountains and Cathedral Landscapes come with files for Lod Generation. You will want to have these files activated during the process of running xLodGen. Majestic Mountains Lods in particular needs to be active all the way through until Occlusion generation.*
 
 Then select xLodGenx64 from the executables dropdown in MO2 and press `Run`. It will proceed to load your entire load order. When it is done, a Dialogue box will open similar to the following:
 
@@ -58,12 +58,14 @@ A note on these settings: to improve performance, you can set the `OverWriteGras
 
 Once you have applied your settings, save the file and close it. Go back into MO2, click on the spanner and screwdriver icon, and then select `PreCache Grass`. A pop-up will appear confirming that you wish to do this. Click `Yes`. Go grab a coffee and a good book or magazine - this can take a very long time.
 
-Once it is completed, a pop-up will appear saying that grass generation has been completed. **If you do not have a mod set to catch files generated during gameplay, the grass will be in the `overwrite` mod at the bottom of your Mod Oragnizer's left pane (assuming you have the mods sorted by `Priority`.** You should see a folder called `grass` with a load of `.cgd` files inside. Move that folder to the mod called `grass cache` that you created. Press `F5` to refresh MO2 and then activate the mod.
+Once it is completed, a pop-up will appear saying that grass generation has been completed. **If you do not have a mod set to catch files generated during gameplay, the grass will be in the `overwrite` mod at the bottom of your Mod Oragnizer's left pane (assuming you have the mods sorted by `Priority`).** You should see a folder called `grass` with a load of `.cgd` files inside. Move that folder to the mod called `grass cache` that you created. Press `F5` to refresh MO2 and then activate the mod.
 
 ### TexGen
 Activate the `TexGen Output` mod in your MO2 left pane and run TexGenx64. Allow the tool to load your mods and then choose the following settings. **If you are not doing grass lods, untick the grass checkbox.** Note the output path as to where TexGen is sending the output.
 
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass4.jpg)
+
+  -  *Note: Some grass mods do not have the bounds correctly set which can result in the grass not being genned correctly. To fix this, load your grass mod in the Creation Kit, go to the grass section, select all of the new grass, right click and press `recalculate bounds`. This will update the `OBND` data to properly reference the bounds of the mesh which will allow the lod to be generated correctly. Known grass mods that have this issue include Veydosebrom Regions, which requires the BSA unpacking to update. It is possible other mods also have this issue.*
 
 Press `Start` and allow the tool to generate the textures. Once done, the tool will open a pop-up. Press `Exit`. Open the folder where the TexGen output is and copy it across to your `TexGen Output` mod. Press `F5` to refresh `Mod Organizer` and then activate it.
 
@@ -85,7 +87,7 @@ Ensure that your xLodGen, TexGen and Grass Cache (if using) is active. Run DynDO
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass5.jpg)
 
 Another note on settings. Billboard brightness is one that you adjust if you find that your lods are too bright in game. I have this set lower due to some of the tree mods I use. Ultra trees generates 3D tree lod and can be performance-intensive depending on the tree mods you use. Checking `Generate Tree Lod` will generate "Hybrid Lods" which are less performance intensive at the cost of a minor visual decrease in quality. If you have 4GB vram or less, I would recommend not doing Ultra Tree Lod. Anything above `1024` on tile size billboard is not recommended as you are beyond the threshold of visual quality to performance. And finally, the rules govern how DynDOLOD will generate things and at what quality.  
-  -  *Note: Certain tree mods require specialised tree rules in order for them to render properly in the worldspace. Known mods that require them include: Myrkvior, Trees Addon SE and Skyrim Flora Overhaul. It is likely there are more tree mods that require special rules. 
+  -  *Note: Certain tree mods require specialised tree rules in order for them to render properly in the worldspace. Known mods that require them include: Myrkvior, Trees Addon SE and Skyrim Flora Overhaul. It is likely there are more tree mods that require special rules.* 
 
 Once you have configured the settings how you wish, click `OK` and DynDOLOD will begin its generation. This can take a very long time depending on how many worldspaces you have, as well as your system specifications. DynDOLOD 3.0 is multi-threaded now so on machines with multiple cores, it may complete faster than you think, if you've used DynDOLOD before. Once it is completed, a pop-up will appear. Press `Save and Exit`. Navigate to the output folder for your DynDOLOD generated files and move the data into the mod you created called `DynDOLOD Output`. Press `F5` to reload MO2 and then activate the mod. `DynDOLOD.esm` should be moved to be the last ESM after your worldspace mods. In my case, that is Wyrmstooth so I place it after `Wyrmstooth.esm`. `DynDOLOD.esp` should be the last ESP in your load order for now.
 
@@ -95,7 +97,7 @@ If you have not set a duplicate xLodGen for occlusion, change the output directo
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass6.jpg)
 
 Press `Generate`.  
-  -  *Note: if you have done grass cache, this process can take a very long time and use a lot of system resources.  
+  -  *Note: if you have done grass cache, this process can take a very long time and use a lot of system resources.*  
 
 Once it has completed, a message will display in the logs saying “Generation complete”. Close xLodGen, refresh MO2, and then activate the `Occlusion Output` mod. Ensure that `Occlusion.esp` is the last plugin in your load order.
 
