@@ -51,3 +51,4 @@ Tutorials here will assume you are using MO2, and are launching programs such as
 -  [Flagging Plugins as ESL: How-To, Pros, and Cons](https://github.com/LivelyDismay/Learn-To-Mod/blob/19f7c8d14daddadc1a6c0ec5c1ac9189878a9fd6/lessons/ESLFlagging.md)
 -  [Constructible Object Records](https://github.com/LivelyDismay/Learn-To-Mod/blob/ce929761139c0110e434e166faae81d33f06eb82/lessons/Creating%20COBJs.md)
 -  [DynDOLOD 3.0 and Grass Cache - by Althro](https://github.com/LivelyDismay/Learn-To-Mod/blob/c176a650828eeb0394c007995d024a3e7eae1227/lessons/DynDOLOD%203.0%20and%20Grass%20Cache.md)
+-  [Compiling a Modlist for Wabbajack - by ForgottenGlory](https://github.com/LivelyDismay/Learn-To-Mod/blob/b8ef1ef6b0929d59657091dcb7101371974b17ab/lessons/Compiling%20a%20Modlist%20for%20Wabbajack.md)
