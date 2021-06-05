@@ -253,8 +253,7 @@ Magnum Opus now has support for some Creation Club mods as of version 3.2 of the
   * Neon Flats  
   * Noir Penthouse  
   * Nuka-Cola Collector Workshop  
-  * Pint-Sized Slasher  
-  * Power Armor Paint Jobs  
+  * Pint-Sized Slasher   
   * Prototype Gauss Rifle  
   * Quake Thunderbolt  
   * Sentinel Control System Companion  
@@ -272,7 +271,7 @@ Magnum Opus now has support for some Creation Club mods as of version 3.2 of the
   * Zetan Arsenal  
   </details>
 
-Pipboy Paint Jobs are **NOT** supported.
+Pipboy Paint Jobs and Power Armor Paint Jobs are **NOT** supported.
 
 If you have a Missing Masters warning in Mod Organizer 2 after following this set of instructions for the Creation Club profile, then there are CC mods in this list you don't have.
 
