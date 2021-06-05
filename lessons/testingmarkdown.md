@@ -272,6 +272,8 @@ Magnum Opus now has support for some Creation Club mods as of version 3.2 of the
   * Zetan Arsenal  
   </details>
 
+Pipboy Paint Jobs are **NOT** supported.
+
 If you have a Missing Masters warning in Mod Organizer 2 after following this set of instructions for the Creation Club profile, then there are CC mods in this list you don't have.
 
 If you have CC mods that aren't in this list, that means I don't own them (yet?), so I cannot provide support. I'm doing my best here, please bear with me.
@@ -383,7 +385,7 @@ That's it! Have fun!
 
 - Is Creation Club content compatible?
 
-  - No idea. I don't own it and I don't use it. CC content is not supported.
+  - Some. Please see the [Creation Club Support](#creation-club-support) section above for details.
 
 
 - Can I add more mods or remove some mods I don't want?
