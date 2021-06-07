@@ -380,9 +380,14 @@ That's it! Have fun!
   - Check Magnum Opus' Mod Organizer 2. Look at the top right corner for a red triangle with a yellow number. Click it. If one of the warnings says "incompatible plugins" and spits out an error about Buffout 4, then you're missing the memory patch. This can happen in some cases. Reinstall VCRedit, re-copy Game Folder Files, launch the game through MO2 once, and close it again. The warning should now be gone, Buffout should be loaded properly, and you can go on with your day.
 
 
-  -  Hey Lively, foggy weather looks like shit, what the hell?
+  -  Hey Lively, where is the trash can from your mod in Sanctuary?
 
-    -  I’m busy playing games instead of obsessing over mods for a little while, just wait it out til the weather changes. This is such a minor, insignificant issue that I genuinely don’t really care right now.
+    -  The new [Sanctuary Overhaul](https://www.nexusmods.com/fallout4/mods/51148) doesn't really have trash, so auto-scrapping trash is no longer a required feature in Magnum Opus. The trash can has been deleted.
+
+
+  -  Why can't I build City Plans in Sanctuary?
+
+    -  Multiple reasons. First, city plans aren't compatible with the Sanctuary overhaul, so the Sanctuary City Plans have been disabled. Second, it is extremely easy to destroy your game by building too much in Sanctuary/Red Rocket/Abernathy, so Anom's Sanctuary Overhaul is really doing us a huge favor, whether you know it or not.
 
 
 - Is Creation Club content compatible?
