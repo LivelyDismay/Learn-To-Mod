@@ -29,6 +29,7 @@
 - [FAQ](#faq)
 - [Controller Support](#controller-support)
 - [ENB](#enb)
+- [More Modular CC Support](#more-modular-cc-support)
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 
@@ -279,6 +280,8 @@ If you have CC mods that aren't in this list, that means I don't own them (yet?)
 
 You may also notice some other mods are deactivated in the CC Profile - namely, some armors, power armors, and weapons. This is because some CC mods act as pseudo variants of these, and I didn't want "doubles" essentially.
 
+If you only have some CC content in the approved list above, please check the [More Modular CC Support](#more-modular-cc-support) section below.
+
 ## In-Game MCM Options
 
 *_Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
@@ -425,11 +428,23 @@ Then find the `[General]` section and change `bGamepadEnable=` from a `0` to a `
 
 I don't use an ENB. I never saw the need. If you want to try one, feel free.
 
+## More Modular CC Support
+
+Please before we begin that there is NO SUPPORT WHATSOEVER for CC content outside of the previously written list, with a strong emphasis on Pipboy and Power Armor Paint Jobs. Pipboy Paint Jobs will **most likely cause a CTD at the main menu.**
+
+In Mod Organizer 2's profile dropdown in the top-left, you'll see a third profile called `Opus CC Only`. This profile has no mods active that are not required for the Creation Club mods and my various patches. Activate this profile, then scroll to the bottom of the mod list in the left pane. The very last mod will be called `Lively and Webmetz's CC Patches`. Right click on this mod and select `Reinstall Mod`.
+
+A FOMOD will pop up on your screen. Options in this FOMOD will be automatically selected for you based on the CC plugins in your load order. ALL YOU HAVE TO DO IS CLICK NEXT A FEW TIMES, THEN CLICK INSTALL. When prompted, select `Replace`.
+
+Switch back to the `Magnum Opus - CC Edition` profile. Deactivate `Lively and Webmetz's CC Patches` and then activate it again. This will enable all the new plugins selected by the FOMOD. Each individual option will install my patch when applicable, as well as an individual sorting patch for each CC plugin. **A very special thanks to Webmetz for going through the extremely tedious process of doing this for all of us.**
+
 ## Credits and Thanks
 
-- Erri120 - Repository template
-- AUGSpeed, Total, Kaethela, and the rest of the Wabbajack team for all of their ongoing advice and support.
-- Halgari, creator of Wabbajack, without whom none of us would be here.
+- Erri120, for all of your work on Wabbajack and the website, and for making a readme template like this easy for an idiot like me to use.
+- AUGSpeed, for being a great source of information. I really look up to you, I respect the hell out of your work, and you're somehow the nicest damn dude on the planet.
+- Kaethela, for all of your ongoing support - both in regards to the modlist and listening to my endless bitching.
+- Total, for your multiple contributions and advice over the last year and a half (and counting).
+- Halgari, creator of Wabbajack, without whom none of us would be here. You have improved over 100,000 people's lives and never asked for a single thing in return. That's *insane*.
 
 ## Contact
 
