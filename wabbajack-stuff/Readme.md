@@ -29,7 +29,7 @@
 - [FAQ](#faq)
 - [Controller Support](#controller-support)
 - [ENB](#enb)
-- [More Modular CC Support](#more-modular-cc-support)
+- [Widescreen Support](#widescreen-support)
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 
@@ -429,13 +429,9 @@ Then find the `[General]` section and change `bGamepadEnable=` from a `0` to a `
 
 I don't use an ENB. I never saw the need. The ENB binaries are present for other purposes. If you wish to add an ENB preset, go for it, but I will provide zero support for such endeavors.
 
-## More Modular CC Support
+## Widescreen Support
 
-Please before we begin that there is NO SUPPORT WHATSOEVER for CC content outside of the previously written list, with a strong emphasis on Pipboy and Power Armor Paint Jobs. Pipboy Paint Jobs will **most likely cause a CTD at the main menu.** There is also really no support whatsoever for this section, but I am against taking away the freedom for you to do as you like, so maybe this will help if, say, you only own a few CC mods.
-
-In Mod Organizer 2's profile dropdown in the top-left, you'll see a third profile called `Opus CC Only`. This profile has no mods active that are not required for the Creation Club mods and my various patches. Activate this profile, then launch xEdit through MO2. Load all modules. When it is finished, right click anywhere in the left pane and select `Apply Script`, then choose the `M8r Complex Sorter` script. Change the output .esp name to something unique, and click `Generate`.
-
-When it is finished, close xEdit and save the new plugin. Switch back to the `Magnum Opus - CC Profile` in MO2, and activate your new plugin.
+I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously. A generous discord user by the name of bjdripley wrote an [Ultrawide Compatibility Guide for Magnum Opus](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) that you may find useful.
 
 ## Credits and Thanks
 
