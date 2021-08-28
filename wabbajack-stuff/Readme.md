@@ -393,7 +393,7 @@ That's it! Have fun!
 
 - Can I add more mods or remove some mods I don't want?
 
-  - Can you? Yes. Will I help you? Maybe, but please discuss it in either general channels or my personal Discord server, and be sure to disclose the fact that you've edited the list before reporting any bugs or crashes. If you're open and honest with me, I'm honestly much more willing to help you through your issues.
+  - Can you? Yes. Will I help you? Maybe, but **please discuss it in either general channels or my personal Discord server**, and be sure to disclose the fact that you've edited the list before reporting any bugs or crashes. If you're open and honest with me, I'm honestly much more willing to help you through your issues.
 
 
 - Why is my crosshair on my pipboy?
