@@ -380,6 +380,12 @@ That's it! Have fun!
 
   - I know. I don't know how to fix it because I don't know how to use flash or jpexs. You can either accept this visual issue or you can...play something else. Sorry, I like the perks and the minor visual issues don't bother me.
 
+- I'm having trouble downloading FO4LODGen Resources and/or More Feral Ghouls.
+
+  - Download them manually, put the archives in your Downloads folder, and restart Wabbajack.
+  - [FO4LODGen Resources](https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4)
+  - [More Feral Ghouls](https://mega.nz/file/CV0xHADJ#lzGJk4BP1YYyTP2GmmRcSQD01Ca8URs-jkxJv3jSNdc)
+
 
 - I am having random crashes.
 
