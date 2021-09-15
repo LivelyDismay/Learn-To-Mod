@@ -144,6 +144,13 @@ You may notice some mods are deactivated. These are for the Creation Club profil
 
 If this Modlist receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
+Magnum Opus updates based on a [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning) system.
+
+Generally speaking:
+- Full x.0 (2.0, 3.0, etc) updates requires a new game.
+- Major x.x (2.1, 2.2 etc) updates requires a new game.
+- Minor x.x.x (2.1.1, 2.1.2) updates can be applied to an ongoing playthrough.
+
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
