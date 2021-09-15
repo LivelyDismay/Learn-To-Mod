@@ -35,7 +35,7 @@
 
 # Preamble
 
-### Magnum Opus ![build-status](https://img.shields.io/endpoint?label=%20&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fmagnum_opus%2Fbadge.json)
+### Magnum Opus
 
 Magnum Opus is what one would describe as a "kitchen sink list." There is no specific focus or aspect I really care about. There is no specific goal I'm trying to achieve. I just want to have fun.
 
