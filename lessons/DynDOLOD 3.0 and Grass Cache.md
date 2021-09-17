@@ -79,7 +79,7 @@ Run TexGenx64 and Allow the tool to load your mods and then choose the following
 
   -  *Note: Some grass mods do not have the bounds correctly set which can result in the grass not being genned correctly. To fix this, load your grass mod in the Creation Kit, go to the grass section, select all of the new grass, right click and press `recalculate bounds`. This will update the `OBND` data to properly reference the bounds of the mesh which will allow the lod to be generated correctly. Known grass mods that have this issue include Veydosebrom Regions, which requires the BSA unpacking to update. It is possible other mods also have this issue.*
 
-Press `Start` and allow the tool to generate the textures. Once done, the tool will open a pop-up. Press `Exit` or `Zip&Exit` if you wish to have the output zipped up for easier addition to a mod-manager or redistribution.
+Press `Start` and allow the tool to generate the textures. Once done, the tool will open a pop-up. Press `Exit` or `Zip&Exit` if you wish to have the output zipped up for easier addition to a mod-manager or redistribution. In this case, we're choosing `Zip&Exit` as that allows us to add the output as a new mod in MO2 easier.
 
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass8.png)
 
@@ -89,12 +89,12 @@ Add the output as a new mod in Mod Organizer 2, and then activate it.
 
 #### Enabling advanced mode (Optional)
 
-To enable grass cache, you need to edit a line in the `DynDOLOD_SSE.ini` file. Navigate to where your DynDOLOD is located, open up the `Edit Scripts` folder, and then the DynDOLOD folder. Open the `DynDOLOD_SSE.ini` file and change the following lines:  
+  - *Note: This portion isn't totally necessary as you can press the advanced button when DynDOLOD opens. I prefer to not have to press that button so set it in the ini file.*
+
+If you want to have DynDOLOD start in advanced mode each time and not have to press the advanced button, you need to edit a line in the `DynDOLOD_SSE.ini` file. Navigate to where your DynDOLOD is located, open up the `Edit Scripts` folder, and then the DynDOLOD folder. Open the `DynDOLOD_SSE.ini` file and change the following lines:  
 `Wizard=0`  
 
 Save the .ini file and reopen MO2.
-
-  - *Note: This portion isn't totally necessary as you can press the advanced button when DynDOLOD opens. I prefer to not have to press that button so set it in ini file.*
 
 #### Generation
 
