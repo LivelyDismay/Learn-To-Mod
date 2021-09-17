@@ -9,12 +9,12 @@ Well, you’re in luck as this guide goes over how to do it. I’ll not be cover
 
 Here is a list of things you will need: 
 
-The latest [xLodGen and SSE Tamriel Extended.esm](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/)  
-[DynDOLOD 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382)  
-[DynDOLOD 3.00 Reources](https://www.nexusmods.com/skyrimspecialedition/mods/32382)  
-[No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161) (only needed if doing grass lods. You need the ini and the MO2 precache plugin)  
-[Landscape Fixes for Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005) (optional but needed if doing grass cache)
-[Worldspaces with Grass SSEEdit Script](https://www.nexusmods.com/skyrimspecialedition/mods/55152)  
+- The latest [xLodGen and SSE Tamriel Extended.esm](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/)  
+- [DynDOLOD 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382)  
+- [DynDOLOD 3.00 Reources](https://www.nexusmods.com/skyrimspecialedition/mods/52897)  
+- [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161) (only needed if doing grass lods. You need the ini and the MO2 precache plugin)  
+- [Landscape Fixes for Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005) (optional but needed if doing grass cache)
+- [Worldspaces with Grass SSEEdit Script](https://www.nexusmods.com/skyrimspecialedition/mods/55152)  
 
 ## The Main Steps
 
