@@ -146,9 +146,9 @@ If this Modlist receives an update, please check the Changelog before doing anyt
 
 Magnum Opus updates based on a [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning) system.
 
-Generally speaking:
-- Full x.0 (2.0, 3.0, etc) updates requires a new game.
-- Major x.x (2.1, 2.2 etc) updates requires a new game.
+Generally speaking:  
+- Full x.0 (2.0, 3.0, etc) updates requires a new game.  
+- Major x.x (2.1, 2.2 etc) updates requires a new game.  
 - Minor x.x.x (2.1.1, 2.1.2) updates can be applied to an ongoing playthrough.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
