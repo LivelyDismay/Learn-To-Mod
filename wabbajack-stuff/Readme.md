@@ -10,7 +10,6 @@
     - [Change Steams Update Behavior](#change-steams-update-behavior)
     - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Fallout 4](#clean-fallout-4)
-    - [Start Fallout 4](#start-fallout-4)
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
       - [Problems with Wabbajack](#problems-with-wabbajack)
@@ -81,18 +80,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 #### Clean Fallout 4
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Fallout 4` folder in `Documents/My Games/`.
-
-#### Start Fallout 4
-
-After you have done everything above and got a clean Fallout 4 installation ready, start the Launcher and open the _Options_ menu.
-
-1. Click on _High_
-2. Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
-3. Set _Antialiasing_ to _Off_
-4. Check _Windowed Mode_ and _Borderless_
-
-Start the game and exit once you're in the main menu.
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Fallout 4` folder in `Documents/My Games/`. **Make sure you run the game once** to establish your registry path - otherwise, Wabbajack will be unable to locate the game directory, and thus cannot install the modlist.
 
 ### Using Wabbajack
 
@@ -100,15 +88,15 @@ Start the game and exit once you're in the main menu.
 
 Let's get to the actual installation..
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases). You need to download the `Wabbajack.exe` file ONLY. Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`.
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases). You need to download the `Wabbajack.exe` file ONLY. Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop.
 
 Launch Wabbajack. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Magnum Opus, and you will be forwarded to the next screen when it is finished.
 
-Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Magnum Opus`. The `Download Location` will update automatically.
+Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Magnum Opus`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories.
 
 Click the `Play` arrow.
 
-##### Problems with Wabbajack
+### Problems with Wabbajack
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
@@ -117,6 +105,11 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait until I update the Modlist. I'm typically extremely quick to respond to a situation such as this.
 
 Most commonly, this will happen if a mod is hidden from Nexus. Contact me in Discord if this happens, and I can force the list to show as Under Maintenance until it comes back, and then I can fix it when it's unhidden.
+
+**Mega links aren't downloading**:
+
+Download this manually, put the archive in your Downloads folder, and restart Wabbajack.  
+ - [FO4LODGen Resources](https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4)  
 
 **x is not a whitelisted download**:
 
@@ -386,12 +379,6 @@ That's it! Have fun!
 - Some of my perk chart icons are way off-center.
 
   - I know. I don't know how to fix it because I don't know how to use flash or jpexs. You can either accept this visual issue or you can...play something else. Sorry, I like the perks and the minor visual issues don't bother me.
-
-- I'm having trouble downloading FO4LODGen Resources and/or More Feral Ghouls.
-
-  - Download them manually, put the archives in your Downloads folder, and restart Wabbajack.
-  - [FO4LODGen Resources](https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4)
-  - [More Feral Ghouls](https://mega.nz/file/CV0xHADJ#lzGJk4BP1YYyTP2GmmRcSQD01Ca8URs-jkxJv3jSNdc)
 
 
 - I am having random crashes.
