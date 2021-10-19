@@ -154,6 +154,8 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## BiRaitBec Texture Optimization
 
+**Yes this step is required, stop asking me every single day.**
+
 Go to [BiRaitBec’s Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
 Manually download the **WorkBase** file.  
 Manually download the **Main Repack** files (Part One, Part Two, and Part Three).  
