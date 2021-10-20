@@ -192,7 +192,7 @@ After all of these steps are complete, you may delete the WorkBase folder. If yo
 Launch Mod Organizer 2, and activate the `[NoDelete] Workbase Optimized Textures` mod.
 
 Your PatchedBA2 files should match these sizes:  
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/workbase%20file%20sizes.png)
+![alt text](https://raw.githubusercontent.com/LivelyDismay/Learn-To-Mod/main/images/workbase%20file%20sizes.png)
 
 ## Noteworthy Mods
 
