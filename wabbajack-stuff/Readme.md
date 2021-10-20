@@ -191,7 +191,8 @@ After all of these steps are complete, you may delete the WorkBase folder. If yo
 
 Launch Mod Organizer 2, and activate the `[NoDelete] Workbase Optimized Textures` mod.
 
-*Note that you CANNOT use the HD DLC for BiRaitBec’s texture optimization. You’ll see missing textures everywhere if you do.*
+Your PatchedBA2 files should match these sizes:  
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/c2561395e34ea708d3a64dd1cae66c26035dae95/images/workbase%20file%20sizes.png)
 
 ## Noteworthy Mods
 
