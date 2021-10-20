@@ -387,6 +387,7 @@ That's it! Have fun!
 - I am having random crashes.
 
   - Check Magnum Opus' Mod Organizer 2. Look at the top right corner for a red triangle with a yellow number. Click it. If one of the warnings says "incompatible plugins" and spits out an error about Buffout 4, then you're missing the memory patch. This can happen in some cases. Reinstall VCRedit, re-copy Game Folder Files, launch the game through MO2 once, and close it again. The warning should now be gone, Buffout should be loaded properly, and you can go on with your day.
+  - Another common cause for this is faulty Workbase files. Go back and verify the sizes of yours match the image above. If not, redo the Workbase steps.
 
 
 - Is Creation Club content compatible?
