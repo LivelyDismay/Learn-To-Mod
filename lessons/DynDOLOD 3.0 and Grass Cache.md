@@ -58,6 +58,15 @@ Copy this data and thengGo into your `No Grass In Objects` mod, open the INI fil
 
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass6.png)
 
+One other thing you should also check is if your grass has object bounds set. Any grass record with no object bounds set will not generate anything during the process and will defeat the point of pre-caching. To do so, first filter your entire load order for grass records like so:
+
+Then copy every record to a new plugin, this can be a esp flagged as esl as it will only contain overwrites:
+
+You then need to open this new plugin in the creation kit, highlight all the grass and then right click and recalculate bounds:
+
+Then place this patch in a position where it overwrites all of your other grass records
+
+
 Staying in the ini file, change the following lines to read the following:
 
 - `UseGrassCache = True`  
