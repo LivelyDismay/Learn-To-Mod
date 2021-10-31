@@ -68,7 +68,23 @@ Staying in the ini file, change the following lines to read the following:
 
 A note on these settings: to improve performance, you can set the `OverWriteGrassDistance` and `OverwriteGrassFadeRange` to be lower. For the former, a setting of 8000 is a bit more than vanilla and may improve your performance. If you just wish to cache the grass but not for DynDOLDOD, change the `DynDOLODGrassMode` back to `=0`. `SuperDenseMode` is another section that you can alter if you wish to tone down the grass amount. I leave this set at `7` as it gives a good balance of performance to visuals; however, setting this to `6` can help improve performance.
 
-Once you have applied your settings, save the file and close it. Go back into MO2, click on the spanner and screwdriver icon, and then select `PreCache Grass`. A pop-up will appear confirming that you wish to do this. Click `Yes`. Go grab a coffee and a good book or magazine - this can take a very long time.
+Next: 
+
+You should check if your grass has object bounds set. Any grass record with no object bounds set will not generate anything during the process and will defeat the point of pre-caching. To do so, first filter your entire load order for grass records like so:
+
+![2021-10-28 01_48_49-Filter](https://user-images.githubusercontent.com/20669755/139170222-0c69f410-27f7-413b-babd-441e195e5ce4.png)
+
+Then copy every record to a new plugin, this can be a esp flagged as esl as it will only contain overwrites:
+
+![2021-10-28 01_50_20-SSEEdit 4 0 3h (Hotfix 1) x64](https://user-images.githubusercontent.com/20669755/139170231-7fa3986f-1485-418f-95b6-63de4bd03e3f.png)
+
+You then need to open this new plugin in the creation kit, highlight all the grass and then right click and recalculate bounds:
+
+![2021-10-28 01_57_36-Object Window](https://user-images.githubusercontent.com/20669755/139170230-26a5da79-7293-44dc-81c0-4b3e23bc37e5.png)
+
+Then place this patch in a position where it overwrites all of your other grass records
+
+Once you have done all of the above, save the ini file and close it. Go back into MO2, click on the spanner and screwdriver icon, and then select `PreCache Grass`. A pop-up will appear confirming that you wish to do this. Click `Yes`. Go grab a coffee and a good book or magazine - this can take a very long time.
 
 Once it is completed, a pop-up will appear saying that grass generation has been completed. **If you do not have a mod set to catch files generated during gameplay, the grass will be in the `overwrite` mod at the bottom of your Mod Oragnizer's left pane (assuming you have the mods sorted by `Priority`).** You should see a folder called `grass` with a load of `.cgd` files inside. Move that folder to the mod called `grass cache` that you created. Press `F5` to refresh MO2 and then activate the mod.
 
@@ -104,6 +120,7 @@ Ensure that your xLodGen, TexGen and Grass Cache (if using) is active. Run DynDO
 
 Another note on settings. Billboard brightness is one that you adjust if you find that your lods are too bright in game. I have this set lower due to some of the tree mods I use. Ultra trees generates 3D tree lod and can be performance-intensive depending on the tree mods you use. Checking `Generate Tree Lod` will generate "Hybrid Lods" which are less performance intensive at the cost of a minor visual decrease in quality. If you have 4GB vram or less, I would recommend not doing Ultra Tree Lod. Anything above `1024` on tile size billboard is not recommended as you are beyond the threshold of visual quality to performance. And finally, the rules govern how DynDOLOD will generate things and at what quality. 
 
+
   -  *Note: Certain tree mods require specialised tree rules in order for them to render properly in the worldspace. Known mods that require them include: Myrkvior, Trees Addon SE and Skyrim Flora Overhaul. It is likely there are more tree mods that require special rules.* 
 
 If you wish to generate Grass cache, ensure that the grass lod option is enabled and that the mode is set to `1` as that was the mode that we used for grass generation. You can change the density if you wish, however I have left it as default.
@@ -119,3 +136,5 @@ Once you have configured the settings how you wish, click `OK` and DynDOLOD will
 Add the zipper output file as a new mod in MO2, name it `DynDOLOD Output` and activate the mod. On the right pane, `DynDOLOD.esm` should be moved to be the last ESM after your worldspace mods. In my case, that is Wyrmstooth so I place it after `Wyrmstooth.esm`. `DynDOLOD.esp` should be the second last and `Occlusion.esp` shoud be the last plugin in your load order.
 
 You’re all done. Go and enjoy your new and improved Skyrim!
+
+
