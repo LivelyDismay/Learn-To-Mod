@@ -415,7 +415,7 @@ That's it! Have fun!
 
 - I've been following along your [totally shitty modding tutorials](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) and they suck! My game keeps crashing when I add stuff after following your instructions! What the hell, man?
 
-  - That sucks. Post in general-f4-discussions in the Wabbajack server, or any channel my personal discord server. If you're not a dick, I'm genuinely more than happy to help if I can.
+  - That sucks. Post in general-f4-discussions in the Wabbajack server, or any channel in my personal discord server. If you're not a dick, I'm genuinely more than happy to help if I can.
 
 ## Controller Support
 
