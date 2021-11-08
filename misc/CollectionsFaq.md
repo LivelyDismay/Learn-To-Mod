@@ -31,7 +31,7 @@ Absolutely! In the Collection Workshop on Vortex, you'll see another dropdown ne
 
 ## Building a Collection: How do I include Script Extender?
 
-Download Script Extender like you normally would. In the Collection Workshop, set the mod to Browse a Websiteand enter in the URL for the silverlock website, along with instructions on which link to click on.
+Download Script Extender like you normally would. In the Collection Workshop, set the mod to Browse a Website and enter in the URL for the silverlock website, along with instructions on which link to click on.
 
 Once Script Extender is installed, navigate to your `Mods` tab in Vortex and Enable the script extender mod. Double click it and change the Mod Type to `Engine Injector`.
 
