@@ -17,7 +17,7 @@ There's really only one primarily limitation: you cannot under any circumstances
 ## Building a Collection: How do you handle FOMOD installers?
 
 In your Collection Workshop on Vortex, you'll see a dropdown menu with three options next to each mod:  
-  -  **Fresh Install**: Acts as if the user just installed the mod themselves. The FOMOD options and they can choose whatever options they want.  
+  -  **Fresh Install**: Acts as if the user just installed the mod themselves. The FOMOD opens and they can choose whatever options they want.  
   -  **Same Installer Options**: Acts as if the user just installed the mod themselves; however, the FOMOD's pre-selected options will be set to the options the Collection Curator chose during their own installation.  
   -  **Replicate**: Bypasses the FOMOD entirely. Instead of installing the mod normally, Vortex will check your installed mod, read what files are inside, then find the relevant source archive tied to the mod. Once Vortex opens that archive, it will simply move the files from the archive into the mod folder to match how the Collection Curator has it set up on their end.
 
