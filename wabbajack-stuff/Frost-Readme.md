@@ -182,7 +182,7 @@ Navigate to your Fallout4/Data folder and **copy** these 15 files:
 Inside the new folder, you should see another folder called “**textures**”. **Cut** this textures folder and **paste** it into **Workbase/PatchedFiles**.
 **Repeat the previous two steps** for Part Two and Part Three of the Main Repack archives.
 Run the **installer.bat** file inside of WorkBase.
-When it is done, you'll see 15 new files inside of the `PatchedBA2s` folder. Cut or copy these archives. Navigate to your Cryotherapy mods folder and find the Workbase folder (`Magnum Opus/mods/[NoDelete] Workbase Optimized Textures`). Paste the archives into here.
+When it is done, you'll see 15 new files inside of the `PatchedBA2s` folder. Cut or copy these archives. Navigate to your Cryotherapy mods folder and find the Workbase folder (`Cryotherapy/mods/[NoDelete] Workbase Optimized Textures`). Paste the archives into here.
   
 After all of these steps are complete, you may delete the WorkBase folder. If you have the space, I advise making a backup of both the vanilla ba2 files as well as the patched ba2 files. It will save you the trouble of having to redownload them again later.
 
@@ -298,7 +298,7 @@ I don't use an ENB. I never saw the need. The ENB binaries are present for other
 
 ## Widescreen Support
 
-I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously. A generous discord user by the name of bjdripley wrote an [Ultrawide Compatibility Guide for Magnum Opus](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) that you may find useful.
+I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously. A generous discord user by the name of bjdripley wrote an [Ultrawide Compatibility Guide](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) that you may find useful.
 
 ## Credits and Thanks
 
