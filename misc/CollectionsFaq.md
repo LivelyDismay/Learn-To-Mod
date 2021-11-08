@@ -59,5 +59,10 @@ Good news: this is exactly why you're here! Nexus staff is looking for any and a
 1. If Vortex failed to install or seems to be throwing an error, you can use the Report button in Vortex itself. This will notify the Vortex developers and send them all the necessary information they need, all at the click of one button from you.  
 2. If the Collection itself has some errors, such as unresolved conflicts or missing masters for example, get in touch with the Collection Curator on the Nexus Next discord server. If the curator states that those conflicts/masters/etc are resolved on their end, then this means Vortex encountered some sort of error during installation, at which time you should notify the Nexus staff of your issues.
 
+## Testing Collections Tips:
+
+Use a "profile" per Collection, this way you can easily add and manage different Collections.
+Enable profiles by going to the Settings tab in Vortex, Interface, under Advanced toggle "Enable Profile Management"
+
 Remember: this is a team effort. We all need to work together to make Collections the best they can be prior to a full release.
 
