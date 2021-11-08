@@ -203,7 +203,7 @@ Expanding on the base survival mechanics, Nuclear Winter brings temperature and 
 
 ### [Fallout 2287 - Gas Masks of the Wasteland](https://www.nexusmods.com/fallout4/mods/17491)
 
-Nuclear winter hasn't only brought icy death - it also brings a whole lot of radiation. Wear your mask, keep your vision clean, and always carry extra filters.
+Nuclear winter hasn't only brought icy death - it also brings a whole lot of radiation. Wear your mask, keep a clear line of sight, and always carry extra filters.
 
 ### [Agony](https://www.nexusmods.com/fallout4/mods/25600)
 
