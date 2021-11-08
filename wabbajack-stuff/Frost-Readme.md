@@ -228,7 +228,7 @@ CCCleaner.
 FallUI Inventory. Optional. Personal preference, but I think Technical Blue suits the environment quite well. And it's just a nice color.  
 ![alt text](https://i.imgur.com/WYxT3h9.png)  
 
-FallUI HUD. Make sure Another One's preset is selected.  
+FallUI HUD. Make sure AnotherOne's preset is selected.  
 ![alt text](https://i.imgur.com/QSii338.png)  
 
 Faster Workshop. Optional hotkey.  
