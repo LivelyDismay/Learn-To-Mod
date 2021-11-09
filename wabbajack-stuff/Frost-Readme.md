@@ -263,7 +263,7 @@ You will receive some pop-ups shortly after starting. These explain many of the 
 For Fallout 2287, I recommend the `Medium Preset`:  
 ![alt text](https://i.imgur.com/O6RodVO.png)
 
-For Nuclear Winter, I recommend the `Realistic Insulation [F4SE Required]` option:  
+For Nuclear Winter, I recommend the `Realistic Insulation` option:  
 ![alt text](https://i.imgur.com/9y1usWT.png)
 
 The explanation about Temperature will pop up several times. You may choose to read them, take note of what's happening, or silence them. Your call.  
