@@ -256,7 +256,12 @@ DEF Mods - Survival Stats Widget Positions. These should be set for you already.
 
 ## Launching the Game
 
-After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
+After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Near the top of the left window in MO2, you will see this:  
+![alt text](https://i.imgur.com/ifxpSO6.png)
+
+Choose whatever faction you like. Other factions will be hostile or friendly depending on your decision. If you don't know what these factions are, don't worry about it. Choose one that sounds neat or simply choose No Faction.
+
+Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
 You will receive some pop-ups shortly after starting. These explain many of the mechanics you'll be using. Please read them carefully.
 
