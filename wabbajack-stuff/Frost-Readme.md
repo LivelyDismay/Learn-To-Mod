@@ -277,6 +277,8 @@ The explanation about Temperature will pop up several times. You may choose to r
 Soon, you'll be at the main starting room. Your HUD should look like this if everything was done correctly:  
 ![alt text](https://i.imgur.com/INa34se.png)
 
+Open your Pipboy and navigate to your Misc Items. Open the NPCs Travel holotape. Set all DLC sections to a Preset of `[0]`. Then find the Synths entry and set that to `0` as well - these are outlined in the Holotape itself for your convenience.  
+
 Each door is a different starting location. The "vanilla" Frost start is the far door on the right side. The rest is up to you.
 
 ---
