@@ -187,7 +187,7 @@ When it is done, you'll see 15 new files inside of the `PatchedBA2s` folder. Cut
 After all of these steps are complete, you may delete the WorkBase folder. If you have the space, I advise making a backup of both the vanilla ba2 files as well as the patched ba2 files. It will save you the trouble of having to redownload them again later.
 
 Your PatchedBA2 files should match these sizes:  
-![alt text](https://raw.githubusercontent.com/LivelyDismay/Learn-To-Mod/main/images/workbase%20file%20sizes.png)
+![alt text](https://i.imgur.com/62bn0ID.png)
 
 ---
 
