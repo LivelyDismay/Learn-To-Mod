@@ -110,6 +110,7 @@ Most commonly, this will happen if a mod is hidden from Nexus. Contact me in Dis
 
 Download this manually, put the archive in your Downloads folder, and restart Wabbajack.  
  - [FO4LODGen Resources](https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4)  
+ - [AWARHERO - The Great Green Jewel](https://mega.nz/file/bmh2WQqR#iUi9rDCF0qqDcpHb1LyI1vRlo5slJi33MmrUMjLRXu8)
 
 **x is not a whitelisted download**:
 
