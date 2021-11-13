@@ -378,10 +378,6 @@ That's it! Have fun!
 
 ## FAQ
 
-- Some of my perk chart icons are way off-center.
-
-  - I know. I don't know how to fix it because I don't know how to use flash or jpexs. You can either accept this visual issue or you can...play something else. Sorry, I like the perks and the minor visual issues don't bother me.
-
 
 - I am having random crashes.
 
