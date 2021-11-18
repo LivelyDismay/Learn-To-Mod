@@ -4,7 +4,9 @@
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
-    - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+    - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-packages)
+      - [Visual Studio 2015, 2017, 2019, and 2022](#visual-studio-2015-2017-2019-and-2022)
+      - [Visual Studio 2012 (VC++ 11.0) Update 4](#visual-studio-2012-vc-110-update-4)
     - [Steam Config](#steam-config)
       - [Disable the Steam Overlay](#disable-the-steam-overlay)
     - [Change Steams Update Behavior](#change-steams-update-behavior)
@@ -54,9 +56,21 @@ You need a legal copy of Fallout 4 through Steam, with all DLCs **EXCEPT** the H
 
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
-#### Installing Microsoft Visual C++ Redistributable Package
+#### Installing Microsoft Visual C++ Redistributable Packages
 
-I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+These packages are required for MO2 and for the BiRaitBec Texture Optimization step respectively, and you can download them from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
+
+##### Visual Studio 2015, 2017, 2019, and 2022
+
+Download the x64 version under [Visual Studio 2015, 2017, 2019, and 2022](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022).
+
+[Direct Link](https://aka.ms/vs/17/release/vc_redist.x64.exe) if you can't find it.
+
+##### Visual Studio 2012 (VC++ 11.0) Update 4
+
+Download the x64 version under [Visual Studio 2012 (VC++ 11.0) Update 4](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2012-vc-110-update-4).
+
+[Direct Link](https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe) if you can't find it.
 
 #### Steam Config
 
