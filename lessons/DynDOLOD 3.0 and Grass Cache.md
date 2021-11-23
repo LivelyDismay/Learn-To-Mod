@@ -84,16 +84,20 @@ You then need to open this new plugin in the creation kit, highlight all the gra
 
 Then place this patch in a position where it overwrites all of your other grass records
 
+Before running grass cache, you can do a few more things to speed up the process (as this can take several hours depending on how many additional worldspaces you are generating grass for)
+
+1. Reduce your graphical settings, set everything to minimum (bethini is great for this, but backup your inis!) and use a tiny resolution just big enough so you can still see the progress in the console.
+2. Deactivate any direct texture replacer mods you have.
+3. If you want to do full optimisation, you could create a new profile with only plugins you know change the worldspace. This could be a lot of trial and error though, but things to look out for would be edits to landscape records and stuff that adds/moves buildings and other objects such as town overhauls.
+
 Once you have done all of the above, save the ini file and close it. Go back into MO2, click on the spanner and screwdriver icon, and then select `PreCache Grass`. A pop-up will appear confirming that you wish to do this. Click `Yes`. Go grab a coffee and a good book or magazine - this can take a very long time.
 
-Once it is completed, a pop-up will appear saying that grass generation has been completed. **If you do not have a mod set to catch files generated during gameplay, the grass will be in the `overwrite` mod at the bottom of your Mod Oragnizer's left pane (assuming you have the mods sorted by `Priority`).** You should see a folder called `grass` with a load of `.cgd` files inside. Move that folder to the mod called `grass cache` that you created. Press `F5` to refresh MO2 and then activate the mod.
+Once it is completed, a pop-up will appear saying that grass generation has been completed. **If you do not have a mod set to catch files generated during gameplay, the grass will be in the `overwrite` mod at the bottom of your Mod Oragnizer's left pane (assuming you have the mods sorted by `Priority`).** You should see a folder called `grass` with a load of `.cgid` files inside. Move that folder to the mod called `grass cache` that you created. Press `F5` to refresh MO2 and then activate the mod.
 
 ### TexGen
 Run TexGenx64 and Allow the tool to load your mods and then choose the following settings. **If you are not doing grass lods, untick the grass checkbox.** Note the output path as to where TexGen is sending the output.
 
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass7.png)
-
-  -  *Note: Some grass mods do not have the bounds correctly set which can result in the grass not being genned correctly. To fix this, load your grass mod in the Creation Kit, go to the grass section, select all of the new grass, right click and press `recalculate bounds`. This will update the `OBND` data to properly reference the bounds of the mesh which will allow the lod to be generated correctly. Known grass mods that have this issue include Veydosebrom Regions, which requires the BSA unpacking to update. It is possible other mods also have this issue.*
 
 Press `Start` and allow the tool to generate the textures. Once done, the tool will open a pop-up. Press `Exit` or `Zip&Exit` if you wish to have the output zipped up for easier addition to a mod-manager or redistribution. In this case, we're choosing `Zip&Exit` as that allows us to add the output as a new mod in MO2 easier.
 
