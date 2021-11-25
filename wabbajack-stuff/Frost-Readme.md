@@ -227,7 +227,7 @@ Make sure the bar on the right side says `F4SE` and click Run. **You need to lau
 ## In-Game MCM Options
 
  - *Note that hotkeys are personal preference. Don't set hotkeys to something that already has something else bound to it. For example, don't set Saving to F5 while Quicksaving is already set to F5.*
- - 
+ 
 Baka Wait Anywhere.  
 ![alt text](https://i.imgur.com/4HV7RMS.png)
 
@@ -237,8 +237,8 @@ CCCleaner.
 FallUI Inventory. Optional. Personal preference, but I think Technical Blue suits the environment quite well. And it's just a nice color.  
 ![alt text](https://i.imgur.com/WYxT3h9.png)  
 
-FallUI HUD. Make sure AnotherOne's preset is selected.  
-![alt text](https://i.imgur.com/QSii338.png)  
+FallUI HUD. Make sure Lively's Frost HUD preset is selected.  
+![alt text](https://i.imgur.com/PXHlwfw.png)  
 
 Faster Workshop. Optional hotkey.  
 ![alt text](https://i.imgur.com/7cUugf9.png)  
