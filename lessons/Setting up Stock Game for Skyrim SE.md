@@ -1,4 +1,4 @@
-# Setting up Stock Game for Skyrim SE
+# Setting up Stock Game for Skyrim SE - by Althro
 
 ## Summary
 This guide will show you how to set up stock game, setup Mod Organizer 2 for Stock Game, get the paths correct for tools such as xEdit. The guide will use Skyrim Anniversary Edition for the setup; however, the same process applies to regular Skyrim Special Edition. This guide assumes you have all the tools such as Creation Kit, Mod Organizer, xEdit and others already downloaded.
