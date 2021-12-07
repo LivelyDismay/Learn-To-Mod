@@ -86,7 +86,7 @@ Then place this patch in a position where it overwrites all of your other grass 
 
 Before running grass cache, you can do a few more things to speed up the process (as this can take several hours depending on how many additional worldspaces you are generating grass for)
 
-1. Reduce your graphical settings, set everything to minimum (bethini is great for this, but backup your inis!) and use a tiny resolution just big enough so you can still see the progress in the console.
+1. Reduce your resolution just big enough so you can still see the progress in the console. DO NOT USE BETHINI PRESETS FOR POOR OR LOW QUALITY, this will cause no files to be generated.
 2. Deactivate any direct texture replacer mods you have.
 3. If you want to do full optimisation, you could create a new profile with only plugins you know change the worldspace. This could be a lot of trial and error though, but things to look out for would be edits to landscape records and stuff that adds/moves buildings and other objects such as town overhauls.
 
