@@ -16,7 +16,6 @@
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
 - [Updating](#updating)
-- [BiRaitBec Texture Optimization](#biraitbec-texture-optimization)
 - [Noteworthy Mods](#noteworthy-mods)
   - [Frost Survival Simulator](#frost-survival-simulator)
   - [Fallout 2287 - Nuclear Winter](#fallout-2287---nuclear-winter)
