@@ -147,50 +147,6 @@ Updating is like installing. You only have to make sure that you select the same
 
 ---
 
-## BiRaitBec Texture Optimization
-
-**Yes this step is required, stop asking me every single day.**
-
- - *If you already have completed the BiRaitBec texture optimization process, you can just copy and paste those files into the folder for this modlist. It is identical.*
-
-Go to [BiRaitBec’s Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
-Manually download the **WorkBase** file.  
-Manually download the **Main Repack** files (Part One, Part Two, and Part Three).  
-  
-Extract the WorkBase file with 7zip.  
-You should have three folders inside of Workbase: OriginalBa2, PatchedBa2, and PatchedFiles.  
-Navigate to your Fallout4/Data folder and **copy** these 15 files:  
-
-'Fallout4 - Textures1.ba2'  
-'Fallout4 - Textures2.ba2'  
-'Fallout4 - Textures3.ba2'  
-'Fallout4 - Textures4.ba2'  
-'Fallout4 - Textures5.ba2'  
-'Fallout4 - Textures6.ba2'  
-'Fallout4 - Textures7.ba2'  
-'Fallout4 - Textures8.ba2'  
-'Fallout4 - Textures9.ba2'  
-'DLCworkshop01 - Textures.ba2'  
-'DLCworkshop02 - Textures.ba2'  
-'DLCworkshop03 - Textures.ba2'  
-'DLCRobot - Textures.ba2'  
-'DLCCoast - Textures.ba2'  
-'DLCNukaWorld - Textures.ba2'  
-
-**Paste** these files into your **WorkBase/OriginalBa2** folder.
-**Extract** Main Repack Part One into a new folder.
-Inside the new folder, you should see another folder called “**textures**”. **Cut** this textures folder and **paste** it into **Workbase/PatchedFiles**.
-**Repeat the previous two steps** for Part Two and Part Three of the Main Repack archives.
-Run the **installer.bat** file inside of WorkBase.
-When it is done, you'll see 15 new files inside of the `PatchedBA2s` folder. Cut or copy these archives. Navigate to your Cryotherapy mods folder and find the Workbase folder (`Cryotherapy/mods/[NoDelete] Workbase Optimized Textures`). Paste the archives into here.
-  
-After all of these steps are complete, you may delete the WorkBase folder. If you have the space, I advise making a backup of both the vanilla ba2 files as well as the patched ba2 files. It will save you the trouble of having to redownload them again later.
-
-Your PatchedBA2 files should match these sizes:  
-![alt text](https://i.imgur.com/62bn0ID.png)
-
----
-
 ## Noteworthy Mods
 
 ### [Frost Survival Simulator](https://www.nexusmods.com/fallout4/mods/18898)
@@ -226,39 +182,17 @@ Make sure the bar on the right side says `F4SE` and click Run. **You need to lau
 
 ## In-Game MCM Options
 
- - *Note that hotkeys are personal preference. Don't set hotkeys to something that already has something else bound to it. For example, don't set Saving to F5 while Quicksaving is already set to F5.*
- 
-Baka Wait Anywhere.  
-![alt text](https://i.imgur.com/4HV7RMS.png)
+Almost all of this is now handled via M8r's wonderful [MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195/). Huzzah!
 
-CCCleaner.  
-![alt text](https://i.imgur.com/M8KDexv.png)  
+MCM Settings Manager - Apply the `Cryotherapy MCMs` Preset.
+![alt text](https://i.imgur.com/sgSXQVv.png)
 
-FallUI Inventory. Optional. Personal preference, but I think Technical Blue suits the environment quite well. And it's just a nice color.  
-![alt text](https://i.imgur.com/WYxT3h9.png)  
+Fallout 2287 - Nuclear Winter - Temperature Widget. The values here will already be set correctly for you. Simply click `[Set Temperature Widget]`. After pressing the button to set the widget, exit out of the MCM menu and go back to the game.  
+![alt text](https://i.imgur.com/xkcwN3M.png)  
 
-FallUI HUD. Make sure Lively's Frost HUD preset is selected.  
-![alt text](https://i.imgur.com/PXHlwfw.png)  
+Open your MCM Configs back up again.
 
-Faster Workshop. Optional hotkey.  
-![alt text](https://i.imgur.com/7cUugf9.png)  
-
-Fallout 2287 - Nuclear Winter - Temperature Widget. Change the settings to match the ones seen in the image below, then click `[Set Temperature Widget]`.  
-![alt text](https://i.imgur.com/MIqznHy.png)  
-
-Fallout 2287 - Nuclear Winter - Insulation Widget. Set the hotkey of your choosing, then change the settings to match the ones seen in the image below. Then click `[Set Insulation Widget]`.  
-![alt text](https://i.imgur.com/HXHCNVM.png)
-
-LevelUpMenuEx. Optional hotkey for quick access to the perk chart.  
-![alt text](https://i.imgur.com/xHVSnIU.png)
-
-Survival Options - Save Options. Set a Hotkey for this. I use F9.  
-![alt text](https://i.imgur.com/5O83SJ8.png)
-
-DEF Mods -  Survival Stats Widget. Scroll to the bottom and click `Tune Widget Elements Position`.  
-![alt text](https://i.imgur.com/2O19Jxv.png)
-
-DEF Mods - Survival Stats Widget Positions. These should be set for you already. Press `R` to save their positions.  
+DEF Mods - Survival Stats Widget Positions. These should be set for you already. Press `R` to save their positions. Afterwards, exit out of the MCM menu and go back to the game.  
 ![alt text](https://i.imgur.com/CmjBWDc.png)
 
 ---
