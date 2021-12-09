@@ -179,6 +179,8 @@ Choose whatever faction you like. Other factions will be hostile or friendly dep
 
 Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
+I recommend just using the default character preset in the beginning - only choose the gender you want. You'll have a chance very shortly to spend more time customizing your character, in a place that isn't as wonky.
+
 ## In-Game MCM Options
 
 Almost all of this is now handled via M8r's wonderful [MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195/). Huzzah!
