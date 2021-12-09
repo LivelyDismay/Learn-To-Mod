@@ -121,7 +121,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 After Wabbajack turns green and says Installation Complete, you can close it. Go to your installation folder (I will refer to this folder as the MO2 folder from now on) and you'll see a folder named `Game Folder Files`.
 
-Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
+Copy all of the files from the `MO2/Game Folder Files` directory into your game folder.
 
 ---
 
