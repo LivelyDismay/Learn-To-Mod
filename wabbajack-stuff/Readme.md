@@ -1,5 +1,7 @@
 # Magnum Opus
 
+---
+
 - [Magnum Opus](#magnum-opus)
 - [Preamble](#preamble)
 - [Installation](#installation)
@@ -21,11 +23,8 @@
 - [Updating](#updating)
 - [BiRaitBec Texture Optimization](#biraitbec-texture-optimization)
 - [Noteworthy Mods](#noteworthy-mods)
-  - [Sim Settlements 2](#sim-settlements-2)
-  - [Subway Runner](#subway-runner)
-  - [This is Trash - A Scrapping Alternative](#this-is-trash---a-scrapping-alternative)
-  - [Buffout 4](#buffout-4)
 - [Creation Club Support](#creation-club-support)
+- [A Few Quick Notes](#a-few-quick-notes)
 - [In-Game MCM Options](#in-game-mcm-options)
 - [FAQ](#faq)
 - [Controller Support](#controller-support)
@@ -34,7 +33,11 @@
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 
+---
+
 # Preamble
+
+---
 
 ### Magnum Opus
 
@@ -48,7 +51,11 @@ This list is NOT built with Survival Mode in mind. I don't play it. I don't like
 
 Is Magnum Opus for you? I don't know, but [this video by DroppedIceCream might help you decide](https://youtu.be/Q2s84pTpkwE).
 
+---
+
 ## Installation
+
+---
 
 ### Pre-Installation
 
@@ -96,7 +103,11 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Fallout 4` folder in `Documents/My Games/`. **Make sure you run the game once** to establish your registry path - otherwise, Wabbajack will be unable to locate the game directory, and thus cannot install the modlist.
 
+---
+
 ### Using Wabbajack
+
+---
 
 #### Preparations
 
@@ -110,31 +121,36 @@ Set the `Installation Location` to a blank folder at the root of a drive, such a
 
 Click the `Play` arrow.
 
+---
+
 ### Problems with Wabbajack
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
-**Could not download x**:
+- **Could not download x**:
 
 If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait until I update the Modlist. I'm typically extremely quick to respond to a situation such as this.
 
 Most commonly, this will happen if a mod is hidden from Nexus. Contact me in Discord if this happens, and I can force the list to show as Under Maintenance until it comes back, and then I can fix it when it's unhidden.
 
-**Mega links aren't downloading**:
+- **Mega links aren't downloading**:
 
 Download this manually, put the archive in your Downloads folder, and restart Wabbajack.  
  - [FO4LODGen Resources](https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4)  
- - [AWARHERO - The Great Green Jewel](https://mega.nz/file/bmh2WQqR#iUi9rDCF0qqDcpHb1LyI1vRlo5slJi33MmrUMjLRXu8)
 
-**x is not a whitelisted download**:
+- **x is not a whitelisted download**:
 
 This can happen when I update the modlist. Check if a new update is available and wait if there is none.
 
-**Wabbajack could not find my game folder**:
+- **Wabbajack could not find my game folder**:
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
+---
+
 ### Post-Installation
+
+---
 
 #### Copy Game Folder Files
 
@@ -142,11 +158,15 @@ After Wabbajack turns green and says Installation Complete, you can close it. Go
 
 Copy all of the files from the `MO2/Game Folder Files` directory into your game folder.
 
+---
+
 #### Launching the Game
 
 After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
 You may notice some mods are deactivated. These are for the Creation Club profile. Please see the [Creation Club Support](#creation-club-support) section a bit further down for more information.
+
+---
 
 ## Updating
 
@@ -167,6 +187,8 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
+---
+
 ## BiRaitBec Texture Optimization
 
 **Yes this step is required, stop asking me every single day.**
@@ -179,21 +201,21 @@ Extract the WorkBase file with 7zip.
 You should have three folders inside of Workbase: OriginalBa2, PatchedBa2, and PatchedFiles.  
 Navigate to your Fallout4/Data folder and **copy** these 15 files:  
 
-'Fallout4 - Textures1.ba2'  
-'Fallout4 - Textures2.ba2'  
-'Fallout4 - Textures3.ba2'  
-'Fallout4 - Textures4.ba2'  
-'Fallout4 - Textures5.ba2'  
-'Fallout4 - Textures6.ba2'  
-'Fallout4 - Textures7.ba2'  
-'Fallout4 - Textures8.ba2'  
-'Fallout4 - Textures9.ba2'  
-'DLCworkshop01 - Textures.ba2'  
-'DLCworkshop02 - Textures.ba2'  
-'DLCworkshop03 - Textures.ba2'  
-'DLCRobot - Textures.ba2'  
-'DLCCoast - Textures.ba2'  
-'DLCNukaWorld - Textures.ba2'  
+`Fallout4 - Textures1.ba2`  
+`Fallout4 - Textures2.ba2`  
+`Fallout4 - Textures3.ba2`  
+`Fallout4 - Textures4.ba2`  
+`Fallout4 - Textures5.ba2`  
+`Fallout4 - Textures6.ba2`  
+`Fallout4 - Textures7.ba2`  
+`Fallout4 - Textures8.ba2`  
+`Fallout4 - Textures9.ba2`  
+`DLCworkshop01 - Textures.ba2`  
+`DLCworkshop02 - Textures.ba2`  
+`DLCworkshop03 - Textures.ba2`  
+`DLCRobot - Textures.ba2`  
+`DLCCoast - Textures.ba2`  
+`DLCNukaWorld - Textures.ba2`  
 
 **Paste** these files into your **WorkBase/OriginalBa2** folder.
 **Extract** Main Repack Part One into a new folder.
@@ -221,12 +243,6 @@ Perk overhaul built on top of another perk overhaul. Fancy!
 
 Read more about it [here](https://www.nexusmods.com/fallout4/mods/49400)!
 
-### Subway Runner
-
-Explore an expansive, deadly metro system that stretches the length of the entire Commonwealth. No quests here, folks; only loot, exploration, death, radiation, and a new way to travel across the city.
-
-Read more about it [here](https://www.nexusmods.com/fallout4/mods/18639)!
-
 ### This is Trash - A Scrapping Alternative
 
 I got tired of individually scrapping every single leaf and rubbish pile every time I started a new game, so I took some inspiration from Wabbajack and automated it. Each settlement will now have a trash can next to the workbench. Scrap it and watch as the area is miraculously cleaned of all those stupid looking shrubs and garbage decals.
@@ -239,15 +255,17 @@ The equivalent of SSE Engine Fixes, Buffout basically makes lists like this poss
 
 Read more about it [here](https://www.nexusmods.com/fallout4/mods/47359)!
 
+---
+
 ## Creation Club Support
 
 Magnum Opus now has support for some Creation Club mods as of version 3.2 of the modlist. To make use of this, you must follow a few steps:
-1. Click the profile dropdown menu at the top left of Mod Organizer 2, and change the active profile to `Magnum Opus - CC Profile`.
+1. Click the profile dropdown menu at the top left of Mod Organizer 2, and make sure the active profile is set to `Magnum Opus`.
 2. Launch the game and download your CC mods from the in-game storefront.
-  -  I recommend doing this after launching the game from Mod Organizer 2. This will make all the creations download into your `overwrite` folder, which will make the next step a bit easier.
+  -  Launching the game from Mod Organizer 2 will make all the creations download into your `overwrite` folder, which will make the next step a bit easier.
 3. Cut and paste all of your CC mods into `Magnum Opus\mods\Creation Club Content`. 
-4. Activate the `Creation Club Content` mod in Mod Organizer 2.
-  -  Please take note that you will need all of the CC mods I currently provide support for.
+4. Activate the `Creation Club Content` mod in Mod Organizer 2, then change the active profile to `Magnum Opus - CC Edition`.
+  -  Please take note that **you will need all of the CC mods listed below** in order for the CC Edition profile to work. The list of required Creations is below:  
 
 <details>
   
@@ -302,80 +320,29 @@ If you have CC mods that aren't in this list, that means I don't own them (yet?)
 
 You may also notice some other mods are deactivated in the CC Profile - namely, some armors, power armors, and weapons. This is because some CC mods act as pseudo variants of these, and I didn't want "doubles" essentially.
 
+---
+
+## A Few Quick Notes
+
+ - It is recommended that you leave Vault 111 prior to reporting any issues to me. Please.
+ - Your Pipboy flashlight will not work between the time you pick it up and the time you press the button to open the vault door. It genuinely amazes me how many people report this to me. Just press the button, it's right there.
+ - Sim Settlements 2: Chapter 2 is still in very active development. **Please do not update this mod on your own.** Granted, you shouldn't be updating *any* mod on your own, and doing so **will** void all support.
+ - You will get a few pop-ups upon exiting Vault 111. For ECO, select this option:  
+![alt text](https://i.imgur.com/2F0OnWN.png)
+
+---
+
 ## In-Game MCM Options
 
+After leaving Vault 111, pop open your MCM Config and follow these instructions.  
 *_Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
 
-Baka Wait Anywhere  
-![alt text](https://i.imgur.com/EGePAFk.png)
+**MCM Settings Manager**  
+Apply the `Magnum Opus MCM Settings` Preset.  
+![alt text](https://i.imgur.com/WPIBXJ3.png)
 
-Companion Command Hotkeys  
-![alt text](https://i.imgur.com/QMQqSSu.png)  
-
-Custom Camera - Standard  
-![alt text](https://i.imgur.com/UhgV6QN.png)  
-
-Custom Camera - Power Armor  
-![alt text](https://i.imgur.com/IwfxTSB.png)  
-
-Custom Camera - Miscellaneous  
-![alt text](https://i.imgur.com/ZTexP2Z.png)  
-
-Custom Camera - Features  
-![alt text](https://i.imgur.com/PuDef9C.png)  
-
-DLC Timing - Automatron  
-![alt text](https://i.imgur.com/gvWlkO6.png)
-
-DLC Timing - Far Harbor  
-![alt text](https://i.imgur.com/V8rJPdf.png)
-
-DLC Timing - Nuka World  
-![alt text](https://i.imgur.com/4zY7zCG.png)
-
-DLC Timing - Vault-Tec Workshop  
-![alt text](https://i.imgur.com/wVaClh8.png)
-
-FallUI - Coloring  
-![alt text](https://i.imgur.com/liVn6zL.png)
-
-FallUI - Text Style  
-![alt text](https://i.imgur.com/Z6e5BBg.png)
-
-FallUI Workbench - Generic Settings  
-![alt text](https://i.imgur.com/FfZ7WHC.png)
-
-FallUI Workbench - Workbench List  
-![alt text](https://i.imgur.com/hS3nr3Z.png)
-
-Faster Workshop Hotkey  
-![alt text](https://i.imgur.com/kkgYNFT.png)  
-
-QuickTrade  
-![alt text](https://i.imgur.com/KeyaCf5.png)
-
-Sim Settlements 2 - Respect Build Limit - Off  
-![alt text](https://i.imgur.com/nTuRz20.png)
-
-Some people have reported Cinematic Mode does not allow city plans to build themselves. You may wish to disable that option as well.
-
-Workshop Framework  
-![alt text](https://i.imgur.com/QVjhlRd.png)  
-
-Workshop Plus - Options - Disable Clear Weather.  
-![alt text](https://i.imgur.com/BGZnDBG.png)  
-
-Workshop Plus - Hotkeys  
-![alt text](https://i.imgur.com/aklZPWs.png)
-
-You and What Army - BOS  
-![alt text](https://i.imgur.com/SMYUY4x.png)
-
-You and What Army - Railroad  
-![alt text](https://i.imgur.com/2CNBPVY.png)
-
-You and What Army - Institute  
-![alt text](https://i.imgur.com/fJquOpK.png)
+**ECO - Legendary Injector**  
+![alt text](https://i.imgur.com/KU1eTeB.png)
 
 **Holotape Settings:**   
 Open the Beantown Interiors Holotape in your Pipboy and select the following options:  
@@ -385,12 +352,21 @@ Open the Beantown Interiors Holotape in your Pipboy and select the following opt
   *  Mod Compatibility  
   *  Enable Inside Jobs
 
+- You may also enable the Hardcore Clutter option if you'd like less loot in BTI's additions (I personally recommend this but it is not a hard requirement).
+
 True Storms Configuration Holotape  
 ![alt text](https://i.imgur.com/cOjL4z2.png)
 
 That's it! Have fun!  
 
+---
+
 ## FAQ
+
+
+- My characters have black/brown/tan faces.
+
+  -  Disable the High Definition DLC in Steam's `Manage DLC` section. As per the beginning of this readme, the HD DLC is absolute garbage and **WILL** break a ton of facegen.
 
 
 - I am having random crashes.
@@ -430,6 +406,8 @@ That's it! Have fun!
 
   - That sucks. Post in general-f4-discussions in the Wabbajack server, or any channel in my personal discord server. If you're not a dick, I'm genuinely more than happy to help if I can.
 
+---
+
 ## Controller Support
 
 If you're playing with a controller (why?), your pipboy map won't work. Open the MO2 INI Editor, select fallout4prefs.ini, and scroll down until you see the `[Display]` section. At the bottom, you'll find two lines:  
@@ -440,6 +418,8 @@ Change these two lines to the following:
 `uPipboyTargetWidth=876`  
 Then find the `[General]` section and change `bGamepadEnable=` from a `0` to a `1`.
 
+---
+
 ### ENB
 
 I don't use an ENB. I never saw the need. If you wish to add an ENB preset, go for it, but I will provide zero support for such endeavors.
@@ -448,6 +428,8 @@ I don't use an ENB. I never saw the need. If you wish to add an ENB preset, go f
 
 I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously. A generous discord user by the name of bjdripley wrote an [Ultrawide Compatibility Guide for Magnum Opus](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) that you may find useful.
 
+---
+
 ## Credits and Thanks
 
 - Erri120, for all of your work on Wabbajack and the website, and for making a readme template like this easy for an idiot like me to use.
@@ -455,6 +437,8 @@ I don't own a widescreen monitor, so I can't help directly. I don't mind you guy
 - Kaethela, for all of your ongoing support - both in regards to the modlist and listening to my endless bitching.
 - Total, for your multiple contributions and advice over the last year and a half (and counting).
 - Halgari, creator of Wabbajack, without whom none of us would be here. You have improved over 100,000 people's lives and never asked for a single thing in return. That's *insane*.
+
+---
 
 ## Contact
 
