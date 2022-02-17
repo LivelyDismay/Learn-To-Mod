@@ -422,7 +422,7 @@ Then find the `[General]` section and change `bGamepadEnable=` from a `0` to a `
 
 ### ENB
 
-I don't use an ENB. I never saw the need. If you wish to add an ENB preset, go for it, but I will provide zero support for such endeavors.
+Don't.
 
 ## Widescreen Support
 
