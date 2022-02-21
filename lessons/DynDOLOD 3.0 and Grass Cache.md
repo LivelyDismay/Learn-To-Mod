@@ -19,11 +19,9 @@ Here is a list of things you will need:
 ## The Main Steps
 
 ### Installing Everything
-xLodGen and DynDOLOD should be installed to the `tools` folder of wherever your Mod Organizer is. In my case, it’s `Tinvaak\Tools`. Once they are there, open your Mod Organizer. Create new mods named `xLodGen Output` and `Grass Cache`.  Add the x64 versions of xLodGen, TexGen and DynDOLOD as executables. We use the x64 as we are modding Skyrim SE and it is a 64-bit game. Note: You must add `-sse` to the arguments section for xLodGenx64, TexGenx64 and DynDOLODx64; otherwise they will fail to run. 
+xLodGen and DynDOLOD should be installed to the `tools` folder of wherever your Mod Organizer is. In my case, it’s `Tinvaak\Tools`. Once they are there, open your Mod Organizer. Create a new mod named `Grass Cache`.  Add the x64 versions of xLodGen, TexGen and DynDOLOD as executables. We use the x64 as we are modding Skyrim SE and it is a 64-bit game. Note: You must add `-sse` to the arguments section for xLodGenx64, TexGenx64 and DynDOLODx64; otherwise they will fail to run. 
 
-In the section where it says “create files in mod instead of overwrite” for xLodgen, set it to the mod of the name you just created (`xLodgen Output`). The arguments should look something like this:
-
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass1.jpg)
+For xLodGen, after the `-sse` line, you **must** add the argument `-o:"c:\Path\To\Output"` to ensure that the generated files go to the correct location and also regen the vanilla meshes. This output folder **cannot be in a folder that is read by MO2 to create the virtual file system**. Place it somewhere like `C:\Games\xLodGen Output`. You may need to zip the output afterwards to ensure that it can be installed as a mod by MO2.
 
 For the No Grass in Objects pre-cacher, place the plugin in the `plugins` folder of where your Mod Organizer 2 is installed. Relaunch MO2 and it will appear in the tools area (Shown as a spanner and screwdriver).
 
@@ -43,9 +41,14 @@ Then select xLodGenx64 from the executables dropdown in MO2 and press `Run`. It 
 
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass3.jpg)
 
-Right click in the `Worldspace` area and press `Select All`. Ensure that only Terrain Lod is selected and then apply your Lod settings. I use the Lexy LOTD lodgen settings, [which can be found here](https://lexyslotd.com/guide/finishing-line/#xlodgen). They provide the best balance of quality and performance. Allow it to run and do its work. When complete, it will say “Lod Generation completed”. You can then close the program. Refresh Mod Organizer 2 by pressing `F5` and activate your xLodGen output. Deactivate `SSE-Terrain-Tamriel` and any other mods that you activated for the xLodGen process.
+Right click in the `Worldspace` area and press `Select All`. Ensure that only Terrain Lod is selected and then apply your Lod settings. I use the Lexy LOTD lodgen settings, [which can be found here](https://lexyslotd.com/guide/finishing-line/#xlodgen). They provide the best balance of quality and performance. Allow it to run and do its work. When complete, it will say “Lod Generation completed”. You can then close the program. 
+
+Navigate to where your xLodgen output folder is and create a zip folder of it if it is not zipped. Press the `Add mod from file` button and navigate to where your zipped xLodGen output is. Press the `open` button and install it as a new mod. Activate the mod and then deactivate `SSE-Terrain-Tamriel` and any other mods that you activated for the xLodGen process.
 
 ### Grass Cache (Optional)
+
+**NOTE**: Grass cache **does not function** on builds using a Skyrim.exe **newer than 1.5.97** due to .Net Script framework being incompatible.
+
 Once you have completed xLodGen, it is now time for Grass Cache. Grass Cache is a relatively new technology that allows you to pre-cache grass for all worldspaces in the game. This allows for DynDOLOD to create grass lods to increase the distance which you can see grass and also can give a more stable experience. **Do Note this can hurt your performance if set incorrectly**. Before running grass cache, I recommend you use this script [here](https://www.nexusmods.com/skyrimspecialedition/mods/55152) to determine which locations to cache grass into. Download that script, save the zip file somewhere safe, and copy the file that ends ".pas" into your xEdit edit scripts folder as shown below:
 
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass4.png)
