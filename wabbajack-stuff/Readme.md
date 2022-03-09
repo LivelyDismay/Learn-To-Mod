@@ -344,16 +344,6 @@ Apply the `Magnum Opus MCM Settings` Preset.
 **ECO - Legendary Injector**  
 ![alt text](https://i.imgur.com/KU1eTeB.png)
 
-**Holotape Settings:**   
-Open the Beantown Interiors Holotape in your Pipboy and select the following options:  
-
-  *  Customize Options  
-  *  Other Options  
-  *  Mod Compatibility  
-  *  Enable Inside Jobs
-
-- You may also enable the Hardcore Clutter option if you'd like less loot in BTI's additions (I personally recommend this but it is not a hard requirement).
-
 True Storms Configuration Holotape  
 ![alt text](https://i.imgur.com/cOjL4z2.png)
 
@@ -387,7 +377,12 @@ That's it! Have fun!
   - Can you? Yes. Will I help you? Maybe, but **please discuss it in either general channels or my personal Discord server**, and be sure to disclose the fact that you've edited the list before reporting any bugs or crashes. If you're open and honest with me, I'm honestly much more willing to help you through your issues.
 
 
-- Why is my crosshair on my pipboy?
+- Where is my crosshair?
+
+  - I found I spend too much time looking at the crosshair instead of the actual game, so I disabled it in my Hud preset. You can re-enable it in the FallUI HUD MCM if you like.
+
+
+- Okay, so I enabled the crosshair again, but why is it on my pipboy?
 
   - You can turn the Power Armor HUD Switcher holotape setting for [Hide Hud in Pipboy] to Off in order to hide the crosshair when not in power armor, but this also makes the pipboy look pretty terrible when using it inside power armor. Your call.
 
