@@ -189,7 +189,9 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## BiRaitBec Texture Optimization
 
-**Yes this step is required, stop asking me every single day.**
+**YOU NEED A CLEAN INSTALLATION OF FALLOUT 4 FOR THIS TO WORK PROPERLY.**
+
+This step hashes your vanilla files, just like Wabbajack hashes all the downloads and mods. They need to be PERFECTLY CLEAN AND UNALTERED. If you'd like to be sure, just Verify Integrity of Game Files through Steam to make sure your Fallout 4 archives are pristine.
 
 Go to [BiRaitBec Workbase Improved](https://www.nexusmods.com/fallout4/mods/57782) and download the Main File.  
 Extract this archive into a blank folder, outside of a Windows protected directory (such as `D:/Workbase Improved`).  
