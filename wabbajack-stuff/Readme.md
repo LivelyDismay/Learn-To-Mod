@@ -113,13 +113,13 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 Let's get to the actual installation..
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases). You need to download the `Wabbajack.exe` file ONLY. Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop.
+Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) (just click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop.
 
-Launch Wabbajack. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Magnum Opus, and you will be forwarded to the next screen when it is finished.
+Launch Wabbajack. The exe will download the rest of the program from Github and extract itself wherever you placed the exe. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Magnum Opus, and you will be forwarded to the next screen when it is finished.
 
 Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Magnum Opus`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories.
 
-Click the `Play` arrow.
+Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
 
 ---
 
@@ -130,8 +130,6 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 - **Could not download x**:
 
 If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait until I update the Modlist. I'm typically extremely quick to respond to a situation such as this.
-
-Most commonly, this will happen if a mod is hidden from Nexus. Contact me in Discord if this happens, and I can force the list to show as Under Maintenance until it comes back, and then I can fix it when it's unhidden.
 
 - **Mega links aren't downloading**:
 
@@ -156,7 +154,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 After Wabbajack turns green and says Installation Complete, you can close it. Go to your installation folder (I will refer to this folder as the MO2 folder from now on) and you'll see a folder named `Game Folder Files`.
 
-Copy all of the files from the `MO2/Game Folder Files` directory into your game folder.
+Copy all of the files from the `MO2/Game Folder Files` directory into your game folder. To further clarify this, you are copying **the contents** of this folder, not the entire folder itself.
 
 ---
 
@@ -240,6 +238,8 @@ Read more about it [here](https://www.nexusmods.com/fallout4/mods/47976)!
 ### Creative Perks Plus
 
 Perk overhaul built on top of another perk overhaul. Fancy!
+
+Do note that this mod is edited a bit for Magnum Opus, so not all the perks you see on this mod page will match up perfectly with this modlist's perk chart. This is not a bug, nor is it an issue with Whisky's mod! It is intended!
 
 Read more about it [here](https://www.nexusmods.com/fallout4/mods/49400)!
 
@@ -414,7 +414,7 @@ That's it! Have fun!
 
 ## Controller Support
 
-If you're playing with a controller (why?), your pipboy map won't work. Open the MO2 INI Editor, select fallout4prefs.ini, and scroll down until you see the `[Display]` section. At the bottom, you'll find two lines:  
+If you're playing with a controller, your pipboy map won't work properly (the cursor will be stuck in the corner quadrant of the map). Open the MO2 INI Editor, select fallout4prefs.ini, and scroll down until you see the `[Display]` section. At the bottom, you'll find two lines:  
 `uPipboyTargetHeight=1400`  
 `uPipboyTargetWidth=1752`  
 Change these two lines to the following:  
