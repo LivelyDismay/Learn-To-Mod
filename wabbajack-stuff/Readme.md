@@ -390,6 +390,11 @@ That's it! Have fun!
 
   - One follower is enough, and Heather (a modded follower from [here](https://www.nexusmods.com/fallout4/mods/23273)) doesn't occupy a "follower" slot, so you can have Heather + one other companion. Considering how overpowered that is, there is no reason I should add Dogmeat to the mix as well.
 
+
+ - Can I add an ENB?
+
+  -  If you hate yourself, sure. Some people have added ENBs and reported consistent crashes, so your mileage may vary. Don't add an ENB and report bugs to me because I can't/won't help.
+
 ---
 
 ## Controller Support
@@ -403,10 +408,6 @@ Change these two lines to the following:
 Then find the `[General]` section and change `bGamepadEnable=` from a `0` to a `1`.
 
 ---
-
-### ENB
-
-Don't.
 
 ## Widescreen Support
 
