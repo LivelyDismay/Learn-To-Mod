@@ -212,6 +212,8 @@ PowerShell will now launch and begin verifying all of your archives, then repack
 When the installer is finished, it will automatically close itself.
   -  If you chose the default `PatchedBa2` folder for your output, navigate to that folder, select all the archives inside, Copy them (right click > copy, or Ctrl+C). Then navigate to `Magnum Opus/mods/[NoDelete] Workbase Optimized Textures` and paste the archives here (right click > paste, or Ctrl+V).
 
+Due to how Wabbajack works, you only need to do this step ONCE. The `[NoDelete]` flag will prevent Wabbajack from ever deleting this mod during updates, so you will never have to redo this step unless you delete it yourself. Huzzah!
+
 *Many thanks to Rux616 for the Workbase Improved installer, please do go show him some love and endorse his work.*
 
 ---
