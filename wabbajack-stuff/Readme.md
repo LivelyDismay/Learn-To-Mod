@@ -47,9 +47,15 @@ This means if I like a mod, it's going in. There is no such thing as "it doesn't
 
 To that end, I like new content. I like new areas, new quests, new NPCs, new weapons, new outfits, new faces. You'll find all of that - and a whole lot more - in this list. I genuinely hope you enjoy it as much as I do.
 
-This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you want Survival, you should play [Fallout 4 Enhanced Edition](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition).
+This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you want Survival, you should play [Fallout 4 Enhanced Edition](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition) or [Life in the Ruins](https://www.wabbajack.org/#/modlists/info?machineURL=life_in_the_ruins).
 
 Is Magnum Opus for you? I don't know, but [this video by DroppedIceCream might help you decide](https://youtu.be/Q2s84pTpkwE).
+
+**Please read this readme in its entirety.**
+
+**Please read the FAQ again before reporting an issue or asking me a question.**
+
+**Please consult the in-game Magnum Opus Beginner's Guide terminal outside Vault 111 before alt-tabbing out to Discord to ask for my help.**
 
 ---
 
@@ -389,6 +395,21 @@ That's it! Have fun!
 - Why can't I use multiple companions/why can't I use Dogmeat with a vanilla companion?
 
   - One follower is enough, and Heather (a modded follower from [here](https://www.nexusmods.com/fallout4/mods/23273)) doesn't occupy a "follower" slot, so you can have Heather + one other companion. Considering how overpowered that is, there is no reason I should add Dogmeat to the mix as well.
+
+
+- Why does my flashlight have a faint red ring around the edges?
+
+  - Because I like it.
+
+
+- I hate the Power Armor HUD overlays. Can I delete them?
+
+  - You can use the Power Armor HUD Switcher holotape to disable them. Do not disable them while you're in Power Armor.
+
+
+- Why am I invulnerable/invincible/not taking damage/in permanent God Mode?
+
+  - Please read the Magnum Opus Beginner's Guide terminal outside Vault 111. It even has a holotape version so you can read it on the go or easily reference it as needed.
 
 
 - Can I add an ENB?
