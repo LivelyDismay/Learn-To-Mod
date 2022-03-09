@@ -374,7 +374,7 @@ That's it! Have fun!
 
 - Can I add more mods or remove some mods I don't want?
 
-  - Can you? Yes. Will I help you? Maybe, but **please discuss it in either general channels or my personal Discord server**, and be sure to disclose the fact that you've edited the list before reporting any bugs or crashes. If you're open and honest with me, I'm honestly much more willing to help you through your issues.
+  - Can you? Yes. Will I help you? Maybe (I do write some [tutorials to help you out](https://github.com/LivelyDismay/Learn-To-Mod/wiki) after all), but **please discuss it in either general channels or [my personal Discord server](https://discord.gg/yABEjwB)**, and be sure to disclose the fact that you've edited the list before reporting any bugs or crashes. If you're open and honest with me, I'm honestly much more willing to help you through your issues.
 
 
 - Where is my crosshair?
@@ -390,16 +390,6 @@ That's it! Have fun!
 - Why can't I use multiple companions/why can't I use Dogmeat with a vanilla companion?
 
   - One follower is enough, and Heather (a modded follower from [here](https://www.nexusmods.com/fallout4/mods/23273)) doesn't occupy a "follower" slot, so you can have Heather + one other companion. Considering how overpowered that is, there is no reason I should add Dogmeat to the mix as well.
-
-
-- I've been following along your [amazing and wonderful modding tutorials](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) and they're great! But my added mods are breaking precombines/previs/making shit flicker in and out of existence a lot. What the hell, man?
-
-  - Load your mods ABOVE all the `* Previs.esp` files in the load order.
-
-
-- I've been following along your [totally shitty modding tutorials](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) and they suck! My game keeps crashing when I add stuff after following your instructions! What the hell, man?
-
-  - That sucks. Post in general-f4-discussions in the Wabbajack server, or any channel in my personal discord server. If you're not a dick, I'm genuinely more than happy to help if I can.
 
 ---
 
