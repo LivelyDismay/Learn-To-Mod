@@ -191,41 +191,28 @@ Updating is like installing. You only have to make sure that you select the same
 
 **Yes this step is required, stop asking me every single day.**
 
-Go to [BiRaitBec’s Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
-Manually download the **WorkBase** file.  
+Go to [BiRaitBec Workbase Improved](https://www.nexusmods.com/fallout4/mods/57782) and download the Main File.  
+Extract this archive into a blank folder, outside of a Windows protected directory (such as `D:/Workbase Improved`).  
+
+Now go to [BiRaitBec’s Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
 Manually download the **Main Repack** files (Part One, Part Two, and Part Three).  
-  
-Extract the WorkBase file with 7zip.  
-You should have three folders inside of Workbase: OriginalBa2, PatchedBa2, and PatchedFiles.  
-Navigate to your Fallout4/Data folder and **copy** these 15 files:  
 
-`Fallout4 - Textures1.ba2`  
-`Fallout4 - Textures2.ba2`  
-`Fallout4 - Textures3.ba2`  
-`Fallout4 - Textures4.ba2`  
-`Fallout4 - Textures5.ba2`  
-`Fallout4 - Textures6.ba2`  
-`Fallout4 - Textures7.ba2`  
-`Fallout4 - Textures8.ba2`  
-`Fallout4 - Textures9.ba2`  
-`DLCworkshop01 - Textures.ba2`  
-`DLCworkshop02 - Textures.ba2`  
-`DLCworkshop03 - Textures.ba2`  
-`DLCRobot - Textures.ba2`  
-`DLCCoast - Textures.ba2`  
-`DLCNukaWorld - Textures.ba2`  
+Finally, go to [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/fallout4/mods/40534?tab=files) and **ONLY** download the last Update File entitled `Fix Vault-Window-Metal-Institute`.
 
-**Paste** these files into your **WorkBase/OriginalBa2** folder.
-**Extract** Main Repack Part One into a new folder.
-Inside the new folder, you should see another folder called “**textures**”. **Cut** this textures folder and **paste** it into **Workbase/PatchedFiles**.
-**Repeat the previous two steps** for Part Two and Part Three of the Main Repack archives.
-Run the **installer.bat** file inside of WorkBase.
-When it is done, you'll see 15 new files inside of the `PatchedBA2s` folder. Cut or copy these archives. Navigate to your Magnum Opus mods folder and find the Workbase folder (`Magnum Opus/mods/[NoDelete] Workbase Optimized Textures`). Paste the archives into here.
-  
-After all of these steps are complete, you may delete the WorkBase folder. If you have the space, I advise making a backup of both the vanilla ba2 files as well as the patched ba2 files. It will save you the trouble of having to redownload them again later.
+DO NOT UNPACK any of these archives. Simply **COPY** the archives into the `D:/Workbase Improved/Repack7z` folder.
 
-Your PatchedBA2 files should match these sizes:  
-![alt text](https://raw.githubusercontent.com/LivelyDismay/Learn-To-Mod/main/images/workbase%20file%20sizes.png)
+Go back to your `Workbase Improved` folder. RIGHT CLICK the `Installer.ps1` file and select `Run with PowerShell`.  
+  -  If you get an "Execution Policy Change" warning, type `Y` then press `Enter`.
+
+Choose the output of your liking. You may use the default `PatchedBa2` folder, or navigate to your Magnum Opus installation and select `mods/[NoDelete] Workbase Optimized Textures`.  
+PowerShell will now launch and begin verifying all of your archives, then repacking your .ba2 files.  
+**This process may take an hour or two, depending on your hardware.** I recommend you go watch a movie. Die Hard is always a good choice.  
+When the installer is finished, it will automatically close itself.
+  -  If you chose the default `PatchedBa2` folder for your output, navigate to that folder, select all the archives inside, Copy them (right click > copy, or Ctrl+C). Then navigate to `Magnum Opus/mods/[NoDelete] Workbase Optimized Textures` and paste the archives here (right click > paste, or Ctrl+V).
+
+*Many thanks to Rux616 for the Workbase Improved installer, please do go show him some love and endorse his work.*
+
+---
 
 ## Noteworthy Mods
 
