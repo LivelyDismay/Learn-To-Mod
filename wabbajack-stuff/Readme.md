@@ -87,12 +87,6 @@ Download the x64 version under [Visual Studio 2012 (VC++ 11.0) Update 4](https:/
 
 #### Steam Config
 
-##### Disable the Steam Overlay
-
-The Steam Overlay can cause issues with ENB and is recommended to be turned off.
-
-Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
-
 #### Change Steams Update Behavior
 
 Fallout 4 is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
