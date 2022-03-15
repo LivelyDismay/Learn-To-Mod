@@ -352,7 +352,7 @@ That's it! Have fun!
 
 - I am having random crashes.
 
-  - A common cause for this is faulty Workbase files. Go back and verify the sizes of yours match the image above. If not, redo the Workbase steps.
+  - A common cause for this is faulty Workbase files. Disable the Workbase mod and launch the game again. If it doesn't crash, an error occurred during the Workbase process. Redo it.
   - Another reason this could be happening is due to your Nvidia driver. Roll back to version 442.xx and the crashes will be gone.
   - And yet *another* reason is due to BitDefender. You can [temporarily disable BitDefender](https://www.bitdefender.com/consumer/support/answer/28557/) to alleviate this issue.
 
