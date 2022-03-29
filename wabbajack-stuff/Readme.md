@@ -140,6 +140,8 @@ Download this manually, put the archive in your Downloads folder, and restart Wa
 
 This can happen when I update the modlist. Check if a new update is available and wait if there is none.
 
+Need help with something else? [Join my Discord server for live support.](https://discord.gg/yABEjwB)
+
 - **Wabbajack could not find my game folder**:
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
@@ -364,7 +366,7 @@ That's it! Have fun!
 
 - Can I add more mods or remove some mods I don't want?
 
-  - Can you? Yes. Will I help you? Maybe (I do write some [tutorials to help you out](https://github.com/LivelyDismay/Learn-To-Mod/wiki) after all), but **please discuss it in either general channels or [my personal Discord server](https://discord.gg/yABEjwB)**, and be sure to disclose the fact that you've edited the list before reporting any bugs or crashes. If you're open and honest with me, I'm honestly much more willing to help you through your issues.
+  - Can you? Yes. Will I help you? Maybe (I do write some [tutorials to help you out](https://github.com/LivelyDismay/Learn-To-Mod/wiki) after all), but **please discuss in the #magnum-opus-addons channel in [my personal Discord server](https://discord.gg/yABEjwB)**, and be sure to disclose the fact that you've edited the list before reporting any bugs or crashes. If you're open and honest with me, I'm honestly much more willing to help you through your issues.
 
 
 - Where is my crosshair?
