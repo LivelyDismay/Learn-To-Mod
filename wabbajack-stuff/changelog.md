@@ -2,45 +2,45 @@
 
 Version 6.0.0 Beta 2
 
-Updated Sim Settlements 2.
-Updated Sim Settlements 2 - Chapter 2.
-Updated Workshop Framework.
-Updated Equipment and Crafting Overhaul (ECO).
-Updated This is Trash.
-Updated Heather Casdin.
-Updated 4estGimp - Raider Overhaul ONE.
-Updated Fallout 4 Ultimate Window Overhaul.
-Updated Wetness Shader Fix.
-Updated Subversion.
-Updated NPC Level Scaling Patch.
-Updated Fast Start - Skip Prewar Sanctuary.
-Updated Pra's Random Addon for SS2.
-Updated Power Combined Arms.
-Updated Nuka World Plus.
-Updated Creative Perks Plus.
-Updated Companion Thoughts Overhaul.
+Updated Sim Settlements 2.  
+Updated Sim Settlements 2 - Chapter 2.  
+Updated Workshop Framework.  
+Updated Equipment and Crafting Overhaul (ECO).  
+Updated This is Trash.  
+Updated Heather Casdin.  
+Updated 4estGimp - Raider Overhaul ONE.  
+Updated Fallout 4 Ultimate Window Overhaul.  
+Updated Wetness Shader Fix.  
+Updated Subversion.  
+Updated NPC Level Scaling Patch.  
+Updated Fast Start - Skip Prewar Sanctuary.  
+Updated Pra's Random Addon for SS2.  
+Updated Power Combined Arms.  
+Updated Nuka World Plus.  
+Updated Creative Perks Plus.  
+Updated Companion Thoughts Overhaul.  
 
-Added SS2 Addon - Unlock Vanilla Recruitable Vendors.
-Added Nuka Cola and Beverage Fix.
-Added Inside Jobs Small Fixes.
-Added Discord Rich Presence.
-Added Random Valuables Redux.
-Added I'm Darlene.
-Added Old Time Religion.
-Added SS2 XDI Perk Speech Check.
+Added SS2 Addon - Unlock Vanilla Recruitable Vendors.  
+Added Nuka Cola and Beverage Fix.  
+Added Inside Jobs Small Fixes.  
+Added Discord Rich Presence.  
+Added Random Valuables Redux.  
+Added I'm Darlene.  
+Added Old Time Religion.  
+Added SS2 XDI Perk Speech Check.  
 
-Removed Recruitable NPCs.
-Removed Animal Rescue.
-Removed NPC Level Scaling - Beastly Bosses plugin.
+Removed Recruitable NPCs.  
+Removed Animal Rescue.  
+Removed NPC Level Scaling - Beastly Bosses plugin.  
 
-Fixed TCD Skin Overlays.
-Re-enabled Crosshair (I think? Did I replace my old one with it? If not, let me know, I'll export it again).
-Created new MCM Settings Manager output.
-Reran sorter plugins.
+Fixed TCD Skin Overlays.  
+Re-enabled Crosshair (I think? Did I replace my old one with it? If not, let me know, I'll export it again).  
+Created new MCM Settings Manager output.  
+Reran sorter plugins.  
 
 Notes:
-This is Trash breaks a lot of cells. I only made the plugin at this stage, I didn't do any cell regeneration.
-I have not yet used Old Time Religion or I'm Darlene, so I have no idea if there are any issues. Happy to hear about anything you encounter.
+This is Trash breaks a lot of cells. I only made the plugin at this stage, I didn't do any cell regeneration.  
+I have not yet used Old Time Religion or I'm Darlene, so I have no idea if there are any issues. Happy to hear about anything you encounter.  
 
 ---
 
