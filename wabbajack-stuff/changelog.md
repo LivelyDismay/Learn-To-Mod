@@ -102,7 +102,7 @@ Removed Shaw Memorial Restoration.
 Removed Sim Settlements 2 XDI Perk Speech Check patch.  
 
 Where There's Smoke should no longer have frozen dialogue scenes.  
-Changed name of Engineering Workbench to Power Armor Workbench.
+Changed name of Engineering Workbench to Power Armor Workbench.  
 Fixed gold crafting costs at the Junk Workbench (probably).  
 Unpacked Auto Hack.  
 Unpacked Auto Lockpick.  
