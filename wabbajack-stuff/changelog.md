@@ -1,3 +1,135 @@
+2022/05/12
+
+Version 6.0.0 Beta 3
+
+Updated Equipment and Crafting Overhaul (ECO).  
+Updated xEdit.  
+Updated Mod Organizer 2.  
+Updated M8r's Complex Sorter.  
+Updated exported MCM settings.  
+
+Added Jampads 2 - a Sim Settlements 2 Add-on.  
+Added Sim Settlements 2 - Junk Town 2 Addon Pack.  
+Added Sim Settlements 2 - Apocalyptic Additions Addon Pack.  
+Added Sim Settlements 2 - So I Made Plans Addon Pack.  
+Added SimHomestead 2 - A SimSettlements 2 addon.  
+Added SS2 Addon - Bare Essentials.  
+Added Vault-Tec Tools - Sim Settlements 2 Addon Pack.  
+Added Sim Settlements 2 - Junk Town - FENCES 2 Addon Pack.  
+Added Sim Settlements 2 - Ruined Homes and Gardens 2.0.  
+Added IDEK's Logistics Station 2.  
+Added Sim Settlements 2 - Tech Settlements.  
+Added Favelabulous.  
+Added SS2 Blood Moon Raiders - A Sim Settlements 2 Addon Pack.  
+Added Sim Settlements 2 - Rags and Riches.  
+Added SS2 Radiant Municipal Power.  
+Added Faster Upfront Settler Training SS2.  
+Added Abernathy Farm - The Roof Diner.  
+Added BOS Airport (Boston Airport) - Sim Settlements 2 - City Plan Contest - March 2022.  
+Added Bunker Hill Mega City (Winner sim settlement 2 City plan conquest 2021-09).  
+Added Bunker Hill Skymall - Sim Settlements 2 City Plan - City Plan Contest Entry September 2021.  
+Added Castle Restoration Project - March City Plan Contest Entry.  
+Added Choochoo1's Vault 88 Metro City Plan - October2021 Entry.  
+Added Coastal Cottage - Sim Settlements 2 City Plan Contest Entry - July 2021.  
+Added Cozy Covenant - Sim Settlements 2 City Plan Contest Finalist September 2021.  
+Added Dugout Liquors (Croup Manor) - Sim Settlements 2 City Plan.  
+Added Experimental Farm 06 (Coastal Cottage) - Sim Settlements 2 City Plan - July 2021 Contest Entry.  
+Added Finch Farm The Arms Fair (Sim Settlement 2 City plan conquest 2022-02).  
+Added Finch Salvage Recovery - Sim Settlements 2 City Plan Contest Winner February 2022.  
+Added Fort Somerville (Somerville Place) - Sim Settlements 2 City Plan.  
+Added Fort Tenpines Sim Settlements 2 City plan entry for July2021.  
+Added Greentop Cannery Sim Settlements 2 City Plan.  
+Added Hang'em Mall (Hangman's Alley) - Sim Settlements 2 City Plan.  
+Added Karvocs Kollections.  
+Added Kingsport Lighthouse City Plan SS2 Contest Entry April 2021.  
+Added Longfellow's Floating Islands - City Plan SS2 Contest Winner June 2021.  
+Added Minutemen and Manor - Sim Settlements 2 - City Plan Contest Finalist - March 2021.  
+Added Minutemen Castle Command - Sim Settlements 2 City Plan Contest March 2022.  
+Added Murkburgers (Murkwater Construction) - Sim Settlements 2 City Plan.  
+Added Murkwater City Plan Entry for May 2021 All praise Atom for it is right to do so.  
+Added Murkwater Observatory (Finalist sim settlement 2 City plan conquest 2021-05).  
+Added National Park Prison - Sim Settlements 2 City Plan.  
+Added Nordhagen Fishery - Sim Settlements 2 City Plan Contest April 2022.  
+Added Oberland Outpost - Sim Settlements 2 City Plan Contest Entry November 2021.  
+Added Oberland Station - The Scavengers' Paradise (Sim Settlement 2 City plan conquest 2021-11).  
+Added Oberland Station Planet X - SS2 November City Plan Contest.  
+Added Port Dalton SS2 April 2022 City Plan Contest entry.  
+Added Red Rocket Foundry - Sim Settlements 2 City Plan Contest Entry - March 2021.  
+Added Red Rocket Happy City (Sim Settlements 2 City Plan Contest 2021-03).  
+Added Red Rocket Reclamation.  
+Added Reina's Croup Market - City Plan Contest Entry March 2021.  
+Added Reina's Vault 88 City Plan for Sim Settlements 2.  
+Added Sanctuary City Plan SS2 Contest Entry June 2021.  
+Added Sim Settlements 2 - Blackbelt's Vault 88.  
+Added Sim Settlements 2 - Captain Croup Bar and Dive Entry for the City Plan Contest for March 2021.  
+Added Sim Settlements 2 - Murkwater Industries.  
+Added Sim Settlements 2 - Rad Scrappers Marina August 2021 Contest Entry.  
+Added Sim Settlements 2 - Spectacle Prison.  
+Added Sim Settlements 2 - The National Park Training Ground.  
+Added Sim Settlements 2 City Plan Croup Manor - CroumanVil.  
+Added Sim Settlements 2 City Plan Echo Lake Lumber - EchoVil.  
+Added Sim Settlements 2 City Plan Kingsport Lighthouse - KingsVil.  
+Added Sim Settlements 2 City Plan Murkwater Construction Site - DozerVil.  
+Added Simple Sanctuary - Sim Settlements 2 City Plan.  
+Added Slog Tarberries and Fitness - Sim Settlements 2 City Plan - August 2021 Contest Entry.  
+Added Somerville Pet Place - Sim Settlements 2 City Plan Contest Entry November 2021.  
+Added Somerville Place (Sim Settlement 2 City plan contest entry 2021-11).  
+Added SS2 City Plan - Coastal Cottage Nuka-Cade Vacation Destination.  
+Added SS2 Nordhagen Beach Seaside Views - City Plan Contest April 2022.  
+Added SS2 Sanctuary Green Hills.  
+Added Starlight Hive - Sim Settlements 2 City Plan.  
+Added Sunshine Hive (Sunshine Tidings Co-Op) - Sim Settlements 2 City Plan.  
+Added Sunshine Tiding - The medical center (Winner Sim Settlement 2 City plan conquest 2022-01).  
+Added Tenpines Bluff a fortified Village.  
+Added Tenpines Hive - Sim Settlements 2 City Plan.  
+Added The Alley Cabaret a Sim Settlements 2 City Plan Contest Finalist - April 2021.  
+Added The Castle Rebuilt-Minutemen HQ - Sim Settlements 2 City Plan and Layouts-Blueprints.  
+Added The Circle (Red Rocket) - Sim Settlements 2 City Plan Contest Entry - March 2021 - Winner.  
+Added The Croup SS2 Contest Plan Mar 21.  
+Added The Slog An ingenious pool(Sim Settlements 2 City Plan Contest 2021-08).  
+Added Vaulted Vault 88 - Sim Settlements 2 City Plan Contest Winner October 2021.  
+Added Zimonja Cavern - Sim Settlements 2 City Plan Contest Winner July 2021.  
+Added SS2 City Plan Pack - ZJ PerfPlans.  
+Added SS2 - Vit-O-Matic Sensors for West Tek Tactical Optics.  
+
+Removed Build Your Own Pool.  
+Removed Advanced AI Tweaks.  
+Removed Sleepless Nights.  
+Removed Real Troughs - New Brahmin Feeders.  
+Removed The Kuro Tab.  
+Removed Vertibird Landing Pad.  
+Removed Shaw Memorial Restoration.  
+Removed Sim Settlements 2 XDI Perk Speech Check patch.  
+
+Where There's Smoke should no longer have frozen dialogue scenes.  
+Changed name of Engineering Workbench to Power Armor Workbench.
+Fixed gold crafting costs at the Junk Workbench (probably).  
+Unpacked Auto Hack.  
+Unpacked Auto Lockpick.  
+Unpacked Improved Disarm.  
+Unpacked Legendary Radroach Fix.  
+Unpacked Rusty Face Fix.  
+Unpacked Weapon Quickswap.  
+Unpacked Creation Club Delayed.  
+Unpacked Automatically Lowered Weapons.  
+Unpacked BS Defence.  
+Unpacked Fortune Finder 4 Fix - Enhanced Bottlecap Mine.  
+
+Known issues:  
+
+Raider Armor isn't tagged.  
+Dreadnaught armor isn't tagged.  
+A few other things from Raider Overhaul aren't tagged.  
+Some CC content isn't tagged (CC profile only).  
+Taffington Boathouse has collision issues.  
+One house at the top of the hill in Concord is invisible, causing culling issues.  
+Presets have default hair.  
+Claudia (12047d77, 12047d55) spawns naked.  
+Heather Casdin and Vault 494 use the same radio frequency.  
+One Synth helmet is double tagged.  
+
+---
+
 2022/05/05
 
 Version 6.0.0 Beta 2
