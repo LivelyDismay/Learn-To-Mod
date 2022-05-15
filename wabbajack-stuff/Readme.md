@@ -47,7 +47,7 @@ This means if I like a mod, it's going in. There is no such thing as "it doesn't
 
 To that end, I like new content. I like new areas, new quests, new NPCs, new weapons, new outfits, new faces. You'll find all of that - and a whole lot more - in this list. I genuinely hope you enjoy it as much as I do.
 
-This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you want Survival, you should play [Fallout 4 Enhanced Edition](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition) or [Life in the Ruins](https://www.wabbajack.org/#/modlists/info?machineURL=life_in_the_ruins).
+This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you want Survival, you should play [Fallout 4 Enhanced Edition](https://www.wabbajack.org/modlist/wj-featured/fallout_4_enhanced_edition) or [Life in the Ruins](https://www.wabbajack.org/modlist/wj-featured/life_in_the_ruins).
 
 Is Magnum Opus for you? I don't know, but [this video by DroppedIceCream might help you decide](https://youtu.be/Q2s84pTpkwE).
 
@@ -402,18 +402,6 @@ That's it! Have fun!
 - Can I add an ENB?
 
   - If you hate yourself, sure. Some people have added ENBs and reported consistent crashes, so your mileage may vary. Don't add an ENB and report bugs to me because I can't/won't help.
-
----
-
-## Controller Support
-
-If you're playing with a controller, your pipboy map won't work properly (the cursor will be stuck in the corner quadrant of the map). Open the MO2 INI Editor, select fallout4prefs.ini, and scroll down until you see the `[Display]` section. At the bottom, you'll find two lines:  
-`uPipboyTargetHeight=1400`  
-`uPipboyTargetWidth=1752`  
-Change these two lines to the following:  
-`uPipboyTargetHeight=700`  
-`uPipboyTargetWidth=876`  
-Then find the `[General]` section and change `bGamepadEnable=` from a `0` to a `1`.
 
 ---
 
