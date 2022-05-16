@@ -405,6 +405,18 @@ That's it! Have fun!
 
 ---
 
+## Controller Support
+
+If you're playing with a controller, your pipboy map won't work properly (the cursor will be stuck in the corner quadrant of the map). Open the MO2 INI Editor, select fallout4prefs.ini, and scroll down until you see the `[Display]` section. At the bottom, you'll find two lines:  
+`uPipboyTargetHeight=1400`  
+`uPipboyTargetWidth=1752`  
+Change these two lines to the following:  
+`uPipboyTargetHeight=700`  
+`uPipboyTargetWidth=876`  
+Then find the `[General]` section and change `bGamepadEnable=` from a `0` to a `1`.
+
+---
+
 ## Widescreen Support
 
 I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously. A generous discord user by the name of bjdripley wrote an [Ultrawide Compatibility Guide for Magnum Opus](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) that you may find useful.
