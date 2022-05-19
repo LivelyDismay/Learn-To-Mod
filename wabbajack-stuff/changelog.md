@@ -1,3 +1,52 @@
+2022/05/19
+
+Version 6.1.0
+
+Updated Sim Settlements 2.  
+Updated SS2 Chapter 2.  
+Updated Workshop Framework.  
+Updated Rise of the Commonwealth for SS2.  
+Updated Creative Perks Plus.  
+Updated FallUI - Map.  
+Updated FallUI - HUD.  
+Updated FallUI - Confirm Boxes.  
+Updated FallUI - Workbench.  
+Updated Portable Junk Recycler Mk2.  
+Updated Heather Casdin.  
+Updated MCM Settings Manager.  
+Updated SS2 - XDI Compatibility Patch.  
+
+Added SS2 Settlers at Play.  
+Added ECO - Old Time Religion patch.  
+
+Removed Flicker Fixer.  
+
+Downgraded Raider Overhaul.  
+WF Witch outfit from Far West Minutemen will no longer spawn.  
+Restored all ROTC plans so you can build them without restriction. Untested.  
+Removed doubled Psychotats recipe.  
+Typo fix in Heavy Gunner rank 2 description.  
+Bug fix to Lively's CC - VR Workshop - Desert Island.esp (CC Profile only).  
+Edited perk descriptions for Fortune Finder ranks 2 and 3.  
+Added new keyword for WeaponTypeSubmachineguns; edited Heavy Gunner rank 1 to reflect this. So what's that mean? Any weapons in the Submachine Guns category in the Weaponsmith Workbench will benefit from Heavy Gunner's Submachinegun-specific buff.  
+
+Known issues:  
+
+One house at the top of the hill in Concord is invisible, causing culling issues.  
+Presets have default hair.  
+Claudia (12047d77, 12047d55) spawns naked.  
+Heather Casdin and Vault 494 use the same radio frequency.  
+One Synth helmet is double tagged.  
+
+Notes: 
+
+This is Trash was rebuilt from scratch. That's why you have two of them in the left pane. The new one will (eventually) completely replace the old one. When I stop being so lazy.  
+Once M8r and his crew finally put the FallUI Icon Library on Nexus, that will require about a dozen mod updates, new sorter outputs, and probably a new save. Just a heads up. But you are of course free to continue playing this version as long as you like without updating.  
+Updates are never mandatory. This version of Magnum Opus has been very thoroughly tested by myself and a few dozen others, so bugs should be extremely minimal. In 26 hours of playtime, I had one crash that I could not reproduce or diagnose.  
+The known issues are so minor that I'm finally comfortable releasing this into the wild. Thanks for your time.
+
+---
+
 2022/05/12
 
 Version 6.0.0 Beta 3
