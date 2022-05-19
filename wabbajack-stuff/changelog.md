@@ -11,17 +11,23 @@ Updated FallUI - Map.
 Updated FallUI - HUD.  
 Updated FallUI - Confirm Boxes.  
 Updated FallUI - Workbench.  
+Updated FallUI - Inventory.  
 Updated Portable Junk Recycler Mk2.  
 Updated Heather Casdin.  
 Updated MCM Settings Manager.  
 Updated SS2 - XDI Compatibility Patch.  
+Updated 4estGimp - M8r98a4f2's Complex Item Sorter Enhancements.  
 
 Added SS2 Settlers at Play.  
 Added ECO - Old Time Religion patch.  
+Added FallUI - Icon Library.  
+Added FIS - The NEW FallUI Item Sorter.  
+Added Atom Cats Drag Race Start Fix.  
 
+Removed DEF_UI Iconlibs Rescaled and Fixed.  
 Removed Flicker Fixer.  
 
-Downgraded Raider Overhaul.  
+Reran sorter outputs.  
 WF Witch outfit from Far West Minutemen will no longer spawn.  
 Restored all ROTC plans so you can build them without restriction. Untested.  
 Removed doubled Psychotats recipe.  
@@ -36,12 +42,10 @@ One house at the top of the hill in Concord is invisible, causing culling issues
 Presets have default hair.  
 Claudia (12047d77, 12047d55) spawns naked.  
 Heather Casdin and Vault 494 use the same radio frequency.  
-One Synth helmet is double tagged.  
 
 Notes: 
 
-This is Trash was rebuilt from scratch. That's why you have two of them in the left pane. The new one will (eventually) completely replace the old one. When I stop being so lazy.  
-Once M8r and his crew finally put the FallUI Icon Library on Nexus, that will require about a dozen mod updates, new sorter outputs, and probably a new save. Just a heads up. But you are of course free to continue playing this version as long as you like without updating.  
+This is Trash was rebuilt from scratch. That's why you have two of them in the left pane. The new one will (eventually) completely replace the old one. When I stop being so lazy.   
 Updates are never mandatory. This version of Magnum Opus has been very thoroughly tested by myself and a few dozen others, so bugs should be extremely minimal. In 26 hours of playtime, I had one crash that I could not reproduce or diagnose.  
 The known issues are so minor that I'm finally comfortable releasing this into the wild. Thanks for your time.
 
