@@ -41,7 +41,7 @@
 
 ### Magnum Opus
 
-Magnum Opus is what one would describe as a "kitchen sink list." There is no specific focus or aspect I really care about. There is no specific goal I'm trying to achieve. I just want to have fun.
+Magnum Opus is what one would describe as a "kitchen sink list." There is no specific focus or aspect I really care about. There is no set goal I'm trying to achieve. I just want to have fun.
 
 This means if I like a mod, it's going in. There is no such thing as "it doesn't fit my aesthetic" or "it goes against the theme of the list." The theme is fun.
 
@@ -55,7 +55,7 @@ Is Magnum Opus for you? I don't know, but [this video by DroppedIceCream might h
 
 **Please read the FAQ again before reporting an issue or asking me a question.**
 
-**Please consult the in-game Magnum Opus Beginner's Guide terminal outside Vault 111 before alt-tabbing out to Discord to ask for my help.**
+**Please consult the in-game Magnum Opus Beginner's Guide terminal (which also has a holotape for a portable version of the terminal!) outside Vault 111 before alt-tabbing out to Discord to ask for my help.**
 
 ---
 
