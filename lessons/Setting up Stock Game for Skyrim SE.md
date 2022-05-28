@@ -126,11 +126,5 @@ PCA SE does not require any special setup other than telling it where the game i
 
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/Stock%20Game%2013.png)
 
-### Wrye Bash
-
-Using the -o argument, point it towards the folder with the game executable. The double backslashes is intended.
-
--o "D:\\Tsukiro\\Tsukiro Stock Game\\"
-
 ## Conclusion
 Whilst Stock Game might seem like a difficult thing to setup, in actuality it's not that tricky. By ensuring you use the correct paths and tell tools where things are, you can have totally seperated instances of modded games.
