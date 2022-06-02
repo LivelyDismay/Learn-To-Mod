@@ -1,3 +1,13 @@
+2022/06/02
+
+Version 6.1.1
+
+Slight update to This is Trash.  
+Fixed various typos that were bothering me.  
+Fixed Drumlin Diner.  
+
+---
+
 2022/05/19
 
 Version 6.1.0
