@@ -100,3 +100,21 @@ Download these files manually, paste them into your `downloads` folder that you 
 Nothing. The loading screens have been reduced to the bare necessities in order to allow the game to load the next area faster, instead of wasting time working on loading the loading screen.
 
 ---
+
+**Where did the Bobbleheads and Magazines go?**
+
+They've been randomized. [Check out the mod page](https://www.nexusmods.com/fallout4/mods/60097).
+
+---
+
+**How do I change my FOV?**
+
+While in game, press Escape, select `Mod Config`, then head down to `Custom Camera`. **Save any changes you make in this MCM to its own Profile or the changes will not stick.**
+
+---
+
+**Is the BiRaitBec Texture Optimization step required?**
+
+Technically, no. But you should still do it.
+
+---
