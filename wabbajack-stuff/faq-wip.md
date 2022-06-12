@@ -2,7 +2,7 @@
 
 ---
 
-**My characters have black/brown/tan/bugged faces. What happened?**
+#### **My characters have black/brown/tan/bugged faces. What happened?**
 
 First, ensure you do NOT have the High Definition DLC active in Steam. If you don't, then quite frankly, the so-called "Black Face Bug" can happen randomly. Saving and reloading should fix it.
 
