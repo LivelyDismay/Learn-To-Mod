@@ -17,20 +17,12 @@
   - [Using Wabbajack](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#using-wabbajack)
     - [Preparations](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#preparations)
       - [Problems with Wabbajack](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#problems-with-wabbajack)
-  - [Post-Installation](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#post-installation)
-    - [Copy Game Folder Files](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#copy-game-folder-files)
-    - [Launching the Game](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#launching-the-game)
-- [Updating](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#updating)
-- [BiRaitBec Texture Optimization](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#biraitbec-texture-optimization)
+- [Post Installation](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#post-installation)
 - [Noteworthy Mods](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#noteworthy-mods)
 - [Creation Club Support](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#creation-club-support)
 - [A Few Quick Notes](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#a-few-quick-notes)
-- [In-Game MCM Options](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#in-game-mcm-options)
 - [FAQ](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#faq)
-- [Controller Support](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#controller-support)
-- [ENB](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#enb)
 - [Widescreen Support](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#widescreen-support)
-- [Credits and Thanks](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#credits-and-thanks)
 - [Contact](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#contact)
 
 ---
@@ -127,44 +119,21 @@ Click the `Play` arrow. If you have a Nexus Premium account, all of your downloa
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
-- **Could not download x**:
+- **I'm having problems downloading a few files**
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait until I update the Modlist. I'm typically extremely quick to respond to a situation such as this.
+The most common files that fail to download through Wabbajack are as follows:
+  -  [Tattoos Collection by Dreivor Overlays Edition (TCD)](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=232053&game_id=1151iles)
+  -  [More Hairstyles - Beards](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
+  -  [Misc Hairstyles 1.6](http://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file)
+  -  [FO4 Lodgen Resources](https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4)
 
-- **Mega links aren't downloading**:
-
-Download this manually, put the archive in your Downloads folder, and restart Wabbajack.  
- - [FO4LODGen Resources](https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4)  
-
-- **x is not a whitelisted download**:
-
-This can happen when I update the modlist. Check if a new update is available and wait if there is none.
+Download these files manually, paste them into your `downloads` folder that you specified for Wabbajack, then rerun the installation.
 
 Need help with something else? [Join my Discord server for live support.](https://discord.gg/yABEjwB)
 
 - **Wabbajack could not find my game folder**:
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
-
----
-
-### Post-Installation
-
----
-
-#### Copy Game Folder Files
-
-After Wabbajack turns green and says Installation Complete, you can close it. Go to your installation folder (I will refer to this folder as the MO2 folder from now on) and you'll see a folder named `Game Folder Files`.
-
-Copy all of the files from the `MO2/Game Folder Files` directory into your game folder. To further clarify this, you are copying **the contents** of this folder, not the entire folder itself.
-
----
-
-#### Launching the Game
-
-After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
-
-You may notice some mods are deactivated. These are for the Creation Club profile. Please see the [Creation Club Support](#creation-club-support) section a bit further down for more information.
 
 ---
 
@@ -189,34 +158,9 @@ Updating is like installing. You only have to make sure that you select the same
 
 ---
 
-## BiRaitBec Texture Optimization
+## Post Installation
 
-**YOU NEED A CLEAN INSTALLATION OF FALLOUT 4 FOR THIS TO WORK PROPERLY.**
-
-This step hashes your vanilla files, just like Wabbajack hashes all the downloads and mods. They need to be PERFECTLY CLEAN AND UNALTERED. If you'd like to be sure, just Verify Integrity of Game Files through Steam to make sure your Fallout 4 archives are pristine.
-
-Go to [BiRaitBec Workbase Improved](https://www.nexusmods.com/fallout4/mods/57782) and download the Main File.  
-Extract this archive into a blank folder, outside of a Windows protected directory (such as `D:/Workbase Improved`).  
-
-Now go to [BiRaitBec’s Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
-Manually download the **Main Repack** files (Part One, Part Two, and Part Three).  
-
-Finally, go to [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/fallout4/mods/40534?tab=files) and **ONLY** download the last Update File entitled `Fix Vault-Window-Metal-Institute`.
-
-DO NOT UNPACK any of these archives. Simply **COPY** the archives into the `D:/Workbase Improved/Repack7z` folder.
-
-Go back to your `Workbase Improved` folder. RIGHT CLICK the `Installer.ps1` file and select `Run with PowerShell`.  
-  -  If you get an "Execution Policy Change" warning, type `Y` then press `Enter`.
-
-Choose the output of your liking. You may use the default `PatchedBa2` folder, or navigate to your Magnum Opus installation and select `mods/[NoDelete] Workbase Optimized Textures`.  
-PowerShell will now launch and begin verifying all of your archives, then repacking your .ba2 files.  
-**This process may take an hour or two, depending on your hardware.** I recommend you go watch a movie. Die Hard is always a good choice.  
-When the installer is finished, it will automatically close itself.
-  -  If you chose the default `PatchedBa2` folder for your output, navigate to that folder, select all the archives inside, Copy them (right click > copy, or Ctrl+C). Then navigate to `Magnum Opus/mods/[NoDelete] Workbase Optimized Textures` and paste the archives here (right click > paste, or Ctrl+V).
-
-Due to how Wabbajack works, you only need to do this step ONCE. The `[NoDelete]` flag will prevent Wabbajack from ever deleting this mod during updates, so you will never have to redo this step unless you delete it yourself. Huzzah!
-
-*Many thanks to Rux616 for the Workbase Improved installer, please do go show him some love and endorse his work.*
+This section [has been moved to its own page, just to really make it stand out in its importance.](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Post-Install.md) **Magnum Opus WILL CRASH CONSTANTLY if you do not do this part.**
 
 ---
 
@@ -325,111 +269,15 @@ You may also notice some other mods are deactivated in the CC Profile - namely, 
 
 ---
 
-## In-Game MCM Options
-
-After leaving Vault 111, pop open your MCM Config and follow these instructions.  
-*_Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
-
-**MCM Settings Manager**  
-Apply the `Magnum Opus MCM Settings` Preset.  
-![alt text](https://i.imgur.com/WPIBXJ3.png)
-
-**ECO - Legendary Injector**  
-![alt text](https://i.imgur.com/KU1eTeB.png)
-
-True Storms Configuration Holotape  
-![alt text](https://i.imgur.com/cOjL4z2.png)
-
-That's it! Have fun!  
-
----
-
 ## FAQ
 
-
-- My characters have black/brown/tan faces.
-
-  -  Disable the High Definition DLC in Steam's `Manage DLC` section. As per the beginning of this readme, the HD DLC is absolute garbage and **WILL** break a ton of facegen.
-
-
-- I am having random crashes.
-
-  - A common cause for this is faulty Workbase files. Disable the Workbase mod and launch the game again. If it doesn't crash, an error occurred during the Workbase process. Redo it.
-  - Another reason this could be happening is due to your Nvidia driver. Roll back to version 442.xx and the crashes will be gone.
-  - And yet *another* reason is due to BitDefender. You can [temporarily disable BitDefender](https://www.bitdefender.com/consumer/support/answer/28557/) to alleviate this issue.
-
-
-- Is Creation Club content compatible?
-
-  - Some. Please see the [Creation Club Support](#creation-club-support) section above for details.
-
-
-- Can I add more mods or remove some mods I don't want?
-
-  - Can you? Yes. Will I help you? Maybe (I do write some [tutorials to help you out](https://github.com/LivelyDismay/Learn-To-Mod/wiki) after all), but **please discuss in the #magnum-opus-addons channel in [my personal Discord server](https://discord.gg/yABEjwB)**, and be sure to disclose the fact that you've edited the list before reporting any bugs or crashes. If you're open and honest with me, I'm honestly much more willing to help you through your issues.
-
-
-- Where is my crosshair?
-
-  - I found I spend too much time looking at the crosshair instead of the actual game, so I disabled it in my Hud preset. You can re-enable it in the FallUI HUD MCM if you like.
-
-
-- Okay, so I enabled the crosshair again, but why is it on my pipboy?
-
-  - You can turn the Power Armor HUD Switcher holotape setting for [Hide Hud in Pipboy] to Off in order to hide the crosshair when not in power armor, but this also makes the pipboy look pretty terrible when using it inside power armor. Your call.
-
-
-- Why can't I use multiple companions/why can't I use Dogmeat with a vanilla companion?
-
-  - One follower is enough, and Heather (a modded follower from [here](https://www.nexusmods.com/fallout4/mods/23273)) doesn't occupy a "follower" slot, so you can have Heather + one other companion. Considering how overpowered that is, there is no reason I should add Dogmeat to the mix as well.
-
-
-- Why does my flashlight have a faint red ring around the edges?
-
-  - Because I like it.
-
-
-- I hate the Power Armor HUD overlays. Can I delete them?
-
-  - You can use the Power Armor HUD Switcher holotape to disable them. Do not disable them while you're in Power Armor.
-
-
-- Why am I invulnerable/invincible/not taking damage/in permanent God Mode?
-
-  - Please read the Magnum Opus Beginner's Guide terminal outside Vault 111. It even has a holotape version so you can read it on the go or easily reference it as needed.
-
-
-- Can I add an ENB?
-
-  - If you hate yourself, sure. Some people have added ENBs and reported consistent crashes, so your mileage may vary. Don't add an ENB and report bugs to me because I can't/won't help.
-
----
-
-## Controller Support
-
-If you're playing with a controller, your pipboy map won't work properly (the cursor will be stuck in the corner quadrant of the map). Open the MO2 INI Editor, select fallout4prefs.ini, and scroll down until you see the `[Display]` section. At the bottom, you'll find two lines:  
-`uPipboyTargetHeight=1400`  
-`uPipboyTargetWidth=1752`  
-Change these two lines to the following:  
-`uPipboyTargetHeight=700`  
-`uPipboyTargetWidth=876`  
-Then find the `[General]` section and change `bGamepadEnable=` from a `0` to a `1`.
+I've been doing this for a while now, so [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/Learn-To-Mod/blob/4f6d55358073233b3a2f91e267c47dcdd6d08ea5/wabbajack-stuff/faq-wip.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
 
 ---
 
 ## Widescreen Support
 
 I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously. A generous discord user by the name of bjdripley wrote an [Ultrawide Compatibility Guide for Magnum Opus](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) that you may find useful.
-
----
-
-## Credits and Thanks
-
-- Halgari, creator of Wabbajack, without whom none of us would be here. You have improved over 100,000 people's lives and never asked for a single thing in return.
-- Erri120, for all of your work on Wabbajack and the website, and for making a readme template like this easy for an idiot like me to use.
-- AUGSpeed, for being a great source of information. I really look up to you, I respect the hell out of your work, and you're somehow the nicest damn dude on the planet.
-- Kaethela, for all of your ongoing support - both in regards to the modlist and listening to my endless bitching.
-- Total, for your multiple contributions and advice over the last year and a half (and counting).
 
 ---
 
