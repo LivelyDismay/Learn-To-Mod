@@ -28,7 +28,6 @@
 - [In-Game MCM Options](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#in-game-mcm-options)
 - [FAQ](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#faq)
 - [Controller Support](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#controller-support)
-- [ENB](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#enb)
 - [Widescreen Support](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#widescreen-support)
 - [Credits and Thanks](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#credits-and-thanks)
 - [Contact](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Readme.md#contact)
@@ -191,6 +190,8 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## BiRaitBec Texture Optimization
 
+**YES, IT'S MANDATORY. STOP ASKING.**
+
 **YOU NEED A CLEAN INSTALLATION OF FALLOUT 4 FOR THIS TO WORK PROPERLY.**
 
 This step hashes your vanilla files, just like Wabbajack hashes all the downloads and mods. They need to be PERFECTLY CLEAN AND UNALTERED. If you'd like to be sure, just Verify Integrity of Game Files through Steam to make sure your Fallout 4 archives are pristine.
@@ -210,7 +211,7 @@ Go back to your `Workbase Improved` folder. RIGHT CLICK the `Installer.ps1` file
 
 Choose the output of your liking. You may use the default `PatchedBa2` folder, or navigate to your Magnum Opus installation and select `mods/[NoDelete] Workbase Optimized Textures`.  
 PowerShell will now launch and begin verifying all of your archives, then repacking your .ba2 files.  
-**This process may take an hour or two, depending on your hardware.** I recommend you go watch a movie. Die Hard is always a good choice.  
+**This process may take an hour or two, depending on your hardware. For most people, it takes about fifteen minutes.**  
 When the installer is finished, it will automatically close itself.
   -  If you chose the default `PatchedBa2` folder for your output, navigate to that folder, select all the archives inside, Copy them (right click > copy, or Ctrl+C). Then navigate to `Magnum Opus/mods/[NoDelete] Workbase Optimized Textures` and paste the archives here (right click > paste, or Ctrl+V).
 
