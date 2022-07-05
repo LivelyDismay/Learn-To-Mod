@@ -4,4 +4,4 @@
 
 [I already ran the installer, take me to the post-installation steps.](https://github.com/LivelyDismay/Learn-To-Mod/blob/3097c6a920201741f9ca725d7161e8bf66f32404/wabbajack-stuff/TempusMaledictumReadmePostInstall.md)
 
-[I'm only looking for the FAQ.](https://github.com/LivelyDismay/Learn-To-Mod/blob/393746939990214d4706a7da7592be0a88831cdf/wabbajack-stuff/TempusMaledictumReadmeFAQ.md)
+[I'm only looking for the FAQ.](https://github.com/LivelyDismay/Learn-To-Mod/blob/3d10651f715e1dae4f22cdbe92bdcdef29269dab/wabbajack-stuff/TempusMaledictumReadmeFAQ.md)
