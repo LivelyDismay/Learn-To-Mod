@@ -13,7 +13,7 @@
       - [Disable the Steam Overlay](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#disable-the-steam-overlay)
     - [Change Steams Update Behavior](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#change-steams-update-behavior)
     - [Set the Game language to English](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#set-the-game-language-to-english)
-    - [Clean Skyrim]https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#clean-skyrim)
+    - [Clean Skyrim](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#clean-skyrim)
   - [Using Wabbajack](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#using-wabbajack)
     - [Preparations](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#preparations)
       - [Problems with Wabbajack](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#problems-with-wabbajack)
