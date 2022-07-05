@@ -1,4 +1,4 @@
-[This is my first time using Wabbajack!](https://github.com/LivelyDismay/Learn-To-Mod/blob/8f2511853266b6174ed4a3c58c94971500e15a5f/wabbajack-stuff/TempusMaledictumReadmeLong.md)
+[This is my first time using Wabbajack!](https://github.com/LivelyDismay/Learn-To-Mod/blob/e3ad23b09aa2566f0fee3b9c31d7000801171768/wabbajack-stuff/TempusMaledictumReadmeLong.md)
 
 [I've used Wabbajack before, just give me the quick version.](https://github.com/LivelyDismay/Learn-To-Mod/blob/861e62473d14939055f08c774563c7d718863f0f/wabbajack-stuff/TempusMaledictumReadmeShort.md)
 
