@@ -2,6 +2,6 @@
 
 [I've used Wabbajack before, just give me the quick version.](https://github.com/LivelyDismay/Learn-To-Mod/blob/035f5d059e42d7c02a8ed9db687d1701ee9c75ea/wabbajack-stuff/TempusMaledictumReadmeShort.md)
 
-[I already ran the installer, take me to the post-installation steps.](https://github.com/LivelyDismay/Learn-To-Mod/blob/e6eae71b1568286ace5e542eb7dcebb71cb3765e/wabbajack-stuff/TempusMaledictumReadmePostInstall.md)
+[I already ran the installer, take me to the post-installation steps.](https://github.com/LivelyDismay/Learn-To-Mod/blob/3097c6a920201741f9ca725d7161e8bf66f32404/wabbajack-stuff/TempusMaledictumReadmePostInstall.md)
 
 [I'm only looking for the FAQ.](https://github.com/LivelyDismay/Learn-To-Mod/blob/393746939990214d4706a7da7592be0a88831cdf/wabbajack-stuff/TempusMaledictumReadmeFAQ.md)
