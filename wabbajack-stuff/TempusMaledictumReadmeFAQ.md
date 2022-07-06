@@ -1,6 +1,6 @@
 ## Tempus Maledictum Frequently Asked Questions
 
----
+
 
 It's a new list. There are no frequently asked questions yet. But I have been in this business for a while now, so let's make some predictions.
 
