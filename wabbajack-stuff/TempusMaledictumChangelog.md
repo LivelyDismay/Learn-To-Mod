@@ -5,6 +5,7 @@ Reinstalled and added various patches for Embers XD.
 Added Screenshot Helper.  
 Removed Disable Snow Grass - For Vanilla and Cathedral Landscapes.  
 Removed Dynamic Things.  
+Added JS Shrines of the Divines.  
 
 ---
 
