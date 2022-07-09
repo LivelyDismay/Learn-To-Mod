@@ -206,8 +206,8 @@ Finally, go to [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/
 
 DO NOT UNPACK any of these archives. Simply **COPY** the archives into the `D:/Workbase Improved/Repack7z` folder.
 
-Go back to your `Workbase Improved` folder. RIGHT CLICK the `Installer.ps1` file and select `Run with PowerShell`.  
-  -  If you get an "Execution Policy Change" warning, type `Y` then press `Enter`.
+Go back to your `Workbase Improved` folder. Double click the `Installer.cmd` file to run it.  
+  - If the file opens up in Notepad instead of running, simply close it and instead right click on the file and choose `Open`.
 
 Choose the output of your liking. You may use the default `PatchedBa2` folder, or navigate to your Magnum Opus installation and select `mods/[NoDelete] Workbase Optimized Textures`.  
 PowerShell will now launch and begin verifying all of your archives, then repacking your .ba2 files.  
