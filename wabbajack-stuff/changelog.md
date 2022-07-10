@@ -1,3 +1,19 @@
+2022/07/10
+
+Updated Readme.
+
+Updated F4SE.  
+Updated Heather Casdin.  
+Updated Wasteland Heroines Replacer - Heather Casdin.  
+
+Updated Game Folder Files. **Please copy these over to your game directory again if updating.**
+
+Removed Randomized Valuables Redux.  
+Removed Human Grab Attacks.  
+Removed Workshop Plus.  
+
+---
+
 2022/06/02
 
 Version 6.1.1
