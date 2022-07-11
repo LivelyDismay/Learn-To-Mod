@@ -1,3 +1,11 @@
+WIP
+
+Removed Equus - Horse Sounds Redesigned.  
+Removed Eviscerate.  
+Updated Read or Take SKSE.  
+
+---
+
 07/09/2022
 
 Disabled various bushes, rocks, plants, and trees that were otherwise interfering with doors and landscape edits.  
