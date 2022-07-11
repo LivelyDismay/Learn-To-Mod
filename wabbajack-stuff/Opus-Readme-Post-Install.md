@@ -20,6 +20,8 @@ You may notice some mods are deactivated. These are for the Creation Club profil
 
 ## BiRaitBec Texture Optimization
 
+**YES, IT'S MANDATORY. STOP ASKING.**
+
 **YOU NEED A CLEAN INSTALLATION OF FALLOUT 4 FOR THIS TO WORK PROPERLY.**
 
 This step hashes your vanilla files, just like Wabbajack hashes all the downloads and mods. They need to be PERFECTLY CLEAN AND UNALTERED. If you'd like to be sure, just Verify Integrity of Game Files through Steam to make sure your Fallout 4 archives are pristine.
@@ -34,15 +36,14 @@ Finally, go to [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/
 
 DO NOT UNPACK any of these archives. Simply **COPY** the archives into the `D:/Workbase Improved/Repack7z` folder.
 
-Go back to your `Workbase Improved` folder. RIGHT CLICK the `Installer.ps1` file and select `Run with PowerShell`.  
-  -  If you get an "Execution Policy Change" warning, type `Y` then press `Enter`.
+Go back to your `Workbase Improved` folder. Double click the `Installer.cmd` file to run it.  
+  - If the file opens up in Notepad instead of running, simply close it and instead right click on the file and choose `Open`.
 
 Choose the output of your liking. You may use the default `PatchedBa2` folder, or navigate to your Magnum Opus installation and select `mods/[NoDelete] Workbase Optimized Textures`.  
 PowerShell will now launch and begin verifying all of your archives, then repacking your .ba2 files.  
-**This process can take anywhere from ten minutes to two hours, depending on your hardware.** I recommend you go watch a movie. Con Air is always a good choice.  
+**This process may take an hour or two, depending on your hardware. For most people, it takes about fifteen minutes.**  
 When the installer is finished, it will automatically close itself.
   -  If you chose the default `PatchedBa2` folder for your output, navigate to that folder, select all the archives inside, Copy them (right click > copy, or Ctrl+C). Then navigate to `Magnum Opus/mods/[NoDelete] Workbase Optimized Textures` and paste the archives here (right click > paste, or Ctrl+V).
-  -  Don't worry if you get spammed with `[NOT FOUND]` messages. This is because we did not move the original .ba2 files. The installer will then go find them in your Fallout 4 folder instead. Just saves a little time so we don't have to copy/paste those files.
 
 Due to how Wabbajack works, you only need to do this step ONCE. The `[NoDelete]` flag will prevent Wabbajack from ever deleting this mod during updates, so you will never have to redo this step unless you delete it yourself. Huzzah!
 
