@@ -1,3 +1,13 @@
+2022/07/11
+
+Updated Active Effects on HUD.
+
+Updated Better Companions - All in One. Removed a handful of custom tweaks to BC-AIO from Better Companions - Lively's Tweaks.esp.
+
+Minor load order adjustments.
+
+---
+
 2022/07/10
 
 Updated Readme.
