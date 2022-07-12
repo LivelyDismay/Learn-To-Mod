@@ -66,12 +66,12 @@ Magnum Opus now has support for some Creation Club mods as of version 3.2 of the
   <summary>Click this to expand the list of supported Creation Club mods</summary>
   
   * Anti-Material Rifle  
-  * CR-74L Combat Rifle  
   * Arcade Workshop Pack  
   * Capital Wasteland Mercenaries  
-  * Charlestown Condo  
   * Captain Cosmos  
+  * Charlestown Condo  
   * Chinese Stealth Armor  
+  * CR-74L Combat Rifle  
   * Doom BFG  
   * Doom Marine Armor  
   * Fantasy Hero Set  
