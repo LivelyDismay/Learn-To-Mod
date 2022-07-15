@@ -11,6 +11,7 @@ Added Rob's Bug Fixes - COTN Winterhold.
 Added JK's Skyrim and The Marshlands Patch.  
 Added CC Horse Armor No Blacksmith Dialogue.  
 Added Creation Club Open Helmets.  
+Added Pause Menu After Loading.  
 
 Removed Equus - Horse Sounds Redesigned.  
 Removed Eviscerate.  
