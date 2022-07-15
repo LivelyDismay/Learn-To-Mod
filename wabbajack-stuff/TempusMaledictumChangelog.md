@@ -1,12 +1,35 @@
-WIP
+2022/07/15
+
+BETA 4
+
+Updated Read or Take SKSE.  
+
+Added Skyrim Skill Uncapper Fixed.  
+Added Skyrim Skill Uncapper INI for Ordinator.  
+Added Pets of Skyrim - JK's Skyrim Patch.  
+Added Rob's Bug Fixes - COTN Winterhold.  
+Added JK's Skyrim and The Marshlands Patch.  
+Added CC Horse Armor No Blacksmith Dialogue.  
+Added Creation Club Open Helmets.  
 
 Removed Equus - Horse Sounds Redesigned.  
 Removed Eviscerate.  
-Updated Read or Take SKSE.  
+Removed Settlements Expanded.  
+Removed Landscape Fixes for Grass Mods. Possibly only temporary.  
+Removed Maids 2: Deception.  
+Removed Legendary Armors - DeserterX Collection.  
+Removed The Great Village of Kynesgrove.  
+Removed Enhanced Solitude Docks and all related patches.  
+
+New lodgen, texgen, dyndolod outputs.  
+Bunch of new custom patches.  
+Various mod/load order adjustments.  
 
 ---
 
-07/09/2022
+2022/07/09
+
+BETA 3
 
 Disabled various bushes, rocks, plants, and trees that were otherwise interfering with doors and landscape edits.  
 Reinstalled and added various patches for Embers XD.  
@@ -28,12 +51,16 @@ If any of the items listed above are NOT fixed, please notify me immediately. It
 
 ---
 
-07/06/2022
+2022/07/06
+
+BETA 2
 
 Hotfix to add patch for LotD and Enhanced Solitude.
 
 ---
 
-07/05/2022
+2022/07/05
+
+BETA 1
 
 Initial public release.
