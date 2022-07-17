@@ -153,7 +153,7 @@ This section [has been moved to its own page, just to really make it stand out i
 
 ## FAQ
 
-I've been doing this for a while now, so [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/Learn-To-Mod/blob/42184044052180f5e51af9393f9b87716bb8be38/wabbajack-stuff/TempusMaledictumReadmeFAQ.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
+I've been doing this for a while now, so [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeFAQ.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
 
 ---
 
