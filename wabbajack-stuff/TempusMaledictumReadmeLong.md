@@ -19,6 +19,7 @@
       - [Problems with Wabbajack](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#problems-with-wabbajack)
 - [Post Installation](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#post-installation)
 - [A Few Quick Notes](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#a-few-quick-notes)
+- [Hotkeys](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#hotkeys)
 - [FAQ](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#faq)
 - [Widescreen Support](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#widescreen-support)
 - [Contact](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#contact)
@@ -148,6 +149,18 @@ This section [has been moved to its own page, just to really make it stand out i
 
  - It is recommended that you leave the Abandoned Prison prior to reporting any issues to me. Please.
  - I hate Survival Mode and I won't play it. Survival-specific bug reports will be ignored and you'll be told to come read the FAQ.
+ - Time your parries (shield bash attacks) to reflect magic + projectile damage back to your attacker, or stagger melee attackers.
+
+---
+
+## Hotkeys
+
+Tempus Maledictum makes liberal use of MCM Helper and MCM Recorder. This means most things are set up for you. To help you along, here are the default hotkeys I use:
+
+Dodge - Mouse4  
+Target Lock-on - F. (You can long-press F to change POV).  
+Target Lock-on Swap - Mouse Wheel + Mouse movement. A bit less sensitive than the default value (32 > 50).  
+Sneak - Left Control.  
 
 ---
 
