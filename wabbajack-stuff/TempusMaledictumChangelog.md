@@ -1,3 +1,65 @@
+2022/07/20
+
+BETA 5
+
+Consider this primarily a bug fix + combat update.
+
+Added Markarth Outskirts.  
+Added Pause After Loading - Auto Unpause.  
+Added Shield of Stamina - Blocking Redux.  
+Added Wait Your Turn - Enemy Circling Behavior.  
+Added Counter Damage.  
+Added Inigo - Bloodchill Manor Patch.  
+Added QuickLoot EE - Settings Loader.  
+Added Block Enchantments.  
+Added Apocalypse Spells for Spellcasters.  
+Added Action Based Projectiles.  
+Added Odin Spells for Spellcasters.  
+Added Maximum Carnage.  
+Added Smart NPC Potions.  
+Added Dragonborn Aptitude.  
+Added UnBlended - Really Blended Roads.  
+Added Silver Objects SMIMed.  
+Added VIGILANT - Elite Vigilant Hood Fix.  
+Added VIGILANT - Immersive Text Edit.  
+Added Astral Magic 2.  
+Added Master Spell Runes.  
+Added Use or Take SKSE.  
+Added Elden Parry.  
+Added SPID For Footprints.  
+Added SPID For Footprints Fix.  
+Added Phendrix Magic Evolved SPID - Spells for NPCs.  
+Added Markarth Entrance Overhaul Fixed.  
+Added Valravn - Integrated Combat of Skyrim.  
+Added Valravn Uncloaked.  
+Added The Ultimate Dodge Mod Reborn.  
+Added Immersive World Encounters - Settings Loader.  
+Added Cathedral Weathers MCM - Settings Loader.  
+Added The Ultimate Dodge Mod - SPID Patch.  
+Added The Ultimate Dodge Mod - SPID Patch - Settings Loader.  
+Added VioLens - A Killmove Mod - Settings Loader.  
+Added Wyrmstooth - Settings Loader.  
+Added XP32 Maximum Skeleton - Settings Loader.  
+Added moreHUD SE - Settings Loader.  
+Added Unread Books Glow SSE - Settings Loader.  
+Added Imperious - Races of Skyrim - Settings Loader.  
+Added Ordinator - Perks of Skyrim - Settings Loader.  
+Added Apocalypse - Magic of Skyrim - Settings Loader.  
+Added Wintersun - Settings Loader.  
+Added Growl - Werebeasts of Skyrim - Settings Loader.  
+Added Symmermyst - Enchantments of Skyrim - Settings Loader.  
+Added Sacrosanct - Vampires of Skyrim - Settings Loader.  
+Added Better Third Person Selection.  
+
+Updated A Matter of Time - Settings Loader.  
+Updated Creation Club Open Helmets.  
+Updated Dyndolod Output.  
+
+Made a bunch of new custom patches.
+Disabled/moved a bunch of trees and lanterns.  
+
+---
+
 2022/07/15
 
 BETA 4
