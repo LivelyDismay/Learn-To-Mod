@@ -55,7 +55,7 @@ Updated A Matter of Time - Settings Loader.
 Updated Creation Club Open Helmets.  
 Updated Dyndolod Output.  
 
-Made a bunch of new custom patches.
+Made a bunch of new custom patches.  
 Disabled/moved a bunch of trees and lanterns.  
 Turned on profile specific saves cuz I forgot.  
 
