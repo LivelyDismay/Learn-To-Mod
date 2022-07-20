@@ -28,3 +28,4 @@ Tab back out to the game.
 
 Have fun. I'm on [Discord](https://discord.gg/yABEjwB) if you need me.
 
+And don't forget to [read the FAQ](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeFAQ.md).
