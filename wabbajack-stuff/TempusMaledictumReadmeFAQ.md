@@ -51,3 +51,14 @@ Enai.
 #### Legacy of the Dragonborn?
 
 Yes.
+
+---
+
+#### How do I dodge / what are the hotkeys in the MCMS?
+
+Tempus Maledictum makes liberal use of MCM Helper and MCM Recorder. This means most things are set up for you. To help you along, here are the default hotkeys I use:
+
+Dodge - Mouse4  
+Target Lock-on - F. (You can long-press F to change POV).  
+Target Lock-on Swap - Mouse Wheel + Mouse movement. A bit less sensitive than the default value (32 > 50).  
+Sneak - Left Control.  
