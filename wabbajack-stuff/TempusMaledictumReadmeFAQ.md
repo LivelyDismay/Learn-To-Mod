@@ -18,6 +18,12 @@ No. It's a video game. I want to see shit.
 
 ---
 
+#### Everything is too dark, can I brighten it up somehow?
+
+Shift+Enter to open the ENB GUI. Adjust as you see fit. When you're done, click Save Configuration. Shift+Enter again to close the ENB GUI.
+
+---
+
 #### Is the world unleveled?
 
 No.
