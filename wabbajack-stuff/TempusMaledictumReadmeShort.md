@@ -2,6 +2,12 @@ You've used Wabbajack before? You know how it works?
 
 Cool. Let's do this.
 
+Make sure you have Skyrim Anniversary Edition. Yes, this includes the recent $20 add-on. No, it is not negotiable.
+
+If you haven't already done this since purchasing AE, launch the game through Steam and allow Skyrim to download all the Creation Club files.
+
+Close the game.
+
 Open Wabbajack. Download Tempus Maledictum from the gallery.
 
 Set the installation and download locations to blank folders. Shared downloads folders are fine if you have multiple lists installed.
