@@ -47,6 +47,7 @@ The main attractions are obviously all the quest mods, as well as Legacy of the 
 ### Pre-Installation
 
 You need a legal copy of Skyrim Anniversary Edition through Steam, with all DLCs - yes, including the paid AE DLC. No, I won't make a version without the AE content.
+ - If you haven't already done this since purchasing AE, launch the game through Steam and allow Skyrim to download all the Creation Club files.
 
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
