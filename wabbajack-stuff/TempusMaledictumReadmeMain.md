@@ -5,3 +5,5 @@
 [I already ran the installer, take me to the post-installation steps.](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmePostInstall.md)
 
 [I'm only looking for the FAQ.](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeFAQ.md)
+
+[What about that Load Order? What's in Tempus Maledictum?](https://loadorderlibrary.com/lists/tempus-maledictum)
