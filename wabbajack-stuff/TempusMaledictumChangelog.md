@@ -1,3 +1,26 @@
+WIP
+
+BETA 6
+
+Added Stay At The System Page - AE.  
+Added I'm Walkin Here.  
+Added Haugbui - A Draugr Overhaul.  
+Added Draugr Upgrades and Improvements.  
+
+Removed The Great Cities - Minor Cities and Towns.  
+Removed The Great Village of Mixwater Mill.  
+Removed Rob's Bug Fixes - TGC Mixwater Mill.  
+Removed The Great Town of Ivarstead.  
+Removed Rob's Bug Fixes - TGC Ivarstead.  
+Removed The Great Village of Kynesgrove.  
+Removed Great City of Dragon Bridge - CFTO Ferry Integration.  
+Removed Centered Blue Palace Throne.  
+Removed The Great Cities of JK's North.  
+Removed Skaal Village Overhaul.  
+Removed AAE Ultimate Edition.  
+
+---
+
 2022/07/20
 
 BETA 5
