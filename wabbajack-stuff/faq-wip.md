@@ -101,12 +101,6 @@ Nothing. The loading screens have been reduced to the bare necessities in order 
 
 ---
 
-**Where did the Bobbleheads and Magazines go?**
-
-They've been randomized. [Check out the mod page](https://www.nexusmods.com/fallout4/mods/60097).
-
----
-
 **How do I change my FOV?**
 
 While in game, press Escape, select `Mod Config`, then head down to `Custom Camera`. **Save any changes you make in this MCM to its own Profile or the changes will not stick.**
