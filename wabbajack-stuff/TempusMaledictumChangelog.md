@@ -18,6 +18,7 @@ Removed Centered Blue Palace Throne.
 Removed The Great Cities of JK's North.  
 Removed Skaal Village Overhaul.  
 Removed AAE Ultimate Edition.  
+Removed Maximum Carnage.  
 
 ---
 
