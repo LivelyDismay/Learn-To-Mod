@@ -6,6 +6,8 @@ Added Stay At The System Page - AE.
 Added I'm Walkin Here.  
 Added Haugbui - A Draugr Overhaul.  
 Added Draugr Upgrades and Improvements.  
+Added Cathedral Weathers MCM.  
+Added Animated Forge Water.  
 
 Removed The Great Cities - Minor Cities and Towns.  
 Removed The Great Village of Mixwater Mill.  
@@ -19,6 +21,10 @@ Removed The Great Cities of JK's North.
 Removed Skaal Village Overhaul.  
 Removed AAE Ultimate Edition.  
 Removed Maximum Carnage.  
+Removed Thanedom Darkwater Crossing.  
+
+Removed Skyrim - Patch.bsa from Stock Game folder.  
+Added a lot of new custom patches and removed some others that ended up getting replaced/outdated.  
 
 ---
 
