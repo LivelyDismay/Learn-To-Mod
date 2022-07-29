@@ -1,6 +1,6 @@
-WIP
+2022/07/29
 
-BETA 6
+Version 1.0.0
 
 Added Stay At The System Page - AE.  
 Added I'm Walkin Here.  
@@ -25,6 +25,7 @@ Removed Thanedom Darkwater Crossing.
 
 Removed Skyrim - Patch.bsa from Stock Game folder.  
 Added a lot of new custom patches and removed some others that ended up getting replaced/outdated.  
+Fixed like 40 known issues.  
 
 ---
 
