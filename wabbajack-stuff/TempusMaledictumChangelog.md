@@ -1,5 +1,13 @@
 2022/07/29
 
+Version 1.0.1
+
+Redownloaded Haugbui - Legacy of the Dragonborn Patch. Archive was corrupt on my end or something.  
+
+---
+
+2022/07/29
+
 Version 1.0.0
 
 Added Stay At The System Page - AE.  
