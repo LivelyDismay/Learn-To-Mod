@@ -1,4 +1,4 @@
-[This is my first time using Wabbajack!](https://github.com/LivelyDismay/Learn-To-Mod/blob/eda3bb764cba4f4f0ce81b3fa032a5c54a23c0a7/wabbajack-stuff/Opus-Readme-Long.md)
+[This is my first time using Wabbajack!](https://github.com/LivelyDismay/Learn-To-Mod/blob/4ff4066f83fc53dd3cb078b90e1f67a14148b2e2/wabbajack-stuff/Opus-Readme-Long.md)
 
 [I've used Wabbajack before, just give me the quick version.](https://github.com/LivelyDismay/Learn-To-Mod/blob/8beb5a5462a96a9e336b8627098438efb32602cb/wabbajack-stuff/Opus-Readme-Short.md)
 
