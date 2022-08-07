@@ -8,7 +8,7 @@ It's a new list. There are no frequently asked questions yet. But I have been in
 
 #### My face looks stupid during character creation, what's going on?
 
-Choose one of the High Poly Head Face Parts. You can see what mod each part is from in the bottom left corner.
+Choose one of the High Poly Head Face Parts. You can see what mod each part is from in the bottom right corner.
 
 ---
 
