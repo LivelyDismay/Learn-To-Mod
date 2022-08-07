@@ -1,3 +1,58 @@
+2022/08/06
+
+Version 1.1.0
+
+Added elwap's Hidden Map Markers for Mod Locations.  
+Added Auri - Deluxe.  
+Added Serana Replacer.  
+Added Horses Simply Turn Better.  
+Added Horses For Followers.  
+Added Simply Order Summons.  
+Added Simple Follower Extension.  
+Added No Crime Teleport.  
+Added Project AHO - Unique Smelter Patch.  
+Added Project AHO - Security Locks Overhaul Patch.  
+Added Race Compatibility Dialogue - Project AHO Patch.  
+Added CrashLogger VR.  
+Added Hearthfire Extended Aquarium Patch.  
+Added Bring Meeko to Lod.  
+Added Bijin Skin.  
+Added Project AHO - Start When You Want.  
+Added High Poly Head.  
+Added Courageous Women of Skyrim.  
+Added Pride of Skyrim.  
+Added Expressive Facial Animation - Male Edition.  
+Added Expressive Facial Animation - Female Edition.  
+Added Expressive Facegen Morphs.  
+Added Hvergelmir's Aesthetics - Brows.  
+Added Brows for High Poly Head.  
+Added Northborn Scars.  
+Added Northborn Scars for High Poly Head.  
+Added Hvergelmir's Aesthetics - Beards.  
+Added Beards for High Poly Head.  
+Added Wider MCM Menu for SkyUI.  
+Added Remove QuickSave Button from SkyUI System Menu.  
+Added Dragons Shout With Voice.  
+
+Removed Diversity - A Character Overhaul.  
+Removed Diverse Skyrim.  
+Removed Diversity - Valindor missing Facegen Data.  
+Removed Guards Armor Replacer - Diversity Patch.  
+Removed Project AHO Delay Slavery.  
+Removed Reverie Skin.  
+Removed Crash Logger.  
+Removed Butterflies Land True.  
+Removed Nether's Follower Framework.  
+Removed Travellers of Skyrim - Vanilla Version.  
+Removed Travellers of Skyrim - Dragonborn and Bags and Pouches Addon.  
+Removed Maximum Carnage.  
+Removed Diverse Skyrim - Battle of Whiterun Fix.  
+
+Updated Cities of the North - Falkreath Patch Collection.  
+Updated Dragonborn Aptitude.  
+
+---
+
 2022/07/29
 
 Version 1.0.1
