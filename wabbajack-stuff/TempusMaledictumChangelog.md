@@ -1,3 +1,11 @@
+2022/08/07
+
+Version 1.1.1
+
+Fixed a bad meta for High Poly Project.
+
+---
+
 2022/08/06
 
 Version 1.1.0
