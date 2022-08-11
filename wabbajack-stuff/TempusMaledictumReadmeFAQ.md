@@ -68,3 +68,4 @@ Dodge - Mouse4
 Target Lock-on - F. (You can long-press F to change POV).  
 Target Lock-on Swap - Mouse Wheel + Mouse movement. A bit less sensitive than the default value (32 > 50).  
 Sneak - Left Control.  
+Hold Shift - allows you to pick up books without reading them. Also lets you know if that book will be stolen or not.
