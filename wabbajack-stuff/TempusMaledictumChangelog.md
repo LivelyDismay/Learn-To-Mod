@@ -1,3 +1,58 @@
+WIP
+
+Added Splashes of Storms.  
+Added Shadow of Skyrim.  
+Added Quick Inventory.  
+Added Player Rotation in ShowRaceMenu.  
+Added NPC Dialogue Audio Enhancer.  
+Added Blackreach Tentacle Mesh Fix.  
+Added Better Dirt Cliffs and Alphas.  
+Added Skyrim Remastered - Glaciers and Ice.  
+Added Tamrielic Grass.  
+Added Footprints Sand Patch.  
+Added Realistic HD Food Remastered.  
+Added Realistic HD Baskets Remastered.  
+Added Charming Nirnroots.  
+Added Regional Features - Riverwood Oaks.  
+Added Caves - More Accurate Collision.  
+Added Bruma Misc Fixes.  
+Added Sahrotaar Must Die.  
+Added High Poly Dragonborn Ingredients Retextured.  
+Added CoverKhajiits.  
+Added GhostFX Workaround.  
+Added ENB Light for Apocrypha.  
+Added JS Dwemer Puzzle Cube SE - Glowmapped.  
+Added Sprites or Spectres - ENB Light.  
+Added JS Dwemer Control Cube SE - Glowmapped.  
+Added JS Dwemer Artifacts SE - Glowmapped.  
+Added Cathedral - 3D Lavender.  
+Added Cathedral - 3D Tundra Cotton.  
+Added Cathedral - 3D Thistle.  
+Added ElSopa - Azura's Star Redone.  
+Added ElSopa - Azura's Star Redone - ENB Light.  
+Added Light Horses of Skyrim (Realistic Body and Fur).  
+Added Ulvenwald - Forest Overhaul.  
+Added Blubbo's Pine Tree Replacer 2022.  
+Added Blubbo's Snow Pines Replacer.  
+Added Skyrim Landscape and Water Fixes.  
+Added Deathbell by Mari.  
+Added ENB Light for Deathbell by Mari.  
+
+Updated UnBlended - Really Blended Roads.  
+Updated Creation Club Open Helmets.  
+Updated Audio Overhaul Skyrim.  
+Updated moreHUD SE - Legacy Settings Loader.  
+Updated Zim's Immersive Artifacts.  
+Updated More Plantable Plants for Creation Club.  
+
+Removed Cathedral Landscape - Fixed Bridge Meshes - REALly Blended Roads for SMIM.  
+Removed Skyrim 3D Trees and Plants.  
+Removed Skyrim3DTrees and Plants 3dLOD Resources.  
+Removed Leaps of Faith 3D Trees and Plants Compatibility Patch.  
+Removed Rudy's More Lights Deathbell and Nirnroot For 3D Trees and Plants.  
+
+---
+
 2022/08/07
 
 Version 1.1.1
