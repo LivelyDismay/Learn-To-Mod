@@ -51,6 +51,8 @@ Removed Skyrim3DTrees and Plants 3dLOD Resources.
 Removed Leaps of Faith 3D Trees and Plants Compatibility Patch.  
 Removed Rudy's More Lights Deathbell and Nirnroot For 3D Trees and Plants.  
 
+New Texgen, Lodgen, Dyndolod, Allgud outputs.  
+
 ---
 
 2022/08/07
