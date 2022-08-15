@@ -37,6 +37,12 @@ Added Blubbo's Snow Pines Replacer.
 Added Skyrim Landscape and Water Fixes.  
 Added Deathbell by Mari.  
 Added ENB Light for Deathbell by Mari.  
+Added Blackthorn Manor - Fallen Trees Patch.  
+Added Blackthorn Manor - CFTO Patch.  
+Added Blackthorn Manor - Cathedral Landscapes Patch.  
+Added Blackthorn Manor - Anniversary Edition Autosorting Patch.  
+Added Kaiden 2 Shackles Fix.  
+Added Moons and Stars.  
 
 Updated UnBlended - Really Blended Roads.  
 Updated Creation Club Open Helmets.  
