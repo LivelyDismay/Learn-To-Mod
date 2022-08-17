@@ -43,6 +43,29 @@ Added Blackthorn Manor - Cathedral Landscapes Patch.
 Added Blackthorn Manor - Anniversary Edition Autosorting Patch.  
 Added Kaiden 2 Shackles Fix.  
 Added Moons and Stars.  
+Added Aspens Ablaze Autumnal Variety.  
+Added Webs SE.  
+Added JK's Markarth.  
+Added The Great Village of Mixwater Mill.  
+Added The Great City of Dragon Bridge.  
+Added The Great Town of Ivarstead.  
+Added The Great Village of Kynesgrove.  
+Added The Great Cities - Resources.  
+Added Holds the City Overhaul - Modular.  
+Added Winter is Coming - Cloaks (no plugin).  
+Added Holds Patching Center.  
+Added Holds - Root Block Fix.  
+Added Anga's Mill - Cities of the North Addon.  
+Added The Great Settlement of Kolskeggr Mine.  
+Added Elysium Estate - Lanterns of Skyrim II Patch.  
+Added Lanterns of Wyrmstooth.  
+Added Cities of the North - Assorted Mesh Fixes Patch.  
+Added Unique Doors for CotN Dawnstar.  
+Added The Distinct Interiors.  
+Added The Distinct Cities of the North Interiors.  
+Added Cities of the North - Winterhold - Partitioned Meshes for Lighting.  
+Added Cities of the North - Morthal - Partitioned Meshes for Lighting.  
+Added Cities of the North - Dawnstar - Partitioned Meshes for Lighting.  
 
 Updated UnBlended - Really Blended Roads.  
 Updated Creation Club Open Helmets.  
@@ -56,7 +79,28 @@ Removed Skyrim 3D Trees and Plants.
 Removed Skyrim3DTrees and Plants 3dLOD Resources.  
 Removed Leaps of Faith 3D Trees and Plants Compatibility Patch.  
 Removed Rudy's More Lights Deathbell and Nirnroot For 3D Trees and Plants.  
+Removed JK's Skyrim.  
+Removed Rob's Bug Fixes - JK's Skyrim.  
+Removed JK's Skyrim - Clockwork Patch.  
+Removed JK's Skyrim - Fishing (CC) Patch.  
+Removed JK's Skyrim - Gray Cowl (CC) Patch.  
+Removed JK's Skyrim - Thunderchild Patch.  
+Removed Enhanced Solitude SSE.  
+Removed Enhanced Solitude SSE - JK's AIO.  
+Removed Enhanced Solitude Hidden Map Marker.  
+Removed Enhanced Solitude SSE Update.  
+Removed Enhanced Solitude SSE - USSEP.  
+Removed Enhanced Solitude - LoS II.  
+Removed Patch Between JK's Skyrim and Winterhold Ruins.  
+Removed Icy Windhelm - JK's Skyrim Patch.  
+Removed Thanedom Assets.  
+Removed Kingdom of Eastmarch.  
+Removed CFTO - JK's Skyrim Patch.  
+Removed Pets of Skyrim - JK's Skyrim Compatibility Patch.  
+Removed JK's Skyrim and The Marshlands Patch.  
 
+New custom patches for various things.  
+Removed a few custom patches for obvious reasons.  
 New Texgen, Lodgen, Dyndolod, Allgud outputs.  
 
 ---
