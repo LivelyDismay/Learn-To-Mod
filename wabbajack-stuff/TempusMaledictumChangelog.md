@@ -27,7 +27,7 @@ Added JS Dwemer Control Cube SE - Glowmapped.
 Added JS Dwemer Artifacts SE - Glowmapped.  
 Added Cathedral - 3D Lavender.  
 Added Cathedral - 3D Tundra Cotton.  
-Added Cathedral - 3D Thistle.  
+Added Thistle by Mari.  
 Added ElSopa - Azura's Star Redone.  
 Added ElSopa - Azura's Star Redone - ENB Light.  
 Added Light Horses of Skyrim (Realistic Body and Fur).  
@@ -69,6 +69,7 @@ Added Cities of the North - Dawnstar - Partitioned Meshes for Lighting.
 Added Skyrim Skill Uncapper - Simplified Ordinator Preset.  
 Added Shooting Stars SE.  
 Added Enhanced Solitude Terrain Patch.  
+Added Beyond Skyrim - Bruma - Milk Thistle patch for Thistle by Mari SE.  
 
 Updated UnBlended - Really Blended Roads.  
 Updated Creation Club Open Helmets.  
@@ -76,6 +77,18 @@ Updated Audio Overhaul Skyrim.
 Updated moreHUD SE - Legacy Settings Loader.  
 Updated Zim's Immersive Artifacts.  
 Updated More Plantable Plants for Creation Club.  
+Updated SSE Display Tweaks.  
+Updated Unofficial Skyrim Creation Club Content Patch.  
+Updated USMP Patch Emporium.  
+Updated A Clear Map of Skyrim and Other Worlds FOMOD - PART 1.  
+Updated Beyond Skyrim - Assets.  
+Updated Beyond Skyrim - Bruma.  
+Updated The Wheels of Lull.  
+Updated Legacy of the Dragonborn Patches (Official).  
+Updated Rob's Bug Fixes - COTN Winterhold.  
+Updated COTN Dawnstar Patch Collection.  
+Updated Rob's Bug Fixes - COTN Morthal.  
+Updated Palaces and Castles Enhanced Patch Collection.  
 
 Removed Cathedral Landscape - Fixed Bridge Meshes - REALly Blended Roads for SMIM.  
 Removed Skyrim 3D Trees and Plants.  
