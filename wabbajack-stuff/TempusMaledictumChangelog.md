@@ -96,6 +96,7 @@ Removed Kingdom of Eastmarch.
 Removed CFTO - JK's Skyrim Patch.  
 Removed Pets of Skyrim - JK's Skyrim Compatibility Patch.  
 Removed JK's Skyrim and The Marshlands Patch.  
+Removed Astral Magic 2.  
 
 New custom patches for various things.  
 Removed a few custom patches for obvious reasons.  
