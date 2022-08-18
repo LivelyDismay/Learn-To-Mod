@@ -66,6 +66,9 @@ Added The Distinct Cities of the North Interiors.
 Added Cities of the North - Winterhold - Partitioned Meshes for Lighting.  
 Added Cities of the North - Morthal - Partitioned Meshes for Lighting.  
 Added Cities of the North - Dawnstar - Partitioned Meshes for Lighting.  
+Added Skyrim Skill Uncapper - Simplified Ordinator Preset.  
+Added Shooting Stars SE.  
+Added Enhanced Solitude Terrain Patch.  
 
 Updated UnBlended - Really Blended Roads.  
 Updated Creation Club Open Helmets.  
@@ -85,12 +88,7 @@ Removed JK's Skyrim - Clockwork Patch.
 Removed JK's Skyrim - Fishing (CC) Patch.  
 Removed JK's Skyrim - Gray Cowl (CC) Patch.  
 Removed JK's Skyrim - Thunderchild Patch.  
-Removed Enhanced Solitude SSE.  
 Removed Enhanced Solitude SSE - JK's AIO.  
-Removed Enhanced Solitude Hidden Map Marker.  
-Removed Enhanced Solitude SSE Update.  
-Removed Enhanced Solitude SSE - USSEP.  
-Removed Enhanced Solitude - LoS II.  
 Removed Patch Between JK's Skyrim and Winterhold Ruins.  
 Removed Icy Windhelm - JK's Skyrim Patch.  
 Removed Thanedom Assets.  
