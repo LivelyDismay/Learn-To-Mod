@@ -1,4 +1,8 @@
-WIP
+2022/08/18
+
+Version 2.0.0
+
+Also, it's my birthday. Yay.
 
 Added Splashes of Storms.  
 Added Shadow of Skyrim.  
