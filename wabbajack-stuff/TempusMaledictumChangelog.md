@@ -1,3 +1,27 @@
+2022/08/20
+
+Version 2.0.1
+
+Added R.A.S.S. - Rain Ash And Snow Shaders.  
+Added Cold Region Behavior - Beta Test.  
+Added Wet and Cold - Fur Hoods Fix.  
+Added Cold Region Behavior - Fur Hoods Fix.  
+
+Updated Lively's Patches for Tempus Maledictum.
+
+Removed Glow Be Gone.  
+Removed Glow Be Gone GhostFX Workaround.  
+Removed Wet and Cold.  
+
+Fixed an issue with Uncapper.ini.  
+Fixed a lot of areas with grass growing over roads and structures.  
+Fixed Evette Sans' shop marker to make her actually lean on the damn counter.  
+Fixed Ivarstead and Realistic Nord Ships to play more nicely together.  
+Fixed a bunch of stupid trees and stupid plants growing in stupid places.  
+New dyndolod output.  
+
+---
+
 2022/08/18
 
 Version 2.0.0
