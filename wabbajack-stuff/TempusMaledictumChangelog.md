@@ -1,5 +1,16 @@
 2022/08/20
 
+Version 2.0.2
+
+Hotfix.  
+
+Removed Cold Region Behavior - Beta Test.  
+Removed Wet and Cold - Fur Hoods Fix.  
+
+---
+
+2022/08/20
+
 Version 2.0.1
 
 Added R.A.S.S. - Rain Ash And Snow Shaders.  
