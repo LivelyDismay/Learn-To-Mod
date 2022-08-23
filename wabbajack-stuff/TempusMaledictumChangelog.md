@@ -6,8 +6,7 @@ Version 2.0.2
   
   <summary>Click to expand ></summary>
 
-Hotfix.  
-
+  
 Removed Cold Region Behavior - Beta Test.  
 Removed Wet and Cold - Fur Hoods Fix.  
 
