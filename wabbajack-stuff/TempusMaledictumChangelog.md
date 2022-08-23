@@ -4,11 +4,10 @@ Version 2.0.2
 
 <details>
   
-  <summary>Click to expand ></summary>
+  <summary>Click to expand</summary>
 
-  
-Removed Cold Region Behavior - Beta Test.  
-Removed Wet and Cold - Fur Hoods Fix.  
+- Removed Cold Region Behavior - Beta Test.  
+- Removed Wet and Cold - Fur Hoods Fix.  
 
  </details>
  
