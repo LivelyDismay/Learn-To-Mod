@@ -4,7 +4,7 @@ Version 2.0.2
 
 <details>
   
-  <summary>Click this to expand the list of supported Creation Club mods</summary>
+  <summary>Click to expand ></summary>
 
 Hotfix.  
 
