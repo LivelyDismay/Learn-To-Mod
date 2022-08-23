@@ -2,11 +2,17 @@
 
 Version 2.0.2
 
+<details>
+  
+  <summary>Click this to expand the list of supported Creation Club mods</summary>
+
 Hotfix.  
 
 Removed Cold Region Behavior - Beta Test.  
 Removed Wet and Cold - Fur Hoods Fix.  
 
+ </details>
+ 
 ---
 
 2022/08/20
