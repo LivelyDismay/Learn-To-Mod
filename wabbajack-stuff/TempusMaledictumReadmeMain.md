@@ -6,4 +6,6 @@
 
 [I'm only looking for the FAQ.](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeFAQ.md)
 
+[How 'bout that changelog?](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumChangelog.md)
+
 [What about that Load Order? What's in Tempus Maledictum?](https://loadorderlibrary.com/lists/tempus-maledictum)
