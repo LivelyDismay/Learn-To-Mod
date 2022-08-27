@@ -142,7 +142,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Post Installation
 
-This section [has been moved to its own page, just to really make it stand out in its importance.](https://github.com/LivelyDismay/Learn-To-Mod/blob/1bc1215736ff39197ef77846e8728499be03af34/wabbajack-stuff/TempusMaledictumReadmePostInstall.md)
+This section [has been moved to its own page, just to really make it stand out in its importance.](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmePostInstall.md)
 
 ---
 
