@@ -2,13 +2,13 @@
 
 ---
 
-#### My characters have black/brown/tan/bugged faces. What happened?
+### My characters have black/brown/tan/bugged faces. What happened?
 
 First, ensure you do NOT have the High Definition DLC active in Steam. If you don't, then quite frankly, the so-called "Black Face Bug" can happen randomly. Saving and reloading should fix it.
 
 ---
 
-#### I am having random crashes. What do I do?
+### I am having random crashes. What do I do?
 
 Buffout 4 generates crashlogs for you in the `\Documents\My Games\Fallout4\F4SE` folder. These are vital to diagnosing the problem.
   -  *If you don't have crashlogs here after your game CTDs, you did not follow the Game Folder Files step in the Installation instructions.*
@@ -23,67 +23,67 @@ After all that, feel free to upload your crashlog to me on [Discord](https://dis
 
 ---
 
-#### How do I uncap my FPS?
+### How do I uncap my FPS?
 
 In Mod Organizer, find the `High FPS Physics Fix` mod. Double click it. In the pop-up window, select the `INI Files` tab, then select the only INI listed. In the right pane, scroll down about halfway until you see `InGameFPS=58`. Change the `58` to `0`.
 
 ---
 
-#### How do I edit the volumes for things like radios and voices?
+### How do I edit the volumes for things like radios and voices?
 
 While in game, press Escape, then select `Mod Config`. Scroll down to the section entitled `Persistent Volume Sliders`. Adjust to your liking.
 
 ---
 
-#### I hate the HUD overlays while I'm in Power Armor. Can these be safely disabled?
+### I hate the HUD overlays while I'm in Power Armor. Can these be safely disabled?
 
 You can use the Power Armor HUD Switcher holotape to disable them. Do not disable them while you're in Power Armor. I repeat: DO NOT disable them while you're in Power Armor.
 
 ---
 
-#### Why is there a crosshair on my Pip-Boy?
+### Why is there a crosshair on my Pip-Boy?
 
 A small side effect of the Power Armor HUD overlays. You can turn the Power Armor HUD Switcher holotape setting for `Hide Hud in Pipboy` to `Off` in order to hide the crosshair when not in Power Armor, but this also makes the Pip-Boy look pretty terrible when using it inside Power Armor. Your call.
 
 ---
 
-#### Can I have multiple companions at the same time?
+### Can I have multiple companions at the same time?
 
 [Heather Casdin](https://www.nexusmods.com/fallout4/mods/23273) doesn't occupy a "follower" slot, so you can have Heather + one other companion. You cannot have multiple vanilla companions with you at the same time.
 
 ---
 
-#### Why does my flashlight have a faint red ring around the edges?
+### Why does my flashlight have a faint red ring around the edges?
 
 Because I like it.
 
 ---
 
-#### Can I add an ENB?
+### Can I add an ENB?
 
 If you hate yourself, sure. Some people have added ENBs and reported consistent crashes, so your mileage may vary. Don't add an ENB and report bugs to me because I can't/won't help.
 
 ---
 
-#### Can I update [x] mod?
+### Can I update [x] mod?
 
 You can do whatever you want, but this will void any official support.
 
 ---
 
-#### What if I want to change/add/remove mods? Can you help me?
+### What if I want to change/add/remove mods? Can you help me?
 
 Sometimes I [write guides on how to do these things](https://github.com/LivelyDismay/Learn-To-Mod/wiki). Please don't ask me "can I add" or "is it safe to add" or "is there a list of mods I can add" or "can I suggest this mod" because I don't want to make YOUR list. I want to make MY list. I'm happy to answer any *technical* questions you have.
 
 ---
 
-#### Does Magnum Opus have Ultrawide Support?
+### Does Magnum Opus have Ultrawide Support?
 
 No. I don't own an Ultrawide monitor. Some of the other people playing this list do, and one of them [wrote this guide](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) for their own Ultrawide setup. I make no guarantees on how accurate or up-to-date this information is, and I cannot help you troubleshoot any issues that arise from using an Ultrawide.
 
 ---
 
-#### I'm having problems downloading a few files, how do I fix it?
+### I'm having problems downloading a few files, how do I fix it?
 
 The most common files that fail to download through Wabbajack are as follows:
   -  [Tattoos Collection by Dreivor Overlays Edition (TCD)](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=232053&game_id=1151iles)
@@ -95,25 +95,25 @@ Download these files manually, paste them into your `downloads` folder that you 
 
 ---
 
-#### My loading screen is bugged/not working/etc. What's wrong?
+### My loading screen is bugged/not working/etc. What's wrong?
 
 Nothing. The loading screens have been reduced to the bare necessities in order to allow the game to load the next area faster, instead of wasting time working on loading the loading screen.
 
 ---
 
-#### How do I change my FOV?
+### How do I change my FOV?
 
 While in game, press Escape, select `Mod Config`, then head down to `Custom Camera`. **Save any changes you make in this MCM to its own Profile or the changes will not stick.**
 
 ---
 
-#### Is the BiRaitBec Texture Optimization step required?
+### Is the BiRaitBec Texture Optimization step required?
 
 Technically, no. But you should still do it.
 
 ---
 
-#### Hey Lively, is there a reason --
+### Hey Lively, is there a reason --
 
 No matter how this question ends, the answer is the same: Because I want to, or because I didn't want to.
 
