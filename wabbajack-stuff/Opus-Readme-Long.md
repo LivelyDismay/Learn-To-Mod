@@ -271,7 +271,7 @@ You may also notice some other mods are deactivated in the CC Profile - namely, 
 
 ## FAQ
 
-I've been doing this for a while now, so [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/Learn-To-Mod/blob/4f6d55358073233b3a2f91e267c47dcdd6d08ea5/wabbajack-stuff/faq-wip.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
+I've been doing this for a while now, so [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/faq-wip.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
 
 ---
 
