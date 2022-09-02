@@ -65,15 +65,15 @@ If you hate yourself, sure. Some people have added ENBs and reported consistent 
 
 ---
 
-#### Why am I invulnerable/invincible/not taking damage/in permanent God Mode?
+#### Can I update [x] mod?
 
-You need to enter and exit workshop mode.  Also, please read the Magnum Opus Beginner's Guide terminal outside Vault 111. It even has a holotape version so you can read it on the go or easily reference it as needed.
+You can do whatever you want, but this will void any official support.
 
 ---
 
-#### I am experiencing the Zero Health Bug. Healing kills me/I can't increase my health/radiation kills me/etc. What happened?
+#### What if I want to change/add/remove mods? Can you help me?
 
-Unfortunately I've not experienced this myself so I can't do proper testing. From what I can gather, your health was changing (from food, drugs, radiation, etc) when you entered Workshop Mode, and now your health can't be updated by the game properly. Sometimes the `player.resethealth` console command can fix this, but I would strongly encourage you to simply load a save from before it happened.
+Sometimes I [write guides on how to do these things](https://github.com/LivelyDismay/Learn-To-Mod/wiki). Please don't ask me "can I add" or "is it safe to add" or "is there a list of mods I can add" or "can I suggest this mod" because I don't want to make YOUR list. I want to make MY list. I'm happy to answer any *technical* questions you have.
 
 ---
 
@@ -101,14 +101,20 @@ Nothing. The loading screens have been reduced to the bare necessities in order 
 
 ---
 
-**How do I change my FOV?**
+#### How do I change my FOV?
 
 While in game, press Escape, select `Mod Config`, then head down to `Custom Camera`. **Save any changes you make in this MCM to its own Profile or the changes will not stick.**
 
 ---
 
-**Is the BiRaitBec Texture Optimization step required?**
+#### Is the BiRaitBec Texture Optimization step required?
 
 Technically, no. But you should still do it.
+
+---
+
+#### Hey Lively, is there a reason --
+
+No matter how this question ends, the answer is the same: Because I want to, or because I didn't want to.
 
 ---
