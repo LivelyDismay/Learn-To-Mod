@@ -41,6 +41,9 @@ Updated The Brotherhood of Old.
 Updated UnBlended - Really Blended Roads.  
 Updated Legacy of the Dragonborn - Follower Room Patches.  
 Updated Hall of Forgotten Patches.  
+Updated A Clear Map of Skyrim and Other Worlds.  
+
+New Lodgen, Texgen, Dyndolod outputs.  
 
 ---
 
