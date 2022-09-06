@@ -1,3 +1,49 @@
+WIP
+
+Version 2.1.0
+
+Added Wartortle's Shadow of Skyrim Autostart.  
+Added Wartortle's Marshlands Fixes.  
+Added Keyboard Shortcuts Fix.  
+Added Acquisitive Soul Gems Multithreaded - Settings Loader.  
+Added The White Phial - Tweaks and Enhancements.  
+Added Handy Crafting and Spells.  
+Added Help Extender.  
+Added Ice Wraith Teeth Collision Fixes.  
+Added Infinity UI.  
+Added Compass Navigation Overhaul.  
+Added Elemental Arrows (yeah I totally forgot to do that, shut up).  
+Added Rainbows SE.  
+Added Wonders of Weather.  
+Added Wonders of Weather - Settings Loader.  
+Added MiscFix.  
+Added Favor Quests Separated.  
+Added Legacy Safehouse Plus.  
+Added Simplicity of Snow.  
+Added Better SkyUI Config - Reading Fix.  
+Added Fixed Mesh Lighting.  
+Added Simplicity of Snow - Cities of The North.  
+
+Removed Pickpocket Reset.  
+Removed Skyrim Reputation.  
+Removed R.A.S.S. - Rain and Snow Shaders.  
+Removed Better Dynamic Snow.  
+
+Updated Audio Overhaul Skyrim.  
+Updated Cities of the North - Falkreath Patch Collection.  
+Updated Palaces and Castles Enhanced Patch Collection.  
+Updated Assorted Mesh Fixes.  
+Updated Shadow of Skyrim.  
+Updated Glowing Mushroom Collision Fixes.  
+Updated The Wheels of Lull.  
+Updated Lively's Patches for Tempus Maledictum.  
+Updated The Brotherhood of Old.  
+Updated UnBlended - Really Blended Roads.  
+Updated Legacy of the Dragonborn - Follower Room Patches.  
+Updated Hall of Forgotten Patches.  
+
+---
+
 2022/08/20
 
 Version 2.0.2
