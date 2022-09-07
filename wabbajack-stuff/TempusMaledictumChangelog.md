@@ -43,7 +43,7 @@ Updated Legacy of the Dragonborn - Follower Room Patches.
 Updated Hall of Forgotten Patches.  
 Updated A Clear Map of Skyrim and Other Worlds.  
 
-New Lodgen, Texgen, Dyndolod outputs.  
+New Lodgen, Texgen, Dyndolod, Nemesis outputs.  
 
 ---
 
