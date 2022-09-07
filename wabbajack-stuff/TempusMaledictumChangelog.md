@@ -2,6 +2,11 @@ WIP
 
 Version 2.1.0
 
+
+<details>
+  
+  <summary>Click to expand</summary>
+  
 Added Wartortle's Shadow of Skyrim Autostart.  
 Added Wartortle's Marshlands Fixes.  
 Added Keyboard Shortcuts Fix.  
@@ -45,6 +50,8 @@ Updated A Clear Map of Skyrim and Other Worlds.
 
 New Lodgen, Texgen, Dyndolod, Nemesis outputs.  
 
+   </details>
+   
 ---
 
 2022/08/20
