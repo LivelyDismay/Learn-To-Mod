@@ -2,6 +2,7 @@ WIP
 
 Version 2.1.0
 
+New save required.  
 
 <details>
   
@@ -28,6 +29,12 @@ Added Simplicity of Snow.
 Added Better SkyUI Config - Reading Fix.  
 Added Fixed Mesh Lighting.  
 Added Simplicity of Snow - Cities of The North.  
+Added CoMAP - Common Marker Addon Project.  
+Added Forgotten Vale Map Markers.  
+Added NPCs React to Necromancy.  
+Added Legacy of the Dragonborn - Serana's Safehouse Room.  
+Added Jumping Attack.  
+Added Better SkyUI Config - Reading Fix.  
 
 Removed Pickpocket Reset.  
 Removed Skyrim Reputation.  
