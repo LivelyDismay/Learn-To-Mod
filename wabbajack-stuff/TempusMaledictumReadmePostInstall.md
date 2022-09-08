@@ -18,9 +18,15 @@ When the messages in the top left corner have stopped, speak to the Statue of Ma
 
  - **Arrived by ship: Solitude** - gives you the option to kickstart the Legacy of the Dragonborn questline.
  - **Locked in Chronostasis** - plays along with the lore from Timelost Dwemer (linked above).
- - **Museum Guildmnaster** - kickstart the Legacy of the Dragonborn questline in a bit of a different way.
+ - **Museum Guildmaster** - kickstart the Legacy of the Dragonborn questline in a bit of a different way.
 
 Of course, you can choose any option that sounds good to you. Some of them will be a lot harder than others, so consider yourself warned.
+
+Press `Esc` and choose the `MCM` option.
+
+Scroll down to `MCM Recorder`.
+
+Play the `TEMPUSMCMS` recording.
 
 Once you choose your start, sleep in the bed to begin the game.
 
