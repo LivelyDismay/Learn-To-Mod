@@ -1,4 +1,23 @@
-WIP
+2022/09/09
+
+Version 2.1.1
+
+<details>
+  
+  <summary>Click to expand</summary>
+
+Added Tempus Maledictum Main Menu Replacer.  
+
+Updated Beyond Reach.  
+Updated Synthesis Output.  
+
+Messed around with compass markers. Still not great but it's better for now.
+
+   </details>  
+
+---
+
+2022/09/07
 
 Version 2.1.0
 
