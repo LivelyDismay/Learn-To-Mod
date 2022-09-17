@@ -41,7 +41,7 @@ To that end, I like new content. I like new areas, new quests, new NPCs, new wea
 
 This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you want Survival, you should play [Fallout 4 Enhanced Edition](https://www.wabbajack.org/modlist/wj-featured/fallout_4_enhanced_edition) or [Life in the Ruins](https://www.wabbajack.org/modlist/wj-featured/life_in_the_ruins).
 
-Is Magnum Opus for you? I don't know, but [this video by DroppedIceCream might help you decide](https://youtu.be/Q2s84pTpkwE).
+Is Magnum Opus for you? I don't know, but [this video might help you decide](https://youtu.be/YtAwqBjWo24).
 
 **Please read this readme in its entirety.**
 
