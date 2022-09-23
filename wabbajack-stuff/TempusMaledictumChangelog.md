@@ -1,3 +1,9 @@
+2022/09/22
+
+Version 2.1.2
+
+No changes, just a compile to make the list installable again. Sorry for the extended delay, sincerely. I hate when my lists are down.
+
 2022/09/09
 
 Version 2.1.1
