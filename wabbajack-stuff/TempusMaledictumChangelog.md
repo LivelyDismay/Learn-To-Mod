@@ -1,3 +1,54 @@
+2022/10/19
+
+Version 2.2.0
+
+New save required.
+
+<details>
+  
+  <summary>Click to expand</summary>
+
+Added Distinct Interiors - Fixes.  
+Added Forgotten Magic Redone - Ordinator Compatibility Patch.  
+Added Apophysis Dragon Priests Masks SE - Kohnarik Accoutrements Patch.  
+Added Cathedral Weathers Unofficial Update.  
+Added The Holds - Solitude.  
+Added CRAFT - Smarter LotD Forge.  
+
+Removed Weather for ENB.  
+Removed Unslaad SE Patches. These are now contained in the main mod.  
+Removed Enhanced Solitude.  
+Removed Misc Tweaks - Decluttered Crafting Menus.  
+Removed Solitude Skyway.  
+
+Updated USMP Patch Emporium.  
+Updated Dyndolod Resources.  
+Updated Acquisitive Soul Gems Multithreaded.  
+Updated More Plantable Plants for Creation Club.  
+Updated Unslaad SE.  
+Updated The Timelost Dwemer.  
+Updated Timelost Dwemer Essentials Patcher.  
+Updated Sneak Tools SE.  
+Updated Regional Features -- Riverwood Oaks.  
+Updated Unblended - Really Blended Roads.  
+Updated Palaces and Castles Enhanced Patch Collection.  
+Updated Glorious Doors of Skyrim.  
+Updated Jumping Attack.  
+Updated ODIN spells for NPCS.  
+Updated Legacy of the Dragonborn Patches (Official).  
+Updated Rob's Bug Fixes - COTN Morthal.  
+Updated Rob's Bug Fixes - COTN Falkreath.  
+Updated Rob's Bug Fixes - COTN Dawnstar.  
+Updated Lively's Patches for Tempus Maledictum.  
+Updated Shadow of Skyrim.  
+Updated Dyndolod SE.  
+
+New outputs (Lodgen, Road Generator, Texgen, Dyndolod, Occlusion, Nemesis, Synthesis).  
+
+  </details>
+
+---
+
 2022/09/22
 
 Version 2.1.2
