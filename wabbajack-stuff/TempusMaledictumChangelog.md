@@ -1,5 +1,13 @@
 2022/10/19
 
+Version 2.2.1
+
+Forgot to actually install the Unslaad English Voiced Add-on after downloading it.  Go team.
+
+---
+
+2022/10/19
+
 Version 2.2.0
 
 New save required.
@@ -34,6 +42,8 @@ Updated Unblended - Really Blended Roads.
 Updated Palaces and Castles Enhanced Patch Collection.  
 Updated Glorious Doors of Skyrim.  
 Updated Jumping Attack.  
+Updated Vigilant.  
+Updated Unslaad.  
 Updated ODIN spells for NPCS.  
 Updated Legacy of the Dragonborn Patches (Official).  
 Updated Rob's Bug Fixes - COTN Morthal.  
