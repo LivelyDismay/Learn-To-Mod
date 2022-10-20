@@ -1,5 +1,15 @@
 2022/10/19
 
+Version 2.2.2
+
+Solitude looked like shit. I fixed it.
+
+I can do this all night.
+
+---
+
+2022/10/19
+
 Version 2.2.1
 
 Forgot to actually install the Unslaad English Voiced Add-on after downloading it.  Go team.
