@@ -7,6 +7,7 @@
 #### Where are my ingredients and crafting materials?
 
 Press right alt. This is from [Handy Crafting](https://www.nexusmods.com/skyrimspecialedition/mods/59258).
+
 ---
 
 #### Can I add [x] mod?
