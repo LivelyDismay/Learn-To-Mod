@@ -2,14 +2,11 @@
 
 
 
-It's a new list. There are no frequently asked questions yet. But I have been in this business for a while now, so let's make some predictions.
-
 ---
 
-#### My face looks stupid during character creation, what's going on?
+#### Where are my ingredients and crafting materials?
 
-Choose one of the High Poly Head Face Parts. You can see what mod each part is from in the bottom right corner.
-
+Press right alt. This is from [Handy Crafting](https://www.nexusmods.com/skyrimspecialedition/mods/59258).
 ---
 
 #### Can I add [x] mod?
