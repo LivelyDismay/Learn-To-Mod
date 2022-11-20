@@ -1,3 +1,54 @@
+2022/11/20
+
+Version 2.3.0
+
+**New save required.**
+
+<details>
+  
+  <summary>Click to expand</summary>
+  
+  Added The Distinct Great Ivarstead Interiors.  
+  Added The Great Town of Ivarstead Patch Collection.  
+  Added Dev Aveza Hotfix.  
+  Added Oxygen Meter.  
+  
+  Removed Forgotten Dungeons SSE.  
+  Removed CoMAP.  
+  
+  New Texgen, Dyndolod, Synthesis outputs.  
+  
+  Added Tortle's Patches and Itslways710's Patches.
+  
+  To elaborate on these added patches, here's a list of known issues that were fixed:
+  
+   - Brotherhood of Old tent clips Elysium Estate.
+   - Fur Vested Clothes and Linwe's Armor have floating hands.
+   - Markarth stables door is inaccessible.
+   - Morthal Inn navmesh is broken.
+   - Restoring Order can't be done.
+   - Various clipping/floating issues with the Redguard CC mod.
+   - Dev Aveza hopefully fixed.
+   - Floating trees outside of Treva's watch.
+   - Glitchy landscape in Solitude Walkway
+   - Some firewood piles are not lootable
+   - Door out of Solitude to the Solitude walkway was broken
+   - Door to Riften Noble's Quarters was broken
+   - Doors sometimes say where you are, not where you are going.
+   - Raven Rock has some clipping boats and bad navmesh.
+   - Floating lantern in Salvius Farm.
+   - Floating beehive outside of Helgen.
+   - Water seam at Riften Docks.
+   - Water seam outside of Solitude.
+   - Old Hroldan Inn was broken.
+   - Floating firewood in Fort Dawnguard.
+   - Floating candles in Blue Palace.
+   - Tree lod is purple in places.
+  
+</details>
+
+---
+
 2022/10/19
 
 Version 2.2.2
