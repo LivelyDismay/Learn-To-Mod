@@ -1,3 +1,102 @@
+WIP
+
+Version 3.0
+
+Added Undeath - Classical Lichdom.  
+Added Beast Skeletons Revised (Bitter Edition).  
+Added Skeleton Replacer HD.  
+Added Dragon Priest Fix - Behaviour Overhaul.  
+Added Phenderix Elements.  
+Added Creation Club Backpacks - Crafting Overhaul.  
+Added Vlindrel Hall Remade.  
+Added Auto Elemental Cloaks.  
+Added ConsolePlusPlus.  
+Added Skyrim Extended Cut - Saints and Seducers.  
+Added Swiftly Order Squad - Simply Order Summons integration.  
+Added Alternate Alchemy.  
+Added Legacy of the Dragonborn SSE - Settings Loader.  
+Added Precision.  
+Added Valvalis Combat - Visceral Tactics.  
+Added Animation Motion Revolution.  
+Added Valhalla Combat.  
+Added Kanjs Chaurus Egg and Staff.  
+Added Learn Ingredients.  
+Added Ice Lake Dragon Retexture.  
+Added Ancient Dwemer Metal - My patches - FINAL SE VERSION Update v6.  
+Added Dreughs of Skyrim - Fathom's Creature Series.  
+Added Sets of Skills - a Skyrim Class Mod - Settings Loader.  
+Added Set of Skills.  
+Added Time-Based Enemy Scaling.  
+Added Time-Based Set of Skills - Time-Based Enemy Scaling Sets of Skills Patch.  
+Added Immersive DragonFire - Apocrypha.  
+Added Another Race Menu Rotation Mod.  
+Added Dovah Den.  
+
+Updated Enhanced Reanimation.  
+Updated Embers XD.  
+Updated CRAFT Smarter LotD Forge.  
+Updated The Timelost Dwemer.  
+Updated Simply Order Summons.  
+Updated The Great Town of Ivarstead Patch Collection.  
+Updated TrueHUD - HUD Additions.  
+Updated Wintersun - Faiths of Skyrim - Legacy Settings Loader.  
+Updated Particle Patch for ENB.  
+Updated Water for ENB.  
+Updated COTN Morthal Patch Collection.  
+Updated Spell Perk Item Distributor (SPID).  
+Updated Unofficial Skyrim Modders Patch - USMP - Patch Emporium.  
+Updated COTN Dawnstar Patch Collection.  
+Updated Forgotten Argonian Roots.  
+Updated Legacy of the Dragonborn Creation Club Patches.  
+Updated Legacy of the Dragonborn SSE - The Curators Companion.  
+Updated DynDOLOD.  
+Updated DynDOLOD Resources.  
+Updated Legacy of the Dragonborn SSE.  
+Updated Moons And Stars.  
+Updated Bug Fixes SSE.  
+Updated Auto Input Switch.  
+Updated Keyword Item Distributor (KID).  
+Updated Contextual Crosshair.  
+Updated ENB Helper SE.  
+Updated ENB Input Disabler.  
+Updated NPC AI Process Position Fix - NG.  
+Updated Better Jumping SE.  
+Updated Use Or Take SKSE.  
+Updated Stay at the System Page - AE.  
+Updated True Directional Movement.  
+Updated Unique Map Weather.  
+Updated Wash That Blood Off 2.  
+Updated Better Third Person Selection - BTPS.  
+Updated Completionist - Skyrim Completion Tracker (SE-AE).  
+Updated Frozen Electrocuted Combustion.  
+Updated Storm Lightning for SSE and VR (Minty Lightning 2019).  
+Updated MCM Helper.  
+Updated Crash Logger SSE VR.  
+Updated powerofthree's Tweaks.  
+Updated powerofthree's Papyrus Extender.  
+
+Removed Wait Your Turn - Enemy Circling Behaviour.  
+Removed Undeath Immersive Lichdom SSE.  
+Removed Undeath - The Ascension.  
+Removed Undeath ZIA Patch.  
+Removed Shield Of Stamina - Blocking Redux.  
+Removed Counter Damage.  
+Removed Elden Parry.  
+Removed Block Enchantments.  
+Removed Smart NPC Potions.  
+Removed Action Based Projectiles.  
+Removed Alternate Start - The Last Dwemer.  
+Removed Copy and Paste in Console.  
+Removed Player Rotation in ShowRaceMenu.  
+Removed Classic Paralysis.  
+
+Removed the Scripts folder from Tortle's Patches.  
+Changed Curator Storage Token COBJ to require 200 Gold instead of 1.  
+Changed Curator Storage Token Breakdown COBJ to yield 100 gold instead of 1.  
+New Lodgen, Texgen, Dyndolod, Synthesis outputs.  
+
+---
+
 2022/11/20
 
 Version 2.3.0
