@@ -21,7 +21,7 @@ Added Animation Motion Revolution.
 Added Valhalla Combat.  
 Added Kanjs Chaurus Egg and Staff.  
 Added Learn Ingredients.  
-Added B. Touch of Natural Tamriel (TNT) ENB.  
+Added C. Culminated ENB for Cathedral Weathers.  
 Added Ice Lake Dragon Retexture.  
 Added Ancient Dwemer Metal - My patches - FINAL SE VERSION Update v6.  
 Added Dreughs of Skyrim - Fathom's Creature Series.  
@@ -66,6 +66,21 @@ Added SD's Farmhouse Fences SE.
 Added Less Distracting Blowing Snow Effects for ENB Particle Patch.  
 Added Interior Floating Fog Remover.  
 Added real life snowflakes SSE.  
+Added EasyNPC.  
+Added Marvelous Mage Followers.  
+Added Not Quite Vanilla NPC Overhaul - Argonians.  
+Added Pandorable's Initiates.  
+Added eeekie's High-Poly Teldryn Sero.  
+Added eeekie's Enhanced NPCs.  
+Added eeekie's Kaidan Long Hair.  
+Added Elevated NPCs.  
+Added NVICO - Townies.  
+Added Northbourne NPCs.  
+Added eeekie's High-Poly Real Delphine.  
+Added Pandorable's NPCs.  
+Added The Devil drinks Black Briar - High Poly Maven.  
+Added Bijin Warmaidens SE.  
+Added Beards of Power - Sons of Skyrim.  
 
 Updated Enhanced Reanimation.  
 Updated Embers XD.  
@@ -124,6 +139,7 @@ Removed Classic Paralysis.
 Removed Blubbos PineTreeReplacer 2022.  
 Removed Blubbos Snow Pine Tree Replacer.  
 Removed Serio's ENB.  
+Removed Tempus Maledictum - Super Duper Facegen.  
 
 Reinstalled Animated Forge Water.  
 
