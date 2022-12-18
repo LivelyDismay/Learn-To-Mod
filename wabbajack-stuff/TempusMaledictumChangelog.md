@@ -121,6 +121,8 @@ Updated MCM Helper.
 Updated Crash Logger SSE VR.  
 Updated powerofthree's Tweaks.  
 Updated powerofthree's Papyrus Extender.  
+Updated The Ultimate Dodge Mod - SPID Patch.  
+Updated The Ultimate Dodge Mod - SPID Patch - Settings Loader.  
 
 Removed Wait Your Turn - Enemy Circling Behaviour.  
 Removed Undeath Immersive Lichdom SSE.  
