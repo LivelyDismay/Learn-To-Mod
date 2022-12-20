@@ -4,6 +4,10 @@ Cool. Let's do this.
 
 Make sure you have Skyrim Anniversary Edition. Yes, this includes the recent $20 add-on. No, it is not negotiable.
 
+Make sure it's a clean install of the game. No old mods in your data folder or anything like that. Delete it all and reinstall it.
+
+Launch the game.
+
 If you haven't already done this since purchasing AE, launch the game through Steam and allow Skyrim to download all the Creation Club files.
 
 Close the game.
@@ -28,10 +32,12 @@ Make your character. Select whatever options you want, it doesn't matter.
 
 Press Escape. Select `Mod Config`.
 
-Do whatever you want because I haven't made MCM Configs yet.
+Go to the MCM Recordings and run the TempusMCMs recording.
 
-Tab back out to the game.
+Edit other things in the MCMs if you want to.
 
 Have fun. I'm on [Discord](https://discord.gg/yABEjwB) if you need me.
 
 And don't forget to [read the FAQ](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeFAQ.md).
+
+Feelin' frisky? [I have a Patreon.](https://www.patreon.com/nicholasjae)
