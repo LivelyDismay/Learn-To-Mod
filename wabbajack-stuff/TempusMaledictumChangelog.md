@@ -2,6 +2,10 @@ WIP
 
 Version 3.0
 
+**New save required.**
+
+<details>
+
 Added Undeath - Classical Lichdom.  
 Added Beast Skeletons Revised (Bitter Edition).  
 Added Skeleton Replacer HD.  
@@ -149,6 +153,10 @@ Removed the Scripts folder from Tortle's Patches.
 Changed Curator Storage Token COBJ to require 200 Gold instead of 1.  
 Changed Curator Storage Token Breakdown COBJ to yield 100 gold instead of 1.  
 New Lodgen, Texgen, Dyndolod, Synthesis outputs.  
+
+Look, I'll be honest, we've been working really hard and pretty much nonstop, so I undoubtedly forgot to write some things down in this here changelog. Apologies.  
+
+  </details>
 
 ---
 
