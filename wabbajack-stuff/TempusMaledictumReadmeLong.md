@@ -36,7 +36,7 @@ This is a list I made for myself, primarily to play a lot of quest mods that I'v
 
 Prefer to see a video on it? [No problem!](https://youtu.be/H-5RAvCMHQE)
 
-The main attractions are obviously all the quest mods, as well as Legacy of the Dragonborn and Timelost Dwemer. I would recommend playing as the Deep Elf Race, and choosing the Chronostasis alternate start for **maximum immersionnnn**. But do whatever you want, I'm not your real dad.
+The main attractions are obviously all the quest mods, as well as Legacy of the Dragonborn and Timelost Dwemer. Personally I prefer the Boat to Solitude start to get a faster LotD start-up, but that's just me, do whatever you want, I'm not your real dad.
 
 **Support will be minimal.** I want to play this list myself instead of spending all my time fielding support queries. I hope you understand. I just want to have some fun. To that end, if you ask me questions already covered in the readme or the FAQ, I'm going to outright ignore you.
 
