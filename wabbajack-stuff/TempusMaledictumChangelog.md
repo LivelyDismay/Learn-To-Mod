@@ -1,6 +1,24 @@
+2022/12/21
+
+Version 3.1.0
+
+New save not required, but I mean, you should start a new game.
+
+<details>
+  
+Removed Time-Based Enemy Scaling (until I can test it further, then we shall see).  
+
+Fixed some EasyNPC patches so people don't look stupid.  
+
+Added a Tempus Maledictum Beginner's Guide to the ASLAL prison cell.
+
+</details>
+
+---
+
 2022/12/20
 
-Version 3.0
+Version 3.0.0
 
 **New save required.**
 
