@@ -1,3 +1,13 @@
+WIP
+
+Version 3.1.1
+
+Removed Pause Menu After Loading. This was primarily added because of Forgotten Dungeons, which we no longer use.  
+
+Fixed issue with Candlestick missing textures via moving ENB Light above Particle Patch in the mod order.  
+
+---
+
 2022/12/21
 
 Version 3.1.0
