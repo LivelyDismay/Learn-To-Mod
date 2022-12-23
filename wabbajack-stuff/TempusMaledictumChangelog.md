@@ -2,9 +2,13 @@ WIP
 
 Version 3.1.1
 
+Updated Auto Elemntal Cloaks.  
+
 Removed Pause Menu After Loading. This was primarily added because of Forgotten Dungeons, which we no longer use.  
 
 Fixed issue with Candlestick missing textures via moving ENB Light above Particle Patch in the mod order.  
+Fixed Kaidan black face bug.  
+Reinstalled Skyland AIO to remove an extraneous plugin because I don't know how to read. Fixes floating Point the Way signs.  
 
 ---
 
