@@ -1,7 +1,12 @@
-WIP
+2022/12/25
 
 Version 3.1.1
 
+Merry Christmas!
+
+<details>
+  
+Updated Lively's Patches.  
 Updated Auto Elemental Cloaks.  
 Updated Aspens Ablaze - Dyndolod 3 Addon.  
 Updated Dyndolod.  
@@ -14,6 +19,8 @@ Fixed Kaidan black face bug.
 Reinstalled Skyland AIO to remove an extraneous plugin because I don't know how to read. Fixes floating Point the Way signs.  
 New Lodgen, Texgen, Dyndolod, Synthesis outputs.  
 
+</details>
+  
 ---
 
 2022/12/21
