@@ -1,3 +1,26 @@
+2022/12/26
+
+Version 6.3.0
+
+A quick note: this should technically require a new save, but these are all the things I've done to my own modlist during the filming of [my YouTube series](https://youtu.be/YtAwqBjWo24), and I haven't started a new save, so...take that as you will. If you do plan to update and keep playing a save, I'd recommend using the `coc sanctuarybasementjahani` command, waiting for 30 days, saving, closing the game, then updating the modlist. This will teleport you to the small basement in Sanctuary and essentially clear the cache of whatever is loaded in any other cell, effectively making sure the game isn't loading anything else. This will, however, reset all enemy spawns and such, so...you just have to deal with that. Same as I did on my series, if you've been watching.  
+
+Other than that, this is a pretty simple update. Removing some issues, fixing some issues, and most importantly, updating SS2 stuff. **If you have not played newer versions of SS2, you need a Recruitment Clipboard to hire people for HQ.** So if you're already beyond that point in the SS2 questline, either console yourself the item (`help recruitment 4 weap`, then add it via `player.additem <id> 1`, or it should be on top of Theresa's terminal in HQ. Consoling is the easier method...  
+
+This SS2 update also includes a hotfix from last night to address an issue with an infinite loop in the coding for the holotape tools. This fix should run automatically for you, so no extra steps required for you guys. You may or may not get a one-time pop-up stating that the fix ran and cleaned your save (I only used the test version from last night, not the one included in the mod),
+
+Added Workshop Plus.  
+
+Updated Sim Settlements 2.  
+Updated Sim Settlements 2 Chapter 2.  
+Updated Workshop Framework.  
+
+Removed You and What Army.  
+Removed Cross Crit Gore-verhaul.  
+
+Renamed `Cinematic Lensflares.ba2` to `Cinematic Lensflares - Textures.ba2`.  
+
+---
+
 2022/07/11
 
 Updated Active Effects on HUD.
