@@ -1,3 +1,20 @@
+2022/12/31
+
+Version 6.3.2
+
+Happy new year.
+
+Updated ECO - Equipment and Crafting Overhaul.  
+Updated 4est Complex Sorter Enhancements.  
+Updated m8r's Complex Sorter.  
+
+Changes to some patches (such as ECO Patchwork.esp).  
+Some stuff to maybe help HQ run more smoothly? We will see, I guess.
+
+---
+
+New sorter outputs for both profiles.
+
 2022/12/26
 
 Version 6.3.0
