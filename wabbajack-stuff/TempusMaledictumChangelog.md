@@ -21,6 +21,7 @@ Version 3.1.2
   New Lodgen, Texgen, Dyndolod outputs. As usual.  
   
   Dreugh enemy types should be easier now with Auto Calc Stats and PC Level Mult flags.  
+  Rogue Class probably works just fine now.  
   LotD Navmesh stuff should be fixed up.  
   Divine Crusader quest should complete properly.  
   No more kid with black face bug in Solitude.  
