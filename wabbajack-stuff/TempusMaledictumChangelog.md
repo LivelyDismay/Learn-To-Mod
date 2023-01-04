@@ -1,3 +1,35 @@
+2023/01/04
+
+Version 3.1.2
+
+<details>
+  
+  Added Better Occlusion - COTN Falkreath.  
+  Added Attack Speed Fix.  
+  Added Mrf's Solitude.  
+  Added Illustrious Whiterun.  
+  Added Stony AF Markarth and Dwemer Ruins.  
+  Added Some Braziers.  
+  Added BURP - Spell Tomes.  
+  Added ElSopa - Potions Redone.  
+  Added SMIM Upper Furniture and Other Fixes.  
+  
+  Updated Lively's Patches.  
+  Updated Treasure Hunter for SSE.  
+  Updated 710's Patches.  
+  
+  New Lodgen, Texgen, Dyndolod outputs. As usual.  
+  
+  Dreugh enemy types should be easier now with Auto Calc Stats and PC Level Mult flags.  
+  LotD Navmesh stuff should be fixed up.  
+  Divine Crusader quest should complete properly.  
+  No more kid with black face bug in Solitude.  
+  Water seams should all be fixed. If not all, then certainly a vast majority.  
+
+  </details>
+
+---
+
 2022/12/25
 
 Version 3.1.1
