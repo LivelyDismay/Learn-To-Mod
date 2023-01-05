@@ -1,5 +1,13 @@
 2023/01/04
 
+Version 3.1.3
+
+Removed Creation Kit from compilation.
+
+---
+
+2023/01/04
+
 Version 3.1.2
 
 <details>
