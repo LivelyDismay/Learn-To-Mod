@@ -34,7 +34,7 @@
 
 This is a list I made for myself, primarily to play a lot of quest mods that I've missed out on over the years.
 
-Prefer to see a video on it? [No problem!](https://youtu.be/H-5RAvCMHQE)
+Prefer to see a video on it? [No problem!](https://youtu.be/772C26nBNig)
 
 The main attractions are obviously all the quest mods, as well as Legacy of the Dragonborn and Timelost Dwemer. Personally I prefer the Boat to Solitude start to get a faster LotD start-up, but that's just me, do whatever you want, I'm not your real dad.
 
