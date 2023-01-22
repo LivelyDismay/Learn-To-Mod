@@ -1,3 +1,16 @@
+2023/01/22
+
+Version 6.3.3
+
+Recompiled on WJ v3.0.6.0. Hopefully fixes installation issues people are having since yesterday. Mild changes while I'm at it:  
+
+Renamed Venom Ammo Change gloves from Courser Crusher.  
+Renamed Venom Ammo Change Power Armor from Courser Crusher.  
+Fixed at least one instance of Minutemen possibly spawning naked. We will keep an eye out for more.  
+Removed a bed from Beantown Brewery. Yes I finally remembered.  
+
+---
+
 2022/12/31
 
 Version 6.3.2
