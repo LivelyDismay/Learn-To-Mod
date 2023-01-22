@@ -13,6 +13,7 @@ Version 3.1.4
   Added Legacy of the Dragonborn - Museum Exterior Fixes.  
   Added Salt and Wind - Vanilla Hair.  
   Added Bed Head - Vanilla Hair Replacer.  
+  Added Standardization of Spelling of Sets of Skills.  
   
   Updated Dyndolod.  
   Updated powerofthree Tweaks.  
