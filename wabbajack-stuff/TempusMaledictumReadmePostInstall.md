@@ -17,8 +17,8 @@ When you're done creating your character, you'll have a whole lot of messages sc
 When the messages in the top left corner have stopped, speak to the Statue of Mara and choose how you'd like to start the game. Some notable entries:
 
  - **Arrived by ship: Solitude** - gives you the option to kickstart the Legacy of the Dragonborn questline.
- - **Locked in Chronostasis** - plays along with the lore from Timelost Dwemer (linked above).
  - **Museum Guildmaster** - kickstart the Legacy of the Dragonborn questline in a bit of a different way.
+ - **Camping in the Woods** - start at a campsite outside of Helgen. Basically the vanilla intro but without all the jank.
 
 Of course, you can choose any option that sounds good to you. Some of them will be a lot harder than others, so consider yourself warned.
 
