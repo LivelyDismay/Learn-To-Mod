@@ -17,6 +17,7 @@ Version 3.1.4
   Updated Dyndolod.  
   Updated powerofthree Tweaks.  
   Updated Lively's Patches.  
+  Updated Better Third Person Selection.  
   
   Removed Unblended - Really Blended Roads.  
   Removed Snowy AF Markarth and Dwemer Ruins.  
