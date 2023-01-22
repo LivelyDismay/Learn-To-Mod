@@ -1,3 +1,46 @@
+2023/01/21
+
+Version 3.1.4
+
+<details>
+  
+  Added Mrf's Markarth.  
+  Added ElSopa - Noble Furniture.  
+  Added More Lights for ENB - Blood Splatter Fix.  
+  Added Auri - Thistlefoot Should Stay Outside.  
+  Added Auri Dismount AI Fix.  
+  Added Ancient Dwemer Metal - Mrf's Markarth Patch.  
+  Added Legacy of the Dragonborn - Museum Exterior Fixes.  
+  Added Salt and Wind - Vanilla Hair.  
+  Added Bed Head - Vanilla Hair Replacer.  
+  
+  Updated Dyndolod.  
+  Updated powerofthree Tweaks.  
+  Updated Lively's Patches.  
+  
+  Removed Unblended - Really Blended Roads.  
+  Removed Snowy AF Markarth and Dwemer Ruins.  
+  
+  New Lodgen, Texgen, Dyndolod outputs. As usual.  
+  
+  Issues addressed:
+   - Forgotten Vale has a map now.
+   - Forgotten Vale doesn't crash anymore near the spiders on the hill.
+   - Skuldafn doesn't crash anymore.
+   - Karliah doesn't have missing eye textures anymore.
+   - Companions no longer turn invisible when transforming into werewolves.
+   - Lund's Hut looks nice again.
+   - Riverwood doesn't have random floating ivy hanging about.
+   - Akaviri Outpost doesn't have a visible black plane or a tree growing through it.
+   - Winterhold Ruins Expanded doesn't have missing walls anymore.
+   - Blood splatter decals aren't big weird 3D objects anymore.
+   - Fixed sewer overlap in Solitude.
+   - Navmesh/pathing in Whiterun market and around Elysium Estate won't be a problem anymore.
+  
+  </details>
+
+---
+
 2023/01/04
 
 Version 3.1.3
