@@ -42,7 +42,7 @@ No.
 
 #### Is there an ENB in this list?
 
-Yeah. Serio's ENB.
+Yeah. Culminated ENB.
 
 ---
 
@@ -62,7 +62,8 @@ Yes.
 
 Tempus Maledictum makes liberal use of MCM Helper and MCM Recorder. This means most things are set up for you. To help you along, here are the default hotkeys I use:
 
-Dodge - Mouse4  
+Toggle HUD - Mouse3.  
+Dodge - Mouse4.  
 Target Lock-on - F. (You can long-press F to change POV).  
 Target Lock-on Swap - Mouse Wheel + Mouse movement. A bit less sensitive than the default value (32 > 50).  
 Sneak - Left Control.  
