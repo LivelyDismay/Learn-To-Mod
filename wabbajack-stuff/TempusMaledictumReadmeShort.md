@@ -20,6 +20,8 @@ Click the Play button.
 
 Wait.
 
+Did Wabbajack turn red and say `Installation Failed`? Unable to download a bunch of archives? Are all those archives called `Data_cc` with a bunch of other stuff? Then you need AE. Buy it. If you already bought it, launch the game and download it.  
+
 Did Wabbajack turn green and say `Installation Complete`? Nice, let's go.
 
 Open your installation folder.
@@ -29,12 +31,6 @@ Launch `ModOrganizer.exe`.
 Does it say `SKSE` in the right hand side, next to that big RUN button? Yeah? Good. Click that big RUN button then.
 
 Make your character. Select whatever options you want, it doesn't matter.
-
-Press Escape. Select `Mod Config`.
-
-Go to the MCM Recordings and run the TempusMCMs recording.
-
-Edit other things in the MCMs if you want to.
 
 Have fun. I'm on [Discord](https://discord.gg/yABEjwB) if you need me.
 
