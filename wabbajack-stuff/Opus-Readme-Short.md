@@ -2,9 +2,11 @@ You've used Wabbajack before? You know how it works?
 
 Cool. Let's do this.
 
+Make sure your Fallout 4 installation is clean. Disable the HD DLC. It sucks shit and it'll break everything.  
+
 Open Wabbajack. Download Magnum Opus from the gallery.
 
-Set the installation and download locations to blank folders. Shared downloads folders are fine if you have multiple lists installed.
+Set the installation and download locations to blank folders. Shared downloads folders are fine if you have multiple lists installed. Don't use Windows protected folders like Desktop, Documents, Users, or Program Files.
 
 Click the Play button.
 
@@ -18,7 +20,7 @@ Open your installation folder. There's a folder there called `Game Folder Files`
 
 Copy everything inside `Game Folder Files.`
 
-Paste those files into your Fallout 4 folder (`steam\steamapps\common\Fallout 4`).
+Paste those files into your Fallout 4 folder (`steamapps\common\Fallout 4`).
 
 Go back to your installation folder.
 
@@ -34,4 +36,4 @@ See that preset at the bottom, the `Magnum Opus MCM Settings` one? Click Apply.
 
 Tab back out to the game.
 
-Have fun. I'm on [Discord](https://discord.gg/yABEjwB) if you need me.
+Have fun. I'm on [Discord](https://discord.gg/yABEjwB) if you need me. I'm on [Patreon](https://www.patreon.com/nicholasjae) if you like me.
