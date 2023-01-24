@@ -22,11 +22,7 @@ When the messages in the top left corner have stopped, speak to the Statue of Ma
 
 Of course, you can choose any option that sounds good to you. Some of them will be a lot harder than others, so consider yourself warned.
 
-Press `Esc` and choose the `MCM` option.
-
-Scroll down to `MCM Recorder`.
-
-Play the `TEMPUSMCMS` recording.
+You'll get some pop-ups welcoming you to the list. Your MCMs are done for you once you get these pop-ups. Yay.  
 
 Once you choose your start, sleep in the bed to begin the game.
 
