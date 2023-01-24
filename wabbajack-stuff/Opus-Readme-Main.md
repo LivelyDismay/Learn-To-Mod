@@ -1,6 +1,6 @@
 [This is my first time using Wabbajack!](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md)
 
-[I've used Wabbajack before, just give me the quick version.](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Post-Install.md)
+[I've used Wabbajack before, just give me the quick version.](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Short.md)
 
 [I already ran the installer, take me to the post-installation steps.](https://github.com/LivelyDismay/Learn-To-Mod/blob/d0d79d35b2321d70ead80ec3722f8bcbae9c3c1e/wabbajack-stuff/Opus-Readme-Post-Install.md)
 
