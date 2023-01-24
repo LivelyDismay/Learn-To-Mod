@@ -118,3 +118,7 @@ Technically, no. But you should still do it.
 No matter how this question ends, the answer is the same: Because I want to, or because I didn't want to.
 
 ---
+
+### Can I buy you a drink?
+
+[Yep.](https://www.patreon.com/nicholasjae)
