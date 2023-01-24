@@ -160,16 +160,18 @@ This section [has been moved to its own page, just to really make it stand out i
 
 Tempus Maledictum makes liberal use of MCM Helper and MCM Recorder. This means most things are set up for you. To help you along, here are the default hotkeys I use:
 
-Dodge - Mouse4  
+Toggle HUD - Mouse3.  
+Dodge - Mouse4.  
 Target Lock-on - F. (You can long-press F to change POV).  
 Target Lock-on Swap - Mouse Wheel + Mouse movement. A bit less sensitive than the default value (32 > 50).  
 Sneak - Left Control.  
+Handy Crafting Storage - Right Alt.  
 
 ---
 
 ## FAQ
 
-I've been doing this for a while now, so [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeFAQ.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
+[I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeFAQ.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
 
 ---
 
