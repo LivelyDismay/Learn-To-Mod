@@ -23,9 +23,9 @@ After all that, feel free to upload your crashlog to me on [Discord](https://dis
 
 ---
 
-### How do I uncap my FPS?
+### How do I cap/uncap my FPS?
 
-In Mod Organizer, find the `High FPS Physics Fix` mod. Double click it. In the pop-up window, select the `INI Files` tab, then select the only INI listed. In the right pane, scroll down about halfway until you see `InGameFPS=58`. Change the `58` to `0`.
+In Mod Organizer, find the `High FPS Physics Fix` mod. Double click it. In the pop-up window, select the `INI Files` tab, then select the only INI listed. In the right pane, scroll down about halfway until you see `InGameFPS=`. Change the number to your liking.
 
 ---
 
@@ -110,6 +110,12 @@ While in game, press Escape, select `Mod Config`, then head down to `Custom Came
 ### Is the BiRaitBec Texture Optimization step required?
 
 Technically, no. But you should still do it.
+
+---
+
+### But I want to use Cheat Terminal?
+
+That's a shame. It'll break a lot of stuff in this list. Besides, half of what that mod does is already in Opus, like making various outfits and whatnot craftable. Use the console if you want to cheat. Don't blindly add stupid shit to the modlist.
 
 ---
 
