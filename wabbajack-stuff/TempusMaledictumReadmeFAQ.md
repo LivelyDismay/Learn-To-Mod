@@ -69,3 +69,9 @@ Target Lock-on Swap - Mouse Wheel + Mouse movement. A bit less sensitive than th
 Sneak - Left Control.  
 Hold Shift - allows you to pick up books without reading them. Also lets you know if that book will be stolen or not.  
 Right Alt - access Handy Crafting storage.  
+
+---
+
+#### Can I buy you a drink?
+
+[Yep.](https://www.patreon.com/nicholasjae)
