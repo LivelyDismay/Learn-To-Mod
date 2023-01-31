@@ -1,3 +1,80 @@
+WIP
+
+Version 4.0.0
+
+*Note: if you happen to check this changelog prior to the release of 4.0.0, please remember that everything listed below is not finalized and is subject to change at any time for any reason.*
+
+<details>
+  
+  **ADDED**  
+  
+  Archery Gameplay Overhaul.  
+  Dynamic Animation Replacer.  
+  My Home is Your Home.  
+  Beard Mask Fix.  
+  Redbag's Solitude.  
+  Convenient Horses.  
+  Craftable Circlets.  
+  Simple Blood Potion.  
+  Lightfoot for Followers SPID.  
+  Happy Little Shrubs.  
+  Intuitive Dragon Ride Control.  
+  Cult of the World Eater.  
+  Wards Functionality Extended.  
+  Magic Sneak Attacks.  
+  Improved Camera.  
+  Runic Dawnguard.  
+  Immersive Display Overhaul.  
+  Immersive Equipment Displays.  
+  Simple Dual Sheath.  
+  ABT AE - Arrows and Bolts Tweaks.  
+  Papyrus Tweaks NG.  
+  LotD Hall of Forgotten TCC Patches.  
+  Sets of Skills UI.  
+  
+  **REMOVED**  
+  
+  Dynamic Dungeon Loot.  
+  Dev Aveza.  
+  Ars Metallica.  
+  Pumping Iron.  
+  Dreughs of Skyrim.  
+  All Geared Up Derivative.  
+  Holds - Solitude.  
+  New Beginnings - Live Another Life Extension.  
+  Elemental Arrows.  
+  Sneak Tools.  
+  Jump Attack.  
+
+  **UPDATED**  
+  
+  Dwemer Gates Don't Reset.  
+  CRAFT.  
+  CoverKhajiits.  
+  Armor Variants Expansion - Patch Collection.  
+  Precision.  
+  USMP Patch Emporium.  
+  Second Great War.  
+  Particle Patch for ENB.  
+  Valhalla Combat.  
+  Read or Take.  
+  Infinity UI.  
+  QuickLootEE.  
+  Shadow of Skyrim.  
+  Rainbows.  
+  SPID For Footprints Fix.  
+  Shooting Stars.
+  
+  **FIXES**  
+  
+  Auri's bow and arrows are now craftable at the smithing forge instead of the tanning rack.  
+  Lost Souls Inn no longer has a tree growing through it.  
+  White Hall in Dawnstar should have functional navmeshing now.  
+  
+</details>
+
+---
+
 2023/01/21
 
 Version 3.1.4
