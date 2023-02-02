@@ -81,7 +81,13 @@ Version 4.0.0
   Vanargand Animations - Mace Moveset.  
   Alik'r Swordsmanship for SkySA.  
   Attack Animations and Movesets.  
-  
+  Added Imperial Saddle Retexture.  
+  Added Yee Haaaa Horse Saddle Retexture.  
+  Added Rustic Clothing.  
+  Added Common Furniture Retexture.  
+  Added Rustic Furniture.  
+  Added Better Bookcase.  
+    
   **REMOVALS**  
   
   Dynamic Dungeon Loot.  
