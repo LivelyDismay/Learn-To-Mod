@@ -6,7 +6,7 @@ Version 4.0.0
 
 <details>
   
-  **ADDED**  
+  **ADDITIONS**  
   
   Archery Gameplay Overhaul.  
   Dynamic Animation Replacer.  
@@ -82,7 +82,7 @@ Version 4.0.0
   Alik'r Swordsmanship for SkySA.  
   Attack Animations and Movesets.  
   
-  **REMOVED**  
+  **REMOVALS**  
   
   Dynamic Dungeon Loot.  
   Dev Aveza.  
@@ -97,7 +97,7 @@ Version 4.0.0
   Jump Attack.  
   Immersive Fort Dawnguard.  
 
-  **UPDATED**  
+  **UPDATES**  
   
   Dwemer Gates Don't Reset.  
   CRAFT.  
