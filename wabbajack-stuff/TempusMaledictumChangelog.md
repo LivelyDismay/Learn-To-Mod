@@ -31,6 +31,56 @@ Version 4.0.0
   Papyrus Tweaks NG.  
   LotD Hall of Forgotten TCC Patches.  
   Sets of Skills UI.  
+  SkySA - Combat Behavior Compulsion.  
+  SkySA - First Person View SSE.  
+  SkySA - Intense Combat.  
+  Animation Queue Fix.  
+  Weapon Keyword Unification Project.  
+  Diverse Random Normal Attack.  
+  Reduce Attack Skating Movement.  
+  Dynamic Animation Replacer Multiple Power Attacks Animations.  
+  Don't Sheathe Bound Weapons DAR Animations.  
+  Dynamic Dodge Animation.  
+  Disable Turn Animation.  
+  Payload Interpreter.  
+  Dynamic Fus Ro Dah.  
+  Smooth Moveset.  
+  SpellSword Moveset.  
+  Dynamic Whirlwind Sprint.  
+  Enemy Magelock - NPC Magic Casting Commitment.  
+  EVG Conditional Idles.  
+  EVG Animation Variance.  
+  Goetia Animations - Conditional Shouts.  
+  Conditional Werewolf Howl.  
+  Artifact Animation Replacer - Wabbajack.  
+  Axarien's Animations - Inigo.  
+  Axarien's Animations - Kaidan.  
+  Axarien's Animations - Lucien.  
+  Axarien's Animations - Teldryn Sero.  
+  Loki's Wade in Water.  
+  Underdog Animations.  
+  Underdog Falling Animations - Leaps of Faith Patch.  
+  Tools Not Weapons.  
+  Take a Seat.  
+  Smooth Random Equip Animations (2H).  
+  Smooth Random Equip Animations (Dagger).  
+  Smooth Random Equip Animations (Unarmed).  
+  Smooth Magic Casting Animation.  
+  Vanargand Animations - Crossbows.  
+  Vanargand Animations - Dual Wield Sneak Strikes.  
+  Vanargand Animations - Dual Wield Sneak Thrusts.  
+  Vanargand Animations - Sneak Archery.  
+  Vanargand Animations - Sneak Idle Walk and Run.  
+  Vanargand Animations - Sneak Strike Attacks.  
+  Vanargand Animations - Sneak Thrust Attacks.  
+  Vanguard - Bash Behaviors Overhaul.  
+  DAR - Animated Fear.  
+  DAR - Dynamic Swimming.  
+  DAR - Dynamic Swimming - Argonian Mastery.  
+  Dragon Animation Replacer.  
+  Vanargand Animations - Mace Moveset.  
+  Alik'r Swordsmanship for SkySA.  
+  Attack Animations and Movesets.  
   
   **REMOVED**  
   
@@ -45,6 +95,7 @@ Version 4.0.0
   Elemental Arrows.  
   Sneak Tools.  
   Jump Attack.  
+  Immersive Fort Dawnguard.  
 
   **UPDATED**  
   
