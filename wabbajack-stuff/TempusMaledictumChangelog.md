@@ -81,12 +81,20 @@ Version 4.0.0
   Vanargand Animations - Mace Moveset.  
   Alik'r Swordsmanship for SkySA.  
   Attack Animations and Movesets.  
-  Added Imperial Saddle Retexture.  
-  Added Yee Haaaa Horse Saddle Retexture.  
-  Added Rustic Clothing.  
-  Added Common Furniture Retexture.  
-  Added Rustic Furniture.  
-  Added Better Bookcase.  
+  Imperial Saddle Retexture.  
+  Yee Haaaa Horse Saddle Retexture.  
+  Rustic Clothing.  
+  Common Furniture Retexture.  
+  Rustic Furniture.  
+  Better Bookcase.  
+  Room Markers for Dumzbthar.  
+  Lively's Convenient Horses Patches.  
+  Lively's Deep Elf Race Patches.  
+  Lively's Dwemer Gates No Respawn Patches.  
+  Lively's Second Great War Patches.  
+  ElSopa - Potions Redone Update - Patches.  
+  Skyland Noble Furniture.  
+  ENB Light Inventory Fix.  
     
   **REMOVALS**  
   
@@ -102,6 +110,7 @@ Version 4.0.0
   Sneak Tools.  
   Jump Attack.  
   Immersive Fort Dawnguard.  
+  Realistic Nord Ships.
 
   **UPDATES**  
   
