@@ -24,7 +24,6 @@ Version 4.0.0
   Magic Sneak Attacks.  
   Improved Camera.  
   Runic Dawnguard.  
-  Immersive Display Overhaul.  
   Immersive Equipment Displays.  
   Simple Dual Sheath.  
   ABT AE - Arrows and Bolts Tweaks.  
@@ -95,7 +94,30 @@ Version 4.0.0
   ElSopa - Potions Redone Update - Patches.  
   Skyland Noble Furniture.  
   ENB Light Inventory Fix.  
-    
+  Aura's Inventory Tweaks.  
+  Rudy Fix for Smoke.  
+  Archery Rebalance.  
+  Animation in Ashstorm.  
+  Animation in Blizzard.  
+  Animated Static Reload Fix NG.  
+  Skyrim Spear Mechanic.  
+  Animated Armoury.  
+  Animated Heavy Armoury.  
+  Difficulty Balance.  
+  Empty Spell Sprint Hand Fix.  
+  Better Power Attack Control.  
+  Barter Limit Fix.  
+  Fire Hurts NG.  
+  Enhanced Death Cam.  
+  Dynamic Collision Adjustment.  
+  Don't Stay in Water.  
+  Magic Leveling Fix.  
+  Transcribe Spells - Convert Known Spells to Tomes.  
+  Show Player in Menus.  
+  Rain Extinguishes Fires.  
+  Dual Wield Parrying Reimplementation for SSE.  
+  Praedy's Chantry of Auriel AIO - SE.  
+      
   **REMOVALS**  
   
   Dynamic Dungeon Loot.  
@@ -110,7 +132,8 @@ Version 4.0.0
   Sneak Tools.  
   Jump Attack.  
   Immersive Fort Dawnguard.  
-  Realistic Nord Ships.
+  Realistic Nord Ships.  
+  Screenshot Helper.  
 
   **UPDATES**  
   
