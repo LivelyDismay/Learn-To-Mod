@@ -135,10 +135,10 @@ Anyway, long story short, we can just delete this record.
 Then go ahead and Clean Masters, since that was the only thing referencing `CROSS_GoreCrits` in our M8r plugin.  
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/removemaster32.png)
 
-Close xEdit and save your plugin. Make a backup if you want.
+Close xEdit and save your plugin. Make a backup if you want.  
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/removemaster33.png)
 
-Now we can get rid of our dummy plugin and we don't have a Missing Masters warning anymore! Yay!
+Now we can get rid of our dummy plugin and we don't have a Missing Masters warning anymore! Yay!  
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/removemaster34.png)
 
 Go ahead and delete that dummy plugin from Overwrite, our job is done here.
