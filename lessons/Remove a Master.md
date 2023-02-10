@@ -124,7 +124,7 @@ Use the filter here to make your life easier, if you want.
 All done! 
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/removemaster29.png)
 
-Unfrotunately, since we are using a dummy plugin, this record (doesn't actually exist), so we can't use the FormID to jump to it. We will have to find it by EditorID. But that's no problem! We can use the Record Signature (ARMO) to make things easier, and just sort by EditorID at the top so everything is alphabetical. 
+Unfrotunately, since we are using a dummy plugin, this record doesn't actually exist, so we can't use the FormID to jump to it. We will have to find it by EditorID. But that's no problem! We can use the Record Signature (ARMO) to make things easier, and just sort by EditorID at the top so everything is alphabetical. 
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/removemaster30.png)
 
 You'll notice this record has no overrides and is in *italics*. There are no overrides because there's nothing to override, due to us using a dummy plugin instead of the "real" plugin. The italics are because the FormID is being read as "injected" (see how `M8r Complex Sorter` has a Mod Index of D3, but the record here is `FE 261`? That's what injected means.).
