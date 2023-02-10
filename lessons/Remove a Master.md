@@ -1,5 +1,7 @@
 # How To Remove a Master Requirement From a Plugin
 
+---
+
 ### Scenario 1
 
 Today, I want to remove the `Restore Power Armor Frames` mod. It was a good run, but ultimately, it's a little bit buggy and is a bit overpowered.
@@ -72,6 +74,8 @@ Now let's try this again: disable the RestorePAFrames.esp in your load order.
 No more missing master warning! You can safely delete this mod from MO2.
 
 This is a very simple example of this. Let's cover one more.
+
+---
 
 ### Scenario 2
 
