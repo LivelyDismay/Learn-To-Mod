@@ -104,7 +104,7 @@ So let's rename our duplicated patch.
 And for this, I'm just going to pop it into my MO2's Overwrite folder. You can put it anywhere you like, as long as it shows up in your MO2 plugin list.  
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/removemaster23.png)
 
-Head back over to MO2 and press `F5` to refresh it. Your new dummy plugin will show up at the bottom of your plugin list here. Don't forget to activate it!
+Head back over to MO2 and press `F5` to refresh it. Your new dummy plugin will show up at the bottom of your plugin list here. Don't forget to activate it!  
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/removemaster24.png)
 
 Now we don't have a missing masters warning. Go ahead and launch xEdit. As usual, wait for the Background Loader to finish, then scroll all the way to the bottom.  
