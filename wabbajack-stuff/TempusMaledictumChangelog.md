@@ -117,6 +117,15 @@ Version 4.0.0
   Rain Extinguishes Fires.  
   Dual Wield Parrying Reimplementation for SSE.  
   Praedy's Chantry of Auriel AIO - SE.  
+  Sets of Skills - Improved UI.  
+  Misc Effects ENB Light.  
+  Fluffy Snow.  
+  Flame Atronach SE.  
+  Flame Atronach SE - Optimized Textures.  
+  Glowy Storm Atronach.  
+  DART - Dynamic Animation Replacer Tool.  
+  EVG Animated Traversal.  
+  IED Preset for Simple Dual Sheath and EVG Conditional Idles.  
       
   **REMOVALS**  
   
