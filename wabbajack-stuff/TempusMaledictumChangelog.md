@@ -161,7 +161,9 @@ Version 4.0.0
   Shadow of Skyrim.  
   Rainbows.  
   SPID For Footprints Fix.  
-  Shooting Stars.
+  Shooting Stars.  
+  xLodgen.  
+  ENB.  
   
   **FIXES**  
   
