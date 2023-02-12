@@ -1,3 +1,14 @@
+2023/02/12
+
+Version 6.3.5 (accidentally skipped 6.3.4 because it was just a recompile for the latest Wabbajack update)
+
+Removed Baka ScrapHeap.  
+Edited Buffout 4's .toml to change MemoryManager to `true`.  
+Some ini edits to see if the blue landscape is resolved (if not, it's either a shadow problem or a weather problem, in all likelihood).  
+Edits to `Lively's Tweaks.esp` to revert Dead Body Cleanup and Cell Cleanup timers to vanilla (to reduce possible save bloat).  
+
+---
+
 2023/01/22
 
 Version 6.3.3
