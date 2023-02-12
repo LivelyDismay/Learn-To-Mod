@@ -6,6 +6,7 @@ Removed Baka ScrapHeap.
 Edited Buffout 4's .toml to change MemoryManager to `true`.  
 Some ini edits to see if the blue landscape is resolved (if not, it's either a shadow problem or a weather problem, in all likelihood).  
 Edits to `Lively's Tweaks.esp` to revert Dead Body Cleanup and Cell Cleanup timers to vanilla (to reduce possible save bloat).  
+Removed `CROSS_GoreCrits.esp` as a master for the CC profile's Complex Sorter outputs. There is also a [write-up to do this yourself](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Remove%20a%20Master.md) if you want to learn how.  
 
 ---
 
