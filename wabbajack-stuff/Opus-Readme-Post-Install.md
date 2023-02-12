@@ -51,10 +51,6 @@ Due to how Wabbajack works, you only need to do this step ONCE. The `[NoDelete]`
 
 ## Creation Club Support
 
-**Current version of Opus has a broken CC profile. To be blunt, I'm not terribly inclined to fix it. CC support has always been a hassle, and with the alleged rumored release of an "Anniversary Edition" equivalent of Fallout 4 coming soon, I'd sooner delete the current CC Profile and move towards supporting the new version of Fallout 4 rather than continuing on with this headache. I'm sorry for the inconvenient. Please just play the regular profile.**
-
-**If you cannot be dissuaded from this, then you'll have to - at the very least - [remove the Cross Goreverhaul plugin from Complex Sorter outputs as a master](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Remove%20a%20Master.md). The second problem is archive crashes. Fallout 4 has a .ba2 limit, which seems to vary from user to user. This makes support extremely frustrating, bordering on the point of impossible, since one user has a different archive limit from the next, and thus not all installations are identical. This makes troubleshooting a crapshoot.  Again, I apologize for the inconvenience. If/when Fallout 4 upgrades to include all CC content, I will 100% support that version of the game. Thank you.** 
-
 Magnum Opus now has support for some Creation Club mods as of version 3.2 of the modlist. To make use of this, you must follow a few steps:
 1. Click the profile dropdown menu at the top left of Mod Organizer 2, and make sure the active profile is set to `Magnum Opus`.
 2. Launch the game and download your CC mods from the in-game storefront.
