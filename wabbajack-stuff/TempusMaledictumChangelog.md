@@ -143,6 +143,7 @@ Version 4.0.0
   Immersive Fort Dawnguard.  
   Realistic Nord Ships.  
   Screenshot Helper.  
+  Build Your Noble House.  
 
   **UPDATES**  
   
