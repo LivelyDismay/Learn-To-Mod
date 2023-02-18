@@ -1,3 +1,34 @@
+2023/02/17
+
+Version 4.1.0
+
+New save required.
+
+<details>
+  
+  Added Skyland Common and Upper Furniture.  
+  Added Animated Armoury - Legacy of the Dragonborn Displays.  
+  
+  Updated Sets of Skills - Improved UI.  
+  Updated Standardization of Spelling of Sets of Skills.  
+  
+  Removed ELIF - ENB Light Inventory Fix.  
+  Removed Creation Club Armors Integration.  
+  
+  New custom Improve Camera ini.  
+  New/updated MCM Recordings.  
+  Removed double statue outside of Whiterun.  
+  Removed snow texture Lod issue at Windhelm entrance.  
+  Quicklight works as expected now, even in first person with nothing equipped.  
+  Potions and ingredients are no longer insanely out of scale in the inventory menus.  
+  Navmesh fix for Solitude by Wartortle.  
+  
+  I'm not 100% sure if the VioLens recording will "work" in a sense, since the new one just unbinds that hotkey. It's possible this may have to be done manually, but if nothing else, it shouldn't be an issue for newcomers to the list. Sorry if this is annoying for you guys.  
+  
+  </details>
+
+---
+
 2023/02/12
 
 Version 4.0.0
