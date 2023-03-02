@@ -1,3 +1,74 @@
+2023/03/02
+
+Version 4.1.1
+
+<details>
+  
+  <b>ADDED</b>
+  
+  Papyrus ini Manipulator.  
+  dTry's Key Utils AE.  
+  Elden Power Attack.  
+  Erikur's House Rework for LotD.  
+  Orc Settlements Enhanced.  
+  Rally's Display Cases.  
+  Whiterun Mesh Fixes.  
+  Weathered Stockades Retexture.  
+  Stone Wall 4K Retexture.  
+  Meridia's Better Beacon.  
+  Skyland Common and Upper Furniture.  
+  The Great City of Dragon Bridge Navmesh Fix.  
+  Minedoors Redone.  
+  
+  <b>REMOVED</b>
+  
+  Whiterun Stockade.  
+  2K Stockade.  
+  Fluffy Snow.  
+  Better Power Attack Directional Control SSE.  
+  Matching Mine Door.  
+
+  <b>FIXED</b>
+  
+  First person attacks don't chain together.  
+  First person power attacks don't work.  
+  Landscape glitches due to removal of Build Your Noble House.  
+  Blue Palace stairs use wrong textures.  
+  Snapleg Cave soul gem can cause CTD.  
+  Knight of Chorrol helmet renders head invisible.  
+  Ravenscorn Spire Tower clipping.  
+  Fort Amol tree clipping.  
+  Inn of Lost Souls trees clipping.  
+  Stone Hills clutter and clipping trees.  
+  Dragons and other enemies "fade out" when you get too close to them.  
+  Riverwood floating ivy and lantern placements.  
+  Beards clip through helmets and masks.  
+  Abandoned Shack floating tree.  
+  Trees clipping in cell 21,-1.  
+  Solitude museum ext floating lantern.  
+  Honnigmead texture/mesh issue.  
+  Wintersun functionality for LotD restored.  
+  Phenderix summoning spells don't cost what is displayed in the UI.  
+  Tempus Maledictum Guide Book no longer tells users to manually run MCM Recording.  
+  Tempus Maledictum Guide Book now has a section for Alternate Alchemy.  
+  Tempus Maledictum Guide Book now has a section for Combat behaviors.  
+  Extra alchemy table in Breezehome.  
+  New Lodgen, Texgen, Dyndolod outputs. As usual...  
+  Some minor ini adjustments.  
+  
+  <b>KNOWN ISSUES</b>
+  
+  Crossbows can break contextual crosshair and sneak indicator.  
+  Game saves sometimes list as corrupted. Restarting the game fixes this, and your saves are fine. I have no clue why this happens to a few of you.  
+  Phenderix summoning spells occasionally fail to work. Unknown reason or cause.
+  
+  
+  </details>
+
+A vast majority of these fixes are thanks to the hard, ceaseless work by Wartortle. 
+
+---
+
 2023/02/17
 
 Version 4.1.0
@@ -32,8 +103,6 @@ New save required.
 2023/02/12
 
 Version 4.0.0
-
-*Note: if you happen to check this changelog prior to the release of 4.0.0, please remember that everything listed below is not finalized and is subject to change at any time for any reason.*
 
 <details>
   
