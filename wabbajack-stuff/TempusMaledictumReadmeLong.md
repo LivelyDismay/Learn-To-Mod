@@ -166,6 +166,14 @@ Target Lock-on - F. (You can long-press F to change POV).
 Target Lock-on Swap - Mouse Wheel + Mouse movement. A bit less sensitive than the default value (32 > 50).  
 Sneak - Left Control.  
 Handy Crafting Storage - Right Alt.  
+Mouse1 (hold): Constantly perform light attacks.  
+Shift+Mouse1: Power attack to "end" the combo.  
+
+---
+
+## Controller Support
+
+To enable controller support open The Ultimate Dodge Mod MCM and Enable Controller support. Set it to Sneak Style 2.
 
 ---
 
