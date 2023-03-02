@@ -174,7 +174,7 @@ Shift+Mouse1: Power attack to "end" the combo.
 
 ## Controller Support
 
-To enable controller support open The Ultimate Dodge Mod MCM and Enable Controller support. Set it to Sneak Style 2.
+To enable controller support, open The Ultimate Dodge Mod MCM and Enable Controller support. Set it to Sneak Style 2.
 
 ---
 
