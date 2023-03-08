@@ -52,6 +52,8 @@ Version 4.1.2
   Lots of various bug fixes courtesy of Wartortle, ItsAlways710, and Owlessa.  
   New Dyndolod, Synthesis, EasyNPC outputs.  
   
+  </details>
+  
 ---
   
 2023/03/02
