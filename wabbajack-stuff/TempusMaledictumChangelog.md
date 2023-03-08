@@ -1,4 +1,4 @@
-WIP
+2023/03/08
 
 Version 4.1.2
 
@@ -37,21 +37,25 @@ Version 4.1.2
   <b>UPDATED</b>
   
   SPID for Footprints Fix  
-  Vine Maple Redone  
-  Deathbell by Mari  
-  Charming Nirnroots  
-  Thistle by Mari  
   
   <b>REMOVED</b>
   
   Cathedral 3D Thistle  
   Cathedral 3D Nightshade  
+  Vine Maple Redone  
+  Deathbell by Mari  
+  Charming Nirnroots  
+  Thistle by Mari  
   
   Mod order adjustments.  
   Engine Fixes toml updated.  
   Lots of various bug fixes courtesy of Wartortle, ItsAlways710, and Owlessa.  
   New Dyndolod, Synthesis, EasyNPC outputs.  
   
+  To do for the future (whenever we break saves again, anyway):  
+  
+  Combat updates/replacements  
+  Slow down leveling    
   </details>
   
 ---
