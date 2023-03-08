@@ -1,3 +1,58 @@
+WIP
+
+Version 4.1.2
+
+<details>
+  
+  <b>ADDED</b>
+  
+  Gemstones Remade  
+  Vanilla Warpaints Absolution  
+  Cathedral Armory CBBE Patch  
+  SC - KS Hairdos Retextured  
+  SPID for Footprints - Player Footprints Fix  
+  Legacy of the Dragonborn - Cube Maps Fixed  
+  Rally's Weapon Racks  
+  Mari's Flora  
+  Rally's Mead Barrels  
+  Rally's Crates  
+  Random Barrel Roll  
+  Rally's Barrels  
+  Enhanced Rocks and Mountains  
+  Daedric Armors and Weapons Retexture SE  
+  Dragon Armors and Weapons Retexture SE  
+  Ebony Armors and Weapons Retexture SE  
+  Orcish Armors and Weapons Retexture SE  
+  Steel Armors and Weapons Retexture SE  
+  Iron Armors and Weapons Retexture SE  
+  Imperial Armors and Weapons Retexture SE  
+  Immersive Armors Retexture for CBBE  
+  Immersive Armors Retexture and Mesh Fixes SE  
+  Unslaad Armors and Weapons Retexture SE  
+  Vigilant Armors and Weapons Retexture SE  
+  The Wheels of Lull Retexture SE  
+  Vigilant's Molag Bal Dragon Retexture SE  
+  Night Mother  
+  
+  <b>UPDATED</b>
+  
+  SPID for Footprints Fix  
+  Vine Maple Redone  
+  Deathbell by Mari  
+  Charming Nirnroots  
+  Thistle by Mari  
+  
+  <b>REMOVED</b>
+  
+  Cathedral 3D Thistle  
+  Cathedral 3D Nightshade  
+  
+  Mod order adjustments.  
+  Engine Fixes toml updated.  
+  Lots of various bug fixes courtesy of Wartortle, ItsAlways710, and Owlessa.  
+  New Dyndolod, Synthesis, EasyNPC outputs.  
+---
+  
 2023/03/02
 
 Version 4.1.1
