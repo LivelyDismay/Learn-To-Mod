@@ -34,12 +34,6 @@ No.
 
 ---
 
-#### I'm having an issue with bodyslide/armors looking funny/an awkward light source/some other minor inconvenience, please fix it?
-
-No.
-
----
-
 #### Is there an ENB in this list?
 
 Yeah. Culminated ENB.
@@ -55,6 +49,12 @@ Enai.
 #### Legacy of the Dragonborn?
 
 Yes.
+
+---
+
+#### How do I start the Goldenhills Plantation CC stuff?
+
+You need to be level 15, then speak with an innkeeper in either Whiterun or Rorikstead. They will have a line of dialogue about work in the area.
 
 ---
 
