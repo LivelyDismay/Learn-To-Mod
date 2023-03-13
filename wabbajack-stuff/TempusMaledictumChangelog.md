@@ -1,3 +1,96 @@
+WIP
+
+Version 5.0.0
+
+New Save Required.
+
+<details>
+  
+  <b>ADDED</b>
+  
+  4K Bedroll   
+  Small Nordic Tent Replacer  
+  Animated Small Nordic Tent Replacer  
+  Salmon Retex - Realistic Salmon  
+  Cathedral - 3D Dragons Tongue - White Violet  
+  Cathedral - 3D Dragons Tongue - Glow Map and ENB Light  
+  Bijin - Use CBBE Meshes and Textures  
+  The Omnibus - Terrain Complex Parallax AIO  
+  Tundra - HD Texture Replacer with Parallax  
+  Tundra Texture Transplant  
+  Slow Sprint Bug Fix  
+  CoMAP - Common Marker Addon Project  
+  DynDOLOD TexGen Fixes  
+  
+  <b>UPDATED</b>
+  
+  Skyrim (1.6.353 > 1.6.640)  
+  Address Library for SKSE  
+  PrivateProfileRedirector SE  
+  Actor Limit Fix  
+  Bug Fixes SSE  
+  ConsolePlusPlus  
+  ConsoleUtilSSE  
+  Crash Logger SSE VR  
+  JContainers SE  
+  Encounter Zones Unlocked SE  
+  Enhanced Invisibility  
+  Enhanced Reanimation  
+  Equip Enchantment Fix  
+  Essential Favorites  
+  Favorite Misc Items  
+  Fuz Ro D-oh - Silent Voice  
+  HelpExtender  
+  Infinity UI  
+  Mfg Fix  
+  monster race crash fix  
+  More Informative Console  
+  No Lockpick Activate (SKSE) - Updated  
+  Papyrus Tweaks NG  
+  PapyrusUtil SE - Modders Scripting Utility Functions  
+  Read Or Take SKSE  
+  Remember Lockpick Angle - Updated  
+  Scrambled Bugs  
+  Simple Activate SKSE  
+  Skyrim Priority SE AE - skse plugin  
+  Spell Perk Item Distributor (SPID)  
+  To Your Face SE - AE - VR  
+  Yes Im Sure  
+  powerofthree's Tweaks  
+  powerofthree's Papyrus Extender  
+  Base Object Swapper  
+  Scaleform Translation Plus Plus  
+  ENB Helper SE  
+  Better Jumping SE  
+  Use Or Take SKSE  
+  I'm Walkin' Here  
+  Enhanced Death Cam  
+  Magic Leveling Fix  
+  DynDOLOD Resources SE  
+  DynDOLOD DLL SE - SKSE64 Plugin  
+  Creation Club Open Helmets  
+  A Clear Map of Skyrim and Other Worlds  
+  Compass Navigation Overhaul  
+  moreHUD Inventory Edition  
+  moreHUD SE  
+  Oxygen Meter  
+  QuickLootRE - With Icons and TCC support  
+  Completionist - Skyrim Completion Tracker (SE-AE)  
+  Aura's Inventory Tweaks  
+  Odin - Skyrim Magic Overhaul  
+  Set of Skills  
+  
+  <b>REMOVED</b>
+  
+  Better SkyUI Config - Reading Fix  
+  Alternate Alchemy  
+  Various DynDOLOD Error Fixes - Gray Cowl of Nocturnal  
+  Various DynDOLOD Error Fixes - LotD  
+  
+  </details>
+
+---  
+
 2023/03/08
 
 Version 4.1.2
