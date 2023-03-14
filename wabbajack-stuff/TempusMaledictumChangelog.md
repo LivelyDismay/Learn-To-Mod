@@ -21,10 +21,36 @@ New Save Required.
   Slow Sprint Bug Fix  
   CoMAP - Common Marker Addon Project  
   DynDOLOD TexGen Fixes  
-  
+  Forgotten City - Softlock Protection  
+  Valhalla Combat Execution Compatibility patches  
+  Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible)  
+  CATA Addon - Goetia Animations Sprint  
+  CATA Addon - Goetia female idle Walk Run  
+  CATA Addon - Goetia male idle Walk Run  
+  CATA Addon - Leviathan Animations II Sprint  
+  CATA Addon - Leviathan II Female Idle Walk Run  
+  CATA Addon - Leviathan II Male Idle Walk Run  
+  CATA Addon - Vanargand Animations Sprint  
+  CATA Addon - Vanargand Female idle Walk Run  
+  CATA Addon - Vanargand male idle walk run  
+  First Person Combat Animations Overhaul 2.0 -SIZE MATTERS  
+  First Person Combat Animations Overhaul - Bugfix and Compatibilty Patch for Animated Armoury  
+  Draw 2 - Dual Weapon Equip-Unequip Animations  
+  Weapon Styles - Draw-Sheath animations  
+  Dynamic Random Spell Idle - Player and teammate  
+  Dual Wield Parrying SKSE  
+  Survival Mode Improved - SKSE  
+  Map Flip For Beyond Reach  
+  Dragons Fall Down - Immersive Airborne Death  
+  Vine Maple Redone (didnt i just remove this, 710..?)  
+  Blades Armors and Weapons Retexture SE  
+  Locational Encounter Zones  
+  Dragon Ragdoll Sounds  
+
   <b>UPDATED</b>
   
   Skyrim (1.6.353 > 1.6.640)  
+  ENB Binaries  
   Address Library for SKSE  
   PrivateProfileRedirector SE  
   Actor Limit Fix  
@@ -79,6 +105,22 @@ New Save Required.
   Aura's Inventory Tweaks  
   Odin - Skyrim Magic Overhaul  
   Set of Skills  
+  Legacy of the Dragonborn SSE  
+  Legacy of the Dragonborn - Hall of Forgotten - TCC Patches  
+  The Timelost Dwemer - A Deep Elf Race SE  
+  Cathedral - Armory  
+  Legacy of the Dragonborn Patches (Official)  
+  Animated Armoury - Updated Legacy of Dragonborn Displays  
+  Legacy of the Dragonborn Animated Armoury The Curator's Companion updated display patch  
+  XP32 Maximum Skeleton Special Extended  
+  Simple Dual Sheath  
+  Immersive Equipment Displays - unequip when nude  
+  (SGC) Scriptfree Behavior Staggerlock - SBS  
+  Valravn - Integrated Combat of Skyrim  
+  Valravn SPID Uncloak  
+  Valvalis Combat - Visceral Tactics  
+  Reduce Attack Skating Movement  
+  Smooth Moveset  
   
   <b>REMOVED</b>
   
@@ -86,6 +128,12 @@ New Save Required.
   Alternate Alchemy  
   Various DynDOLOD Error Fixes - Gray Cowl of Nocturnal  
   Various DynDOLOD Error Fixes - LotD  
+  Animated Armoury - Legacy of Dragonborn Displays  
+  XPMSSE Left Hand Sheath Rotation Fix  
+  Valravn Uncloaked  
+  Bug Fix - Sprinting Spell Hand  
+  No Spinning Death Animation SE  
+  Skyrim Battle Aftermath SE  
   
   </details>
 
