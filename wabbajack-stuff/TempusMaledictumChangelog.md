@@ -46,6 +46,17 @@ New Save Required.
   Blades Armors and Weapons Retexture SE  
   Locational Encounter Zones  
   Dragon Ragdoll Sounds  
+  Name Your Pet  
+  Wynter's Breezehome Redux  
+  Custom Skills Framework  
+  Companions Perk Tree  
+  Custom Skills - VIGILANT  
+  Legacy of The Dragonborn Perk Menus  
+  Prelude to Purgatory - A Lich Custom Skill Tree  
+  Sets of Skills - Custom Skill Framework  
+  Custom Skills Merged  
+  Smelters for Falkreath and Riverwood (Riverwood only)  
+  
 
   <b>UPDATED</b>
   
@@ -134,6 +145,14 @@ New Save Required.
   Bug Fix - Sprinting Spell Hand  
   No Spinning Death Animation SE  
   Skyrim Battle Aftermath SE  
+  LotD Extension - Breezehome  
+  Eli's Breezehome  
+  Whose Quest Is It Anyway  
+  (SGC) SkySA - Combat Behavior Compulsion  
+  (SGC) SkySA - Intense Combat  
+  Vanargand Animations - Mace Moveset MCO - SkySA  
+  Alik'r Swordsmanship for SkySA  
+  Elden Power Attack  
   
   </details>
 
