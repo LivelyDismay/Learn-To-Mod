@@ -35,8 +35,6 @@ New Save Required.
   CATA Addon - Vanargand male idle walk run  
   First Person Combat Animations Overhaul 2.0 -SIZE MATTERS  
   First Person Combat Animations Overhaul - Bugfix and Compatibilty Patch for Animated Armoury  
-  Draw 2 - Dual Weapon Equip-Unequip Animations  
-  Weapon Styles - Draw-Sheath animations  
   Dynamic Random Spell Idle - Player and teammate  
   Dual Wield Parrying SKSE  
   Survival Mode Improved - SKSE  
@@ -56,7 +54,9 @@ New Save Required.
   Sets of Skills - Custom Skill Framework  
   Custom Skills Merged  
   Smelters for Falkreath and Riverwood (Riverwood only)  
-  
+  The Great City Of Winterhold SSE Edition  
+  Ulvenwald - The Great City of Winterhold Patch  
+  The Great City of Winterhold Patch Collection  
 
   <b>UPDATED</b>
   
@@ -153,6 +153,19 @@ New Save Required.
   Vanargand Animations - Mace Moveset MCO - SkySA  
   Alik'r Swordsmanship for SkySA  
   Elden Power Attack  
+  COTN Winterhold Patch Collection  
+  Cities of the North - Winterhold - ASLAL Patch  
+  Cities of the North - Winterhold - Partitioned Meshes for Lighting  
+  Winterhold - Expanded Ruins  
+  Elden Power Attack  
+  Attack Animations and Movesets  
+  Smooth Random Equip Animation(Unarmed)  
+  Smooth Random Equip Animation(Dagger)  
+  Smooth Random Equip Animation(2H)  
+  Smooth Random Equip Animation(1H)  
+  Dynamic Animation Replacer Multiple Power Attacks Animations  
+  Diverse Random Normal Attack  
+  Archery Gameplay Overhaul SE - Nemesis Patch  
   
   </details>
 
