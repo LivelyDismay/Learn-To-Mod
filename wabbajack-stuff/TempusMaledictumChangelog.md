@@ -18,7 +18,6 @@ New Save Required.
   The Omnibus - Terrain Complex Parallax AIO  
   Tundra - HD Texture Replacer with Parallax  
   Tundra Texture Transplant  
-  Slow Sprint Bug Fix  
   CoMAP - Common Marker Addon Project  
   DynDOLOD TexGen Fixes  
   Forgotten City - Softlock Protection  
@@ -57,6 +56,24 @@ New Save Required.
   The Great City Of Winterhold SSE Edition  
   Ulvenwald - The Great City of Winterhold Patch  
   The Great City of Winterhold Patch Collection  
+  Sprint Sneak Movement Speed Fix  
+  Vanargand Animations - Dual Wield Normal and Power Attacks  
+  Vanargand Animations - Archery  
+  Vanargand Animations - One Handed Mid Stance  
+  Vanargand Animations - One Handed Normal Attacks  
+  Vanargand Animations - One Handed Power Attacks  
+  Goetia Animations - Enchanted Staves  
+  Goetia Animations - Magic Spell Casting  
+  Goetia Animations - Sneak Magic  
+  Cheesemod for EVERYONE  
+  Unofficial LotD and BSB Synergy Patch - Standalone Displays  
+  Recipe Auto-Learn  
+  AnimObject Swapper  
+  Sharpen Other Swords II - AnimObject Swapper  
+  Sharpen Other Swords - Better-Shaped Weapons  
+  Leviathan Animations - Two-Handed High Stance  
+  Leviathan Animations - Two-Handed Normal Attacks  
+  Leviathan Animations - Two-Handed Power Attacks  
 
   <b>UPDATED</b>
   
@@ -132,6 +149,7 @@ New Save Required.
   Valvalis Combat - Visceral Tactics  
   Reduce Attack Skating Movement  
   Smooth Moveset  
+  Unofficial LotD and BSB Synergy Patch - Main  
   
   <b>REMOVED</b>
   
@@ -142,7 +160,6 @@ New Save Required.
   Animated Armoury - Legacy of Dragonborn Displays  
   XPMSSE Left Hand Sheath Rotation Fix  
   Valravn Uncloaked  
-  Bug Fix - Sprinting Spell Hand  
   No Spinning Death Animation SE  
   Skyrim Battle Aftermath SE  
   LotD Extension - Breezehome  
@@ -166,6 +183,17 @@ New Save Required.
   Dynamic Animation Replacer Multiple Power Attacks Animations  
   Diverse Random Normal Attack  
   Archery Gameplay Overhaul SE - Nemesis Patch  
+  Immersive World Encounters SE  
+  Legacy of the Dragonborn - Hall of Forgotten  
+  Legacy of the Dragonborn - Hall of Forgotten - TCC Patches  
+  Dynamic Collision Adjustment  
+  Learn Ingredients  
+  Sharpen Other Swords  
+  Holds the City Overhaul - Modular Edition  
+  Holds Special Edition Compatibility Patches  
+  Holds - Root Block Fix  
+  Skyrim Reborn - Whiterun Hold  
+  Skyrim Reborn - Hjaalmarch Hold  
   
   </details>
 
