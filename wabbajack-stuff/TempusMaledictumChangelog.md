@@ -73,6 +73,9 @@ New Save Required.
   Leviathan Animations - Two-Handed High Stance  
   Leviathan Animations - Two-Handed Normal Attacks  
   Leviathan Animations - Two-Handed Power Attacks  
+  Better Chests  
+  Whiterun Bench - Replacer  
+  The Streets of Whiterun in HD  
 
   <b>UPDATED</b>
   
@@ -149,6 +152,8 @@ New Save Required.
   Reduce Attack Skating Movement  
   Smooth Moveset  
   Unofficial LotD and BSB Synergy Patch - Main  
+  Intuitive Dragon Ride Control (SE)  
+  Landscapes - Cathedral Concept  
   
   <b>REMOVED</b>
   
@@ -193,6 +198,7 @@ New Save Required.
   Holds - Root Block Fix  
   Skyrim Reborn - Whiterun Hold  
   Skyrim Reborn - Hjaalmarch Hold  
+  Antiquary - Enhanced Artifacts  
   
   </details>
 
