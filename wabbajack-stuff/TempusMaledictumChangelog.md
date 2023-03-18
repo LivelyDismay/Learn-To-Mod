@@ -52,7 +52,6 @@ New Save Required.
   Prelude to Purgatory - A Lich Custom Skill Tree  
   Sets of Skills - Custom Skill Framework  
   Custom Skills Merged  
-  Smelters for Falkreath and Riverwood (Riverwood only)  
   The Great City Of Winterhold SSE Edition  
   Ulvenwald - The Great City of Winterhold Patch  
   The Great City of Winterhold Patch Collection  
