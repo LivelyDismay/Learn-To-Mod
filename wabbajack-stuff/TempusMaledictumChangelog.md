@@ -76,6 +76,7 @@ New Save Required.
   Better Chests  
   Whiterun Bench - Replacer  
   The Streets of Whiterun in HD  
+  Iconic Statues  
 
   <b>UPDATED</b>
   
