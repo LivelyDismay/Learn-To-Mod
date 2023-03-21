@@ -77,6 +77,11 @@ New Save Required.
   Whiterun Bench - Replacer  
   The Streets of Whiterun in HD  
   Iconic Statues  
+  KS Dragon Overhaul 2  
+  Dragonls Use Thu'um  
+  Opulent Thieves Guild - Tweaks  
+  Diverse Dragons Collection SE (DDCS) Soul Absorb Animation Fixed  
+  
 
   <b>UPDATED</b>
   
@@ -200,6 +205,9 @@ New Save Required.
   Skyrim Reborn - Whiterun Hold  
   Skyrim Reborn - Hjaalmarch Hold  
   Antiquary - Enhanced Artifacts  
+  Dragons Shout With Voice  
+  Deadly Dragons  
+  World Eater Beater  
   
   </details>
 
