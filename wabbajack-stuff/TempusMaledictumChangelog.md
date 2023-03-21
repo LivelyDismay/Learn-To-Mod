@@ -50,7 +50,6 @@ New Save Required.
   Custom Skills - VIGILANT  
   Legacy of The Dragonborn Perk Menus  
   Prelude to Purgatory - A Lich Custom Skill Tree  
-  Sets of Skills - Custom Skill Framework  
   Custom Skills Merged  
   The Great City Of Winterhold SSE Edition  
   Ulvenwald - The Great City of Winterhold Patch  
@@ -81,7 +80,7 @@ New Save Required.
   Dragonls Use Thu'um  
   Opulent Thieves Guild - Tweaks  
   Diverse Dragons Collection SE (DDCS) Soul Absorb Animation Fixed  
-  
+  Custom Skills Menu - A Custom Skills Framework Unified Menu  
 
   <b>UPDATED</b>
   
