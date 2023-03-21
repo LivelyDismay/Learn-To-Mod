@@ -81,7 +81,10 @@ New Save Required.
   Opulent Thieves Guild - Tweaks  
   Diverse Dragons Collection SE (DDCS) Soul Absorb Animation Fixed  
   Custom Skills Menu - A Custom Skills Framework Unified Menu  
-
+  Additional Hearthfire Dolls  
+  Ryn's Standing Stones  
+  SmoothCam Vanilla Enhanced 2  
+  
   <b>UPDATED</b>
   
   Skyrim (1.6.353 > 1.6.640)  
@@ -207,6 +210,11 @@ New Save Required.
   Dragons Shout With Voice  
   Deadly Dragons  
   World Eater Beater  
+  Simple Follower Extension  
+  Auri - Convenient Horses Patch  
+  Convenient Horses  
+  Convenient Horses Anniversary Edition Patch  
+  Lively's Convenient Horses Patches  
   
   </details>
 
