@@ -215,6 +215,7 @@ New Save Required.
   Convenient Horses  
   Convenient Horses Anniversary Edition Patch  
   Lively's Convenient Horses Patches  
+  The Brotherhood of Old  
   
   </details>
 
