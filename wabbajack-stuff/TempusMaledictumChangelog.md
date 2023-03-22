@@ -77,7 +77,7 @@ New Save Required.
   The Streets of Whiterun in HD  
   Iconic Statues  
   KS Dragon Overhaul 2  
-  Dragonls Use Thu'um  
+  Dragons Use Thu'um  
   Opulent Thieves Guild - Tweaks  
   Diverse Dragons Collection SE (DDCS) Soul Absorb Animation Fixed  
   Custom Skills Menu - A Custom Skills Framework Unified Menu  
