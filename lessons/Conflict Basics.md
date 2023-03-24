@@ -1,6 +1,6 @@
 # Conflicts: Learning How To Read xEdit
 
-The word “conflict” inherently evokes thoughts of fighting and negativity. When someone tells you that “you gotta fix the conflicts in your modlist” then you immediately think “oh no, I need to make my mods stop fighting and fix them!” Right?
+Hello! The word “conflict” inherently evokes thoughts of fighting and negativity. When someone tells you that “you gotta fix the conflicts in your modlist” then you immediately think “oh no, I need to make my mods stop fighting and fix them!” Right?
 
 WRONG! NO! I NEED CONFLICTS. Conflicts give me life. They give me purpose. They give you purpose, too. If they didn’t, you wouldn’t be reading this. What I think we need is a new perspective.
 
