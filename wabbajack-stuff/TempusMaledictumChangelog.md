@@ -84,6 +84,8 @@ New Save Required.
   Additional Hearthfire Dolls  
   Ryn's Standing Stones  
   SmoothCam Vanilla Enhanced 2  
+  Elven Armors and Weapons Retexture SE  
+  WoW Dragon Mounds CTD Fix  
   
   <b>UPDATED</b>
   
@@ -162,6 +164,7 @@ New Save Required.
   Unofficial LotD and BSB Synergy Patch - Main  
   Intuitive Dragon Ride Control (SE)  
   Landscapes - Cathedral Concept  
+  Embers XD  
   
   <b>REMOVED</b>
   
@@ -216,6 +219,7 @@ New Save Required.
   Convenient Horses Anniversary Edition Patch  
   Lively's Convenient Horses Patches  
   The Brotherhood of Old  
+  Animated Embers  
   
   </details>
 
