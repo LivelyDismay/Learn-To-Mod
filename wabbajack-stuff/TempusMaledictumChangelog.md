@@ -103,6 +103,9 @@ New Save Required.
   Wolf Armor and Weapons Retexture SE  
   Vampire Lord Retexture  
   Supreme Vampire Lords  
+  Legacy of the Dragonborn - Improved Dig Sites SE  
+  JS Dwemer Kitchenware SE  
+  Legacy of The Dragonborn - Dwemer Compass Replacer  
   
   <b>UPDATED</b>
   
