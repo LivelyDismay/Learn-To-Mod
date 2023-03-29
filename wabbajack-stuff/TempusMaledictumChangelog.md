@@ -86,6 +86,23 @@ New Save Required.
   SmoothCam Vanilla Enhanced 2  
   Elven Armors and Weapons Retexture SE  
   WoW Dragon Mounds CTD Fix  
+  Experience  
+  Alternate Start - Experience Patch  
+  Vampire Feed Improved  
+  Sun Affects NPC Vampires  
+  Cover Your Head - Sacrosanct  
+  Sacrosanct Survival Mode - Vampirism Grants Warmth Bonus  
+  Sacrosanct - No Sneak Feed On Followers  
+  Strange Runes - Sacrosanct Patch  
+  Vampires Have Claws  
+  3rd Person Camera Stagger Remover  
+  Disable screen shake effect  
+  Obscure's College of Winterhold - Creation Club Patches (and a couple others too)  
+  Catching Clockwork - Wheels of Lull Fishing Addon  
+  Glass Armors and Weapons Retexture SE  
+  Wolf Armor and Weapons Retexture SE  
+  Vampire Lord Retexture  
+  Supreme Vampire Lords  
   
   <b>UPDATED</b>
   
@@ -220,6 +237,14 @@ New Save Required.
   Lively's Convenient Horses Patches  
   The Brotherhood of Old  
   Animated Embers  
+  Daedric Set - Resurgence  
+  Ebony Set - Resurgence  
+  Elven Set - Resurgence  
+  Glass Set - Resurgence  
+  Iron Set - Resurgence  
+  Nord Set - Resurgence  
+  Orcish Set - Resurgence  
+  Steel Set - Resurgence  
   
   </details>
 
