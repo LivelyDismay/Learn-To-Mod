@@ -106,6 +106,7 @@ New Save Required.
   Legacy of the Dragonborn - Improved Dig Sites SE  
   JS Dwemer Kitchenware SE  
   Legacy of The Dragonborn - Dwemer Compass Replacer  
+  Pets of Skyrim (CC) Collision Patch  
   
   <b>UPDATED</b>
   
