@@ -271,6 +271,9 @@ New Save Required.
   Steel Set - Resurgence  
   Nordic Carved Set - Resurgence  
   Soul Cairn HD  
+  Bleak Falls Barrow - Animated Traversal  
+  EVG Animated Traversal Skyrim Integration Patch  
+  EVG Traversal Animations - Dungeons addons  
   
   </details>
 
