@@ -123,6 +123,10 @@ New Save Required.
   JS Torture Tools SE  
   Thrones of Skyrim  
   Serio Redone Exclusion Inclusion Patches  
+  Swor's Valhalla Combat KillCam Patches  
+  Experience - MCM  
+  Experience Quests Tweak  
+  Leveling Freedom - Configure your XP Curve - Gentler Smoother Steeper or Flat  
   
   <b>UPDATED</b>
   
