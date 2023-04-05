@@ -76,7 +76,7 @@ New Save Required.
   Whiterun Bench - Replacer  
   The Streets of Whiterun in HD  
   Iconic Statues  
-  KS Dragon Overhaul 2  
+  Serio's Enhanced Dragons Redone  
   Dragons Use Thu'um  
   Opulent Thieves Guild - Tweaks  
   Diverse Dragons Collection SE (DDCS) Soul Absorb Animation Fixed  
@@ -107,6 +107,22 @@ New Save Required.
   JS Dwemer Kitchenware SE  
   Legacy of The Dragonborn - Dwemer Compass Replacer  
   Pets of Skyrim (CC) Collision Patch  
+  ElSopa - HD Iron Tools Redone SE  
+  Fixed Nordic Metal Grate  
+  Nordic Carved Armors and Weapons Retexture SE  
+  8k 4k Nordic Mountains - Just Textures  
+  Enhanced Volumetric Lighting and Shadows (EVLaS)  
+  Just Ice  
+  Praedy's Soul Cairn - SE  
+  Lod Model Library for DynDOLOD  
+  Rudy HQ - More Lights for ENB SE - Moths and Fireflys  
+  Butterfly Improved by zzjay - SE  
+  Blackthorn Textures - 2K  
+  Clockwork - Particle Lights for ENB Addon  
+  Cow Replacer- Mihail Monsters and Animals (SE-AE version)  
+  JS Torture Tools SE  
+  Thrones of Skyrim  
+  Serio Redone Exclusion Inclusion Patches  
   
   <b>UPDATED</b>
   
@@ -249,6 +265,8 @@ New Save Required.
   Nord Set - Resurgence  
   Orcish Set - Resurgence  
   Steel Set - Resurgence  
+  Nordic Carved Set - Resurgence  
+  Soul Cairn HD  
   
   </details>
 
