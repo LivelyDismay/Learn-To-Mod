@@ -154,7 +154,7 @@ If you already started your save prior to enabling this mod: exit the game, enab
 
 ---
 
-##Ultrawide Support
+## Ultrawide Support
 
 At the bottom of MO2, there is a separator named `Optional - Ultrawide Support`. Enable all mods in this section prior to launching SKSE through MO2 and playing your game.  
 
