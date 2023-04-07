@@ -18,11 +18,9 @@
     - [Preparations](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#preparations)
       - [Problems with Wabbajack](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#problems-with-wabbajack)
 - [Post Installation](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#post-installation)
-- [A Few Quick Notes](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#a-few-quick-notes)
-- [Hotkeys](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#hotkeys)
 - [Controller Support](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#controller-support)
+- [Ultrawide Support](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#ultrawide-support)
 - [FAQ](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#faq)
-- [Widescreen Support](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#widescreen-support)
 - [Contact](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#contact)
 
 ---
@@ -114,7 +112,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 - **I'm having problems downloading a few files**
 
-That sucks. Pop on over to [my Discord server for live support.](https://discord.gg/yABEjwB)
+You almost certainly forgot to download the AE CC content, or you didn't buy it. Purchase the AE DLC from Steam, then launch the game to download the content. If this doesn't fix it, you'll have to pop on over to [my Discord server for live support.](https://discord.gg/yABEjwB)
 
 - **Wabbajack could not find my game folder**:
 
@@ -149,32 +147,16 @@ This section [has been moved to its own page, just to really make it stand out i
 
 ---
 
-## A Few Quick Notes
-
- - It is recommended that you leave the Abandoned Prison prior to reporting any issues to me. Please.
- - I hate Survival Mode and I won't play it. Survival-specific bug reports will be ignored and you'll be told to come read the FAQ.
- - Time your parries (shield bash attacks) to reflect magic + projectile damage back to your attacker, or stagger melee attackers.
-
----
-
-## Hotkeys
-
-Tempus Maledictum makes liberal use of MCM Helper and MCM Recorder. This means most things are set up for you. To help you along, here are the default hotkeys I use:
-
-Toggle HUD - Mouse3.  
-Dodge - Mouse4.  
-Target Lock-on - F. (You can long-press F to change POV).  
-Target Lock-on Swap - Mouse Wheel + Mouse movement. A bit less sensitive than the default value (32 > 50).  
-Sneak - Left Control.  
-Handy Crafting Storage - Right Alt.  
-Mouse1 (hold): Constantly perform light attacks.  
-Shift+Mouse1: Power attack to "end" the combo.  
-
----
-
 ## Controller Support
 
-To enable controller support, open The Ultimate Dodge Mod MCM and Enable Controller support. Set it to Sneak Style 2.
+At the bottom of MO2, there is a separator named `Optional - Controller Support`. Enable this prior to launching SKSE and starting your game.  
+If you already started your save prior to enabling this mod: exit the game, enable the optional controller support mod, launch the game, then open your MCM menus, scroll down to MCM Recorder, and run the Tempus v5 recording again.  
+
+---
+
+##Ultrawide Support
+
+At the bottom of MO2, there is a separator named `Optional - Ultrawide Support`. Enable all mods in this section prior to launching SKSE through MO2 and playing your game.  
 
 ---
 
@@ -182,11 +164,6 @@ To enable controller support, open The Ultimate Dodge Mod MCM and Enable Control
 
 [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeFAQ.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
 
----
-
-## Widescreen Support
-
-I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously. Sorry.
 
 ---
 
