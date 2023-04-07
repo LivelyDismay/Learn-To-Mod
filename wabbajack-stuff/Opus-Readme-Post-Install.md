@@ -10,14 +10,6 @@ Copy all of the files from the `MO2/Game Folder Files` directory into your game 
 
 ---
 
-#### Launching the Game
-
-After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
-
-You may notice some mods are deactivated. These are for the Creation Club profile. Please see the [Creation Club Support](#creation-club-support) section a bit further down for more information.
-
----
-
 ## BiRaitBec Texture Optimization
 
 **YES, IT'S MANDATORY. STOP ASKING.**
@@ -49,15 +41,26 @@ Due to how Wabbajack works, you only need to do this step ONCE. The `[NoDelete]`
 
 ---
 
+#### Launching the Game
+
+After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
+
+You may notice some mods are deactivated. These are for the Creation Club profile. Please see the [Creation Club Support](#creation-club-support) section a bit further down for more information.
+
+---
+
 ## Creation Club Support
 
+**A note from Lively:** CC Support sucks. The profile can often crash for some users due to what's called an Archive Limit. This variable tends to change for people and we have no idea why. The Creation Club mods don't add that much and most of them aren't that good. **I do not recommend buying them.** Besides, there is allegedly a Fallout 4 update coming soon that will include all the CC content, so just wait for that.  
+
 Magnum Opus now has support for some Creation Club mods as of version 3.2 of the modlist. To make use of this, you must follow a few steps:
-1. Click the profile dropdown menu at the top left of Mod Organizer 2, and make sure the active profile is set to `Magnum Opus`.
+1. Click the profile dropdown menu at the top left of Mod Organizer 2, and make sure the active profile is set to `Default`. If the default profile doesn't exist, just launch it through Steam.
 2. Launch the game and download your CC mods from the in-game storefront.
   -  Launching the game from Mod Organizer 2 will make all the creations download into your `overwrite` folder, which will make the next step a bit easier.
+  -  If you had to launch it from Steam, then all of these CC modules will be in your `steamapps/common/Fallout4/Data` folder.
 3. Cut and paste all of your CC mods into `Magnum Opus\mods\Creation Club Content`. 
 4. Activate the `Creation Club Content` mod in Mod Organizer 2, then change the active profile to `Magnum Opus - CC Edition`.
-  -  Please take note that **you will need all of the CC mods listed below** in order for the CC Edition profile to work. The list of required Creations is below:  
+  -  Please take note that **you will need all of the CC mods listed below** in order for the CC Edition profile to work, and **only** these CC mods. No more, no less. The list of required Creations is below:  
 
 <details>
   
