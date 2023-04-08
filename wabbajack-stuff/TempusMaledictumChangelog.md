@@ -275,6 +275,10 @@ New Save Required.
   EVG Animated Traversal Skyrim Integration Patch  
   EVG Traversal Animations - Dungeons addons  
   
+  
+  Integrated Controller Support. Please see the readme.  
+  Integrated Widescreen Support. Please see the readme.  
+  
   </details>
 
 ---  
