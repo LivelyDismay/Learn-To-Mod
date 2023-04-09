@@ -1,5 +1,13 @@
 2023/04/08
 
+Version 5.0.2
+
+Removed CK stuff from the compiler. Again. Maybe. This is frustrating.
+
+---
+
+2023/04/08
+
 Version 5.0.1
 
 Removed CK stuff from the compiler. Thought I did that already. Guess I missed a few files.
