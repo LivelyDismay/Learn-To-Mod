@@ -1,3 +1,38 @@
+2023/04/10
+
+Version 5.0.3
+
+<details>
+  <b>ADDED</b>
+
+  2K Raven Rock  
+  Ancient Pottery  
+  Auri Dismount AI Fix  
+  Better Mammoth Tusks  
+  Dovahnique's Diverse Dark Elf Lanters  
+  FYX - RavenRock Docks and Fences Round Posts  
+  Higher Poly Vanilla Cave Lamps  
+  Remiros' Dragonborn Alcohol  
+  Weathered Dark Elf Furniture Redux - Brown - 2K  
+  
+  <b>UPDATED</b>
+  
+  Cathedral Armory for CC - Patches  
+  Cathedral Armory - Misc Patches  
+  
+  <b>BUG FIXES</b>
+  
+  Fixed Daedric Helmet being invisible.  
+  Fixed werewolves turning invisible.  
+  Fixed Ragged Flagon lighting issues (I think).  
+  Removed one piece of floating hanging moss in the Reach.  
+  Lowered an idle marker on Solitude Docks.  
+  Moved LotD Shipping Boxes outside of Breezehome.  
+
+  </details>
+  
+---
+
 2023/04/08
 
 Version 5.0.2
