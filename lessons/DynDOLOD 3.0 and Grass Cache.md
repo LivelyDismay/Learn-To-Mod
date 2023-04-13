@@ -28,7 +28,7 @@ For the No Grass in Objects pre-cacher, place the plugin in the `plugins` folder
 
 Install DynDOLOD 3.0 Resources, checking all of the options aside from “Low-Res LOD Textures” and “Holy Cow”. You can use the Low-Res LOD if you wish, but I think it’s best not to. Once you have it installed, you want it placed relatively high in your left pane. I have it positioned in the following location:
 
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass1.jpg?raw=true)
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass2.jpg?raw=true)
 
 Finally, you’ll want to install the `SSE-Terrain-Tamriel Extended` ESM. This is only needed during xLODGen and should be placed at the far top of the load order, even above USSEP (since it just needs to add cells and not win conflicts). Once installed, activate it only when you are generating terrain lod with xLODGen and disable it when that is done.
 
@@ -38,7 +38,7 @@ Note: Some mods such as Majestic Mountains and Cathedral Landscapes come with fi
 
 Then select xLODGenx64 from the executables dropdown in MO2 and press `Run`. It will proceed to load your entire load order. When it is done, a Dialogue box will open similar to the following:
 
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass3.jpg)
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass3.jpg?raw=true)
 
 Right click in the `Worldspace` area and press `Select All`. Ensure that only Terrain LOD is selected and then apply your LOD settings. I use the Lexy LOTD xLODGen settings, [which can be found here](https://lexyslotd.com/guide/finishing-line/#xlodgen). They provide the best balance of quality and performance. Allow it to run and do its work. When complete, it will say “LOD Generation completed”. You can then close the program.
 
@@ -50,15 +50,15 @@ Navigate to where your xLODGen output folder is and create a zip folder of it. P
 
 Once you have completed xLODGen, it is now time for Grass Cache. Grass Cache is a relatively new technology that allows you to pre-cache grass for all worldspaces in the game. This prevents grass clipping into objects (same goal as the grass landscape fixing mods but no patching needed) and allows for DynDOLOD to create grass LODs to increase the distance which you can see grass and also can give a more stable experience. **Do note that grass LOD will reduce performance**. Before running grass cache, I recommend you use this script [here](https://www.nexusmods.com/skyrimspecialedition/mods/55152) to determine which locations to cache grass into and make the process faster by skipping cells without grass. Download that script and copy the extracted `pas` file into your xEdit edit scripts folder as shown below:
 
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass4.png)
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass4.png?raw=true)
 
 Open xEdit, allow all your plugins to load, and then apply the script. This process can take a while so grab a coffee. Once completed, a textbox will show on screen with the list of worldspaces to generate grass for. 
 
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass5.png)
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass5.png?raw=true)
 
 Copy this data and then go into your `No Grass In Objects` mod, open the INI file, and paste the data in between the "" in the `OnlyPregenerateWorldSpaces =` section. It is **vital** this data is in between the quotes, otherwise it will not be read. You can see an example of how it should look below:
 
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass6.png)
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass6.png?raw=true)
 
 Staying in the ini file, change the following lines to read the following:
 
@@ -103,11 +103,11 @@ Once it is completed, a pop-up will appear saying that grass generation has been
 ### TexGen
 Run TexGenx64 and Allow the tool to load your mods and then choose the following settings. **If you are not doing grass lods, untick the grass checkbox.** Note the output path as to where TexGen is sending the output.
 
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass7.png)
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass7.png?raw=true)
 
 Press `Start` and allow the tool to generate the textures. Once done, the tool will open a pop-up. Press `Exit` or `Zip&Exit` if you wish to have the output zipped up for easier addition to a mod-manager or redistribution. In this case, we're choosing `Zip&Exit` as that allows us to add the output as a new mod in MO2 easier.
 
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass8.png)
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass8.png?raw=true)
 
 Add the output as a new mod in Mod Organizer 2, and then activate it.
 
@@ -127,7 +127,7 @@ Save your changes and reopen MO2.
 
 Ensure that your xLODGen, TexGen and Grass Cache (if using) is active. Run DynDOLODx64 and allow it to load all your mods. In the top left section where it lists worldspaces, right click and press select all. Load the relevant rules that you want, in this case we’ll load medium rules. Set your settings to be the same as this:
 
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass9.png)
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass9.png?raw=true)
 
 Another note on settings. billboard brightness is one that you adjust if you find that your LODs are too bright in game. I have this set lower due to some of the tree mods I use. Ultra trees generates 3D tree lod and can be performance-intensive depending on the tree mods you use. Checking `Generate Tree Lod` will generate "Hybrid Lods" which are less performance intensive at the cost of a minor visual decrease in quality. If you have 4GB vram or less, I would recommend not doing Ultra Tree Lod. Anything above `1024` on tile size billboard is not recommended as you are beyond the threshold of visual quality to performance. And finally, the rules govern how DynDOLOD will generate things and at what quality. 
 
@@ -144,7 +144,7 @@ If using ACMOS, now set the LOD32 rules to this:
 
 Once you have configured the settings, click `OK` and DynDOLOD will begin generating LOD. This can take a very long time depending on how many worldspaces you have and on your CPU performance (especially scales with CPU core-count). Once it is completed, a pop-up will appear. As with TexGen, you have the option to either `Save & Exit` or `Save & Zip & Exit`. Again, the choice is yours however in this guide we'll choose to zip it up as well.
 
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass10.png)
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass10.png?raw=true)
 
 Install the zipped output file as a new mod in MO2, name it `DynDOLOD Output` and activate the mod. On the right pane, `DynDOLOD.esm` should be moved to be the last ESM after your worldspace mods. In my case, that is Wyrmstooth so I place it after `Wyrmstooth.esm`. `DynDOLOD.esp` should be the second last and `Occlusion.esp` shoud be the last plugin in your load order.
 
