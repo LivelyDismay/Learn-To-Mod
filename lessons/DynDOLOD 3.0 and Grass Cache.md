@@ -28,7 +28,7 @@ For the No Grass in Objects pre-cacher, place the plugin in the `plugins` folder
 
 Install DynDOLOD 3.0 Resources, checking all of the options aside from “Low-Res LOD Textures” and “Holy Cow”. You can use the Low-Res LOD if you wish, but I think it’s best not to. Once you have it installed, you want it placed relatively high in your left pane. I have it positioned in the following location:
 
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass2.jpg)
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass1.jpg?raw=true)
 
 Finally, you’ll want to install the `SSE-Terrain-Tamriel Extended` ESM. This is only needed during xLODGen and should be placed at the far top of the load order, even above USSEP (since it just needs to add cells and not win conflicts). Once installed, activate it only when you are generating terrain lod with xLODGen and disable it when that is done.
 
