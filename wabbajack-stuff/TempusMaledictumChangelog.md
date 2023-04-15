@@ -1,3 +1,41 @@
+2023/04/15
+
+Version 5.0.4
+
+<details>
+  
+  <b>ADDED</b>
+  
+  - Controller-mapping Unbound  
+  - Silver Armor and Weapons Retexture SE  
+  - Septentrional Landscapes 2K  
+  - Northern Shores 2K  
+  - Snow - HD Texture Replacer with Parallax  
+  - Rudy - More dramatic Red Mountain Plume  
+  
+  <b>REMOVED</b>
+  
+  - The Omnibus - Terrain Complex Parallax AiO  
+  - Tundra - HD Texture Replacer with Parallax  
+  
+  <b>UPDATED</b>
+  
+  - Skyland AIO
+  
+  <b>FIXED</b>
+  
+  - Refinalized navmeshes to successfully complete the door link from the Soul Cairn to Apocrypha. Valerica will no longer get stuck during the Beyond Death quest in Dawnguard.  
+  - The "Return to Breezehome" spell has several issues. First, there was a typo in the description. That's fixed. Second, it teleported you into the Armory room, which is a purchasable upgrade. Now it will teleport you into the main area instead of the Armory, so you should no longer be stuck inside.  
+  - Breezehome Exterior purchasable upgrade was revamped instead of removed. Now the landscape pieces will be enabled by default, and the upgrade you purchase will be for the furniture, rugs, lights, and things like that.  
+  - Snowy treasure chests had weird textures.  
+  - Iron gauntlets had a broken mesh that could cause a crash.  
+  - Changed Miraak's gloves from Clothing to Light Armor.  
+  - Changed some settings for Show Player in Menu. Please stop reporting that your inventory models are broken. They aren't broken. They just aren't vanilla. This is a modded setup. Sometimes things aren't vanilla.  
+  
+  </details>
+
+---
+
 2023/04/10
 
 Version 5.0.3
