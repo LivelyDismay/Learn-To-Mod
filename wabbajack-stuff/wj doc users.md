@@ -1,14 +1,20 @@
 # Wabbajack for Users
 
+---
+
 ### So what is Wabbajack anyway?
 
 Wabbajack is an automated Modlist installer, making sharing your modded setups or installing the setups of others a more streamlined experience and giving list creators all the tools they need.
+
+---
 
 ### Why is a program like this necessary?
 
 Well, that part gets a little complicated. Bethesda's EULA states that modders own the work they create within the Creation Kit or any tools provided to the community by Bethesda Game Studios. This means people like you and me cannot reupload or redistribute these files. That's where Wabbajack comes in.
 
 All files from a modlist are downloaded directly from the source. This means there is no redistribution of files, no sharing of assets, and nothing that violates the rights of any mod authors and creators.
+
+---
 
 ### How does Wabbajack work?
 
@@ -19,6 +25,8 @@ Wabbajack is, in essence, a modding guide. The only real difference is that the 
 Much of this workload is handled by something called **binary patching**. To keep this simple, this is most easily explained as such: Wabbajack identifies the files inside of the archives that have been downloaded, compares them to the files that need to be installed, and edits the source files to perfectly match the installed files.
 
 More information about binary patching is available on the Developer page.
+
+---
 
 ### Can a Wabbajack modlist require payment?
 
