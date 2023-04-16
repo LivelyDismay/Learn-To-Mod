@@ -1,5 +1,14 @@
 2023/04/16
 
+Version 5.0.6
+
+Recompile in an attempt to fix hash mismatch errors because nobody truly knows why this happens so this is the only thing i can really even attempt to do to fix it plz ty  
+MO2 version number probably still says 5.0.5. This is fine. plz.
+
+---
+
+2023/04/16
+
 Version 5.0.5
 
 Recompile to include two patches I accidentally left out of the compile. My bad.
