@@ -1,3 +1,11 @@
+2023/04/16
+
+Version 5.0.5
+
+Recompile to include two patches I accidentally left out of the compile. My bad.
+
+---
+
 2023/04/15
 
 Version 5.0.4
