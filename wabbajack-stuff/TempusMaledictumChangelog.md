@@ -1,3 +1,26 @@
+WIP
+
+Version 5.0.7
+
+<details>
+  **ADDED**
+  
+  Clockwork - No Lockpick Activate (SKSE) Patch  
+  Wynter's Breezehome - Wintersun - Legacy of the Dragonborn Patch
+  
+  **UPDATED**
+  
+  Unofficial Skyrim Special Edition Patch  
+  Completionist - Skyrim Completion Tracker  
+  
+  **FIXED**
+  
+  Deep Elf item values were ridiculous. Most are now 10% of what they were; some are even lower.  
+  Deep Elf item crafting was a bit ridiculous. No more clearing one dungeon and coming out with 900+ dwarven ingots.  
+</details>
+
+---  
+
 2023/04/16
 
 Version 5.0.6
