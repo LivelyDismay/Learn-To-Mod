@@ -24,6 +24,7 @@ Version 5.0.7
   Deep Elf item crafting was a bit ridiculous. No more clearing one dungeon and coming out with 900+ dwarven ingots.  
   Grand champion helm was invisible on equip.  
   Butterflies in Shivering Isles were upside down, just like vanilla.  
+  Missing controller config files.  
   
   DISMISS ANY SUMMONS YOU HAVE PRIOR TO UPDATING.
 </details>
