@@ -14,6 +14,8 @@ When you're done creating your character, you'll have a whole lot of messages sc
 
  - If you chose the Deep Elf race, you'll also get a prompt asking what kind of Smithing you'd like to start with.
 
+Please pick up the book next to the Statue of Mara.  
+
 When the messages in the top left corner have stopped, speak to the Statue of Mara and choose how you'd like to start the game. Some notable entries:
 
  - **Arrived by ship: Solitude** - gives you the option to kickstart the Legacy of the Dragonborn questline.
