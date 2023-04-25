@@ -25,8 +25,9 @@ Version 5.0.7
   Grand champion helm was invisible on equip.  
   Butterflies in Shivering Isles were upside down, just like vanilla.  
   Missing controller config files.  
+  Disabled Strange Runes shadow casting. Should fix lighting crashes.  
   
-  DISMISS ANY SUMMONS YOU HAVE PRIOR TO UPDATING.
+  **DISMISS ANY SUMMONS YOU HAVE ACTIVE PRIOR TO UPDATING.**  
 </details>
 
 ---  
