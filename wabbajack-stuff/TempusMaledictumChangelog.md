@@ -1,3 +1,11 @@
+2023/04/25
+
+Version 5.0.8
+
+Fixed QuickLoot stuff. Enjoy your icon resurgence or whatever.
+
+---
+
 2023/04/24
 
 Version 5.0.7
