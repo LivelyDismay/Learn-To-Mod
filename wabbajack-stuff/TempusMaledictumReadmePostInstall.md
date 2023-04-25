@@ -26,9 +26,7 @@ You'll get some pop-ups welcoming you to the list. Your MCMs are done for you on
 
 Once you choose your start, sleep in the bed to begin the game.
 
-When you first make your way to an exterior cell, you'll have a few pop-ups. One is for Survival Mode. If you'd like to play with it enabled, go for it. **I do not play Survival Mode, and I am unlikely to fix any bugs related to it.**
-
-You'll also get a prompt for Religion. Read through the options and choose whichever you like - or none at all. You can change your selection at any time via visiting shrines or reading certain books, so don't feel like you're locked into a singular option.
+You'll get a prompt for Religion once you step outside. Read through the options and choose whichever you like - or none at all. You can change your selection at any time via visiting shrines or reading certain books, so don't feel like you're locked into a singular option.
 
 I think that about covers it. Enjoy the game, I hope you have fun, and as always - don't forget to [read the FAQ](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeFAQ.md).
 
