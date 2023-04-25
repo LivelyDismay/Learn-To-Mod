@@ -4,7 +4,7 @@ Version 5.0.7
 
 <details>
  
-  **ADDED**
+  **ADDED**  
   
   - Clockwork - No Lockpick Activate (SKSE) Patch  
   - Wynter's Breezehome - Wintersun - Legacy of the Dragonborn Patch
