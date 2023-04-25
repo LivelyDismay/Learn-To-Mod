@@ -12,11 +12,20 @@ Version 5.0.7
   
   Unofficial Skyrim Special Edition Patch  
   Completionist - Skyrim Completion Tracker  
-  
+  Simply Order Summons  
+  Swiftly Order Squad  
+  Spell Perk Item Distributor (SPID)  
+  Simplicity of Snow  
+  Icy Windhelm  
+   
   **FIXED**
   
   Deep Elf item values were ridiculous. Most are now 10% of what they were; some are even lower.  
   Deep Elf item crafting was a bit ridiculous. No more clearing one dungeon and coming out with 900+ dwarven ingots.  
+  Grand champion helm was invisible on equip.  
+  Butterflies in Shivering Isles were upside down, just like vanilla.  
+  
+  DISMISS ANY SUMMONS YOU HAVE PRIOR TO UPDATING.
 </details>
 
 ---  
