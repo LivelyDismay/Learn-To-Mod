@@ -3,6 +3,7 @@ WIP
 Version 5.0.7
 
 <details>
+ 
   **ADDED**
   
   - Clockwork - No Lockpick Activate (SKSE) Patch  
