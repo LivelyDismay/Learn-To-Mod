@@ -1,3 +1,11 @@
+WIP
+
+Adjusted Aetherial Dwemervamidium temper recipe to require 25 dwarven ingots instead of 1.  
+Removed bow & arrows from Daenlit (Wyrmstooth).  
+Made some patches for CRAFT.  
+
+---
+
 2023/04/25
 
 Version 5.0.8
