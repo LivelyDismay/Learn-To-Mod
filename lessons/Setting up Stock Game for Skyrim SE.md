@@ -126,5 +126,13 @@ PCA SE does not require any special setup other than telling it where the game i
 
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/Stock%20Game%2013.png)
 
+### Wrye Bash
+
+To setup Wrye Bash, an additional argument must be passed to the executable. This argument is `-o "C:\\Path\\To\\Folder\\Game Root\\"`, making sure to use double blackslashes, like so:
+
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/Stock%20Game%2014.png)
+
+To make sure it works, you should launch Wrye Bash, and it should take you directly into its main screen. If Wrye Bash goes into a screen that asks you to choose a game to manage, you got the path wrong.
+
 ## Conclusion
 Whilst Stock Game might seem like a difficult thing to setup, in actuality it's not that tricky. By ensuring you use the correct paths and tell tools where things are, you can have totally seperated instances of modded games.
