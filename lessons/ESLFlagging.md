@@ -1,5 +1,9 @@
 # Flagging Plugins as ESL: How-To, Pros, and Cons
 
+Check out my [One Minute Modding](https://www.youtube.com/shorts/maAWv4CCkOk) video on simple ESL flagging, or read on it you prefer text format.
+
+---
+
 So you've been following my tutorials for a while. You added a bunch of mods, you patched them, you ran the Item Sorting script, and now...your game won't load, or your MCMs keep reverting back to their defaults, or your mods are acting strangely. Turns out there's a plugin limit of 254 ESMs+ESPs. You can view how many you have in MO2 if you just click the Plugin count:  
 ![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/ea266971c5ba254dd1c8f05a99c19d11e9fe2711/images/esl1.png)
 
