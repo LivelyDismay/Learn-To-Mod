@@ -1,5 +1,7 @@
 # How To Remove a Master Requirement From a Plugin
 
+Check out my [One Minute Modding](https://www.youtube.com/shorts/maAWv4CCkOk) video on how to simply remove a Master, or read on if you prefer a text format.
+
 ---
 
 ### Scenario 1
