@@ -1,5 +1,11 @@
 # DynDOLOD 3.0 and Grass Lods for Skyrim SE - by Althro
 
+---
+
+There is a more up-to-date guide on [Althro's github](https://github.com/The-Animonculory/Modding-Resources/blob/main/DynDOLOD.md).
+
+---
+
 ## Intro
 So you’ve got your modlist all nice and ready and are now onto the process of creating lods for your game. But how do I do them, and what on earth is a grass cache?
 
