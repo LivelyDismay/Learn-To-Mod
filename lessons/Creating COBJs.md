@@ -2,7 +2,7 @@
 
 ---
 
-Check out my [One Minute Modding](https://youtube.com/shorts/smZJH4wLwrU?feature=share) video on simple ESL flagging, and another on [Compacting for ESL](https://youtube.com/shorts/OctSl-glTzw?feature=share), or read on if you prefer text format.
+Check out my [One Minute Modding](https://youtube.com/shorts/smZJH4wLwrU?feature=share) for a video version, or read on if you prefer text.
 
 ---
 
