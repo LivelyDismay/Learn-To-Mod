@@ -1,5 +1,11 @@
 # Constructible Object Records
 
+---
+
+Check out my [One Minute Modding](https://youtube.com/shorts/smZJH4wLwrU?feature=share) video on simple ESL flagging, and another on [Compacting for ESL](https://youtube.com/shorts/OctSl-glTzw?feature=share), or read on if you prefer text format.
+
+---
+
 "Lively, you talk about COBJs constantly and that's all well and good, but there's just one problem: *I don't know what the hell a COBJ is.*"
 
 I got you, fam.
