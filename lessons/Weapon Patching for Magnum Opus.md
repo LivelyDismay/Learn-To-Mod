@@ -1,5 +1,11 @@
 # How to Properly Add and Patch Weapon Mods for Magnum Opus
 
+---
+
+Check out my [One Minute Modding](https://youtube.com/shorts/Qd_1V5y68AY?feature=share) video on workbench patching, or read on if you prefer text format.
+
+---
+
 So, Magnum Opus is pretty much what you wanted about Fallout 4, but god dammit, you just really want this one gun mod you particularly enjoy...but you just don't know how to add it to the list properly. Lucky for you, I enjoy teaching! Let's add a mod together.
 
 For the purposes of this exercise, I'll add the [FACTOR Modular Rifle](https://www.nexusmods.com/fallout4/mods/32908). We will be using the FULL version. Go ahead and download that, then install it in MO2 and activate it. If prompted, do not unpack the ba2 archive. 
