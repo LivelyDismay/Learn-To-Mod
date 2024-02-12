@@ -1,6 +1,6 @@
 # Flagging Plugins as ESL: How-To, Pros, and Cons
 
-Check out my [One Minute Modding](https://www.youtube.com/shorts/maAWv4CCkOk) video on simple ESL flagging, or this video for [Compacting for ESL](https://youtube.com/shorts/OctSl-glTzw?feature=share), or read on if you prefer text format.
+Check out my [One Minute Modding](https://youtube.com/shorts/oa7Z5TJLbzE?si=aHOSpxbEk-8_abZB) video on simple ESL flagging, or this video for [Compacting for ESL](https://youtube.com/shorts/OctSl-glTzw?feature=share), or read on if you prefer text format.
 
 ---
 
