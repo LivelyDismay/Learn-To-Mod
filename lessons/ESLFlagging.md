@@ -57,7 +57,15 @@ First, I'm sure you're asking why some plugins can be flagged outright, and why 
 
 A quick sidenote: if you compact FormIDs, **you cannot continue an ongoing save with that mod**. You absolutely cannot change formIDs mid-save. Ever. No way around it.
 
-Moving on...
+Here are a few notes about mods you should **NOT** be compacting:
+- Anything with scripts
+- Anything with an MCM
+- Mods that add new cells
+- Mods with voice acted quests
+
+I've also (quite recently) encountered an issue in Fallout 4 where having 795 or more ESL flagged plugins loaded at once would cause all decals to disappear, like blood splatter and bullet holes. I've yet to see anyone else ever talk about this, so I'm not sure what the deal is there, but if you have this issue, merge some of your patches together into one larger patch to get that ESL count lower.
+
+Anyway, moving on.
 
 In the right pane, make sure the Messages tab at the bottom is active. Above the entry for M8r Complex Sorter.esp is this:  
 `[E7] SS2_XDI Patch.esp
